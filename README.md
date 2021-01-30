@@ -6,11 +6,17 @@ To contribute , see [Contributing.md](https://github.com/CSwala/awesome-career-p
 
 ### [Amazon](https://www.amazon.jobs/en-gb/)
 
+### [Apple](https://www.apple.com/jobs/in/)
+
 ### [Cisco](https://jobs.cisco.com/)
 
 ### [Directi](https://careers.directi.com/)
 
+### [Envestnet Yodlee](https://www.yodlee.com/company/careers)
+
 ### [Facebook](https://www.facebook.com/careers/)
+
+### [Flipkart](https://www.flipkartcareers.com/#!/)
 
 ### [Gojek](https://www.gojek.io/careers/)
 
@@ -18,9 +24,10 @@ To contribute , see [Contributing.md](https://github.com/CSwala/awesome-career-p
 
 ### [Infosys](https://www.infosys.com/careers.html)
 
+### [Intuit](https://www.intuit.com/careers/)
+
 ### [JP Morgan](https://careers.jpmorgan.com/us/en/home)
 
 ### [McAfee](https://careers.mcafee.com/search-jobs)
 
-### [Oracle](https://www.oracle.com/in/corporate/careers/)
-
+### [Nagarro](https://www.nagarro.com/en/careers)
