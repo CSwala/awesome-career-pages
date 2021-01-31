@@ -8,7 +8,11 @@ To contribute , see [Contributing.md](https://github.com/CSwala/awesome-career-p
 
 ### [Apple](https://www.apple.com/jobs/in/)
 
+### [Atlassian](https://www.atlassian.com/company/careers)
+
 ### [Cisco](https://jobs.cisco.com/)
+
+### [Code Nation](http://codenation.co.in/hiringphilosophy.html)
 
 ### [Directi](https://careers.directi.com/)
 
@@ -31,3 +35,11 @@ To contribute , see [Contributing.md](https://github.com/CSwala/awesome-career-p
 ### [McAfee](https://careers.mcafee.com/search-jobs)
 
 ### [Nagarro](https://www.nagarro.com/en/careers)
+
+### [Oracle](https://www.oracle.com/in/corporate/careers/)
+
+### [OYO](https://www.oyorooms.com/careers/)
+
+### [Urban Company](https://careers.urbancompany.com/)
+
+### [Zomato](hhttps://www.zomato.com/careers)
