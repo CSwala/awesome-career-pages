@@ -36,6 +36,8 @@ To contribute , see [Contributing.md](https://github.com/CSwala/awesome-career-p
 
 ### [Nagarro](https://www.nagarro.com/en/careers)
 
+### [Oracle](https://www.oracle.com/in/corporate/careers/)
+
 ### [OYO](https://www.oyorooms.com/careers/)
 
 ### [Urban Company](https://careers.urbancompany.com/)
