@@ -42,4 +42,4 @@ To contribute , see [Contributing.md](https://github.com/CSwala/awesome-career-p
 
 ### [Urban Company](https://careers.urbancompany.com/)
 
-### [Zomato](hhttps://www.zomato.com/careers)
+### [Zomato](https://www.zomato.com/careers)
