@@ -1,7 +1,7 @@
 # Awesome Career Pages
 ## 💻 An awesome list of job portals and career pages of top Startups, Product Based and Service Based Companies Along with the list of websites that are the best to find new openings📰🔥!!
 
-<img src="https://emoji.discord.st/emojis/DiscordLuv.gif">Join the Discord Server [here](https://discord.gg/rAz3Eb8fsN)
+<img src="https://emoji.discord.st/emojis/DiscordLuv.gif" height="30" width="30">Join the Discord Server [here](https://discord.gg/rAz3Eb8fsN)
 
 💻💻Follow us on [LinkedIn](https://www.linkedin.com/company/cswala)
 
