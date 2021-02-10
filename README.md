@@ -3,6 +3,9 @@
 
 <img src="https://emoji.discord.st/emojis/DiscordLuv.gif">Join the Discord Server [here](https://discord.gg/rAz3Eb8fsN)
 
+💻💻Follow us on [LinkedIn](https://www.linkedin.com/company/cswala)
+
+
 ![GitHub forks](https://img.shields.io/github/forks/CSwala/awesome-career-pages) 
 ![GitHub Repo stars](https://img.shields.io/github/stars/CSwala/awesome-career-pages)
 <br>
