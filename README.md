@@ -55,6 +55,12 @@
 
 ### [OYO](https://www.oyorooms.com/careers/)
 
+### [Persistent](https://www.persistent.com/careers/)
+
+### [Sprinklr](https://www.sprinklr.com/careers)
+
+### [TCS](https://www.tcs.com/careers?country=IN&lang=EN)
+
 ### [Urban Company](https://careers.urbancompany.com/)
 
 ### [Zomato](https://www.zomato.com/careers)
