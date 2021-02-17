@@ -1,0 +1,97 @@
+[
+	 {
+		"Title" : "Adobe" ,
+		 "Link" : "https://www.adobe.com/careers.html"},
+
+	 {
+		"Title" : "Amazon" ,
+		 "Link" : "https://www.amazon.jobs/en-gb/"},
+
+	 {
+		"Title" : "Apple" ,
+		 "Link" : "https://www.apple.com/jobs/in/"},
+
+	 {
+		"Title" : "Atlassian" ,
+		 "Link" : "https://www.atlassian.com/company/careers"},
+
+	 {
+		"Title" : "Cisco" ,
+		 "Link" : "https://jobs.cisco.com/"},
+
+	 {
+		"Title" : "Code Nation" ,
+		 "Link" : "http://codenation.co.in/hiringphilosophy.html"},
+
+	 {
+		"Title" : "Directi" ,
+		 "Link" : "https://careers.directi.com/"},
+
+	 {
+		"Title" : "Envestnet Yodlee" ,
+		 "Link" : "https://www.yodlee.com/company/careers"},
+
+	 {
+		"Title" : "Facebook" ,
+		 "Link" : "https://www.facebook.com/careers/"},
+
+	 {
+		"Title" : "Flipkart" ,
+		 "Link" : "https://www.flipkartcareers.com/#!/"},
+
+	 {
+		"Title" : "Gojek" ,
+		 "Link" : "https://www.gojek.io/careers/"},
+
+	 {
+		"Title" : "Google" ,
+		 "Link" : "https://careers.google.com/"},
+
+	 {
+		"Title" : "Infosys" ,
+		 "Link" : "https://www.infosys.com/careers.html"},
+
+	 {
+		"Title" : "Intuit" ,
+		 "Link" : "https://www.intuit.com/careers/"},
+
+	 {
+		"Title" : "JP Morgan" ,
+		 "Link" : "https://careers.jpmorgan.com/us/en/home"},
+
+	 {
+		"Title" : "McAfee" ,
+		 "Link" : "https://careers.mcafee.com/search-jobs"},
+
+	 {
+		"Title" : "Nagarro" ,
+		 "Link" : "https://www.nagarro.com/en/careers"},
+
+	 {
+		"Title" : "Oracle" ,
+		 "Link" : "https://www.oracle.com/in/corporate/careers/"},
+
+	 {
+		"Title" : "OYO" ,
+		 "Link" : "https://www.oyorooms.com/careers/"},
+
+	 {
+		"Title" : "Persistent" ,
+		 "Link" : "https://www.persistent.com/careers/"},
+
+	 {
+		"Title" : "Sprinklr" ,
+		 "Link" : "https://www.sprinklr.com/careers"},
+
+	 {
+		"Title" : "TCS" ,
+		 "Link" : "https://www.tcs.com/careers?country=IN&lang=EN"},
+
+	 {
+		"Title" : "Urban Company" ,
+		 "Link" : "https://careers.urbancompany.com/"},
+
+	 {
+		"Title" : "Zomato" ,
+		 "Link" : "https://www.zomato.com/careers"}
+]
