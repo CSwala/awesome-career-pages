@@ -10,7 +10,7 @@
 
 4. Wait for the approval from the Maintainers of this project before startig to work on it.
 
-5. Add only links of the career page as to have transparency in navigating to them. Also add these to Portal.json [file](https://github.com/CSwala/awesome-career-pages/blob/main/portal.json).
+5. Add only links of the career page as to have transparency in navigating to them. Also add these to Portal.json [file](https://github.com/CSwala/awesome-career-pages/blob/main/Portal.json).
 
 6. Create a pull request after making the changes .
 
