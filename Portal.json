@@ -24,6 +24,10 @@
 		 "Link" : "http://codenation.co.in/hiringphilosophy.html"},
 
 	 {	"iscompany"	: true,
+		"Title" : "DE Shaw" ,
+		 "Link" : "https://www.deshawindia.com/careers"},
+
+	 {	"iscompany"	: true,
 		"Title" : "Directi" ,
 		 "Link" : "https://careers.directi.com/"},
 
@@ -42,6 +46,10 @@
 	 {	"iscompany"	: true,
 		"Title" : "Gojek" ,
 		 "Link" : "https://www.gojek.io/careers/"},
+
+ 	 {	"iscompany"	: true,
+		"Title" : "Goldman Sachs" ,
+		 "Link" : "https://www.goldmansachs.com/careers/"},
 
 	 {	"iscompany"	: true,
 		"Title" : "Google" ,
@@ -90,6 +98,10 @@
 	 {	"iscompany"	: true,
 		"Title" : "Urban Company" ,
 		 "Link" : "https://careers.urbancompany.com/"},
+
+ 	 {	"iscompany"	: true,
+		"Title" : "Wipro" ,
+		 "Link" : "https://careers.wipro.com/careers-home/"},
 
 	 {	"iscompany"	: true,
 		"Title" : "Zomato" ,
