@@ -29,6 +29,8 @@
 
 ### [Code Nation](http://codenation.co.in/hiringphilosophy.html)
 
+### [DE Shaw](https://www.deshawindia.com/careers)
+
 ### [Directi](https://careers.directi.com/)
 
 ### [Envestnet Yodlee](https://www.yodlee.com/company/careers)
@@ -38,6 +40,8 @@
 ### [Flipkart](https://www.flipkartcareers.com/#!/)
 
 ### [Gojek](https://www.gojek.io/careers/)
+
+### [Goldman Sachs](https://www.goldmansachs.com/careers/)
 
 ### [Google](https://careers.google.com/)
 
@@ -62,6 +66,8 @@
 ### [TCS](https://www.tcs.com/careers?country=IN&lang=EN)
 
 ### [Urban Company](https://careers.urbancompany.com/)
+
+### [Wipro](https://careers.wipro.com/careers-home/)
 
 ### [Zomato](https://www.zomato.com/careers)
 
