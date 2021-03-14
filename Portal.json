@@ -74,7 +74,11 @@
 	 {	"iscompany"	: true,
 		"Title" : "Nagarro" ,
 		 "Link" : "https://www.nagarro.com/en/careers"},
-
+	
+	 {	"iscompany"	: true,
+		"Title" : "OLA" ,
+		"Link" : "https://www.olacabs.com/careers"},	
+		 
 	 {	"iscompany"	: true,
 		"Title" : "Oracle" ,
 		 "Link" : "https://www.oracle.com/in/corporate/careers/"},
@@ -92,8 +96,16 @@
 		 "Link" : "https://www.sprinklr.com/careers"},
 
 	 {	"iscompany"	: true,
+		"Title" : "Swiggy" ,
+		"Link" : "https://careers.swiggy.com/#/"},	 
+
+	 {	"iscompany"	: true,
 		"Title" : "TCS" ,
 		 "Link" : "https://www.tcs.com/careers?country=IN&lang=EN"},
+		 
+	{	"iscompany"	: true,
+		"Title" : "Uber" ,
+		"Link" : "https://www.uber.com/us/en/careers/"},	 
 
 	 {	"iscompany"	: true,
 		"Title" : "Urban Company" ,
@@ -102,6 +114,10 @@
  	 {	"iscompany"	: true,
 		"Title" : "Wipro" ,
 		 "Link" : "https://careers.wipro.com/careers-home/"},
+	
+	 {	"iscompany"	: true,
+		"Title" : "Zoho" ,
+		 "Link" : "https://www.zoho.com/recruit/career-site.html"},	 
 
 	 {	"iscompany"	: true,
 		"Title" : "Zomato" ,
