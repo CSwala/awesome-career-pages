@@ -55,6 +55,8 @@
 
 ### [Nagarro](https://www.nagarro.com/en/careers)
 
+### [OLA](https://www.olacabs.com/careers)
+
 ### [Oracle](https://www.oracle.com/in/corporate/careers/)
 
 ### [OYO](https://www.oyorooms.com/careers/)
@@ -63,11 +65,17 @@
 
 ### [Sprinklr](https://www.sprinklr.com/careers)
 
+### [Swiggy](https://careers.swiggy.com/#/)
+
 ### [TCS](https://www.tcs.com/careers?country=IN&lang=EN)
+
+### [Uber](https://www.uber.com/us/en/careers/)
 
 ### [Urban Company](https://careers.urbancompany.com/)
 
 ### [Wipro](https://careers.wipro.com/careers-home/)
+
+### [Zoho](https://www.zoho.com/recruit/career-site.html)
 
 ### [Zomato](https://www.zomato.com/careers)
 
