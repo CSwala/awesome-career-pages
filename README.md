@@ -16,18 +16,31 @@
 ![Maintenance](https://img.shields.io/maintenance/yes/2021)
 
 
+### [Accenture](https://www.accenture.com/in-en/careers)
 
 ### [Adobe](https://www.adobe.com/careers.html)
 
+### [Airtel](https://www.airtel.in/careers/)
+
 ### [Amazon](https://www.amazon.jobs/en-gb/)
 
+## [American Express](https://careers.americanexpress.com/)
+
 ### [Apple](https://www.apple.com/jobs/in/)
+
+### [Arcesium](https://www.arcesium.com/careers.html)
 
 ### [Atlassian](https://www.atlassian.com/company/careers)
 
 ### [Cisco](https://jobs.cisco.com/)
 
 ### [Code Nation](http://codenation.co.in/hiringphilosophy.html)
+
+### [Cognizant](https://careers.cognizant.com/professionals/na/en)
+
+### [Datadog](https://www.datadoghq.com/careers/)
+
+### [Deolitte](https://jobs2.deloitte.com/ui/en)
 
 ### [DE Shaw](https://www.deshawindia.com/careers)
 
@@ -45,15 +58,27 @@
 
 ### [Google](https://careers.google.com/)
 
+### [HSBC](https://www.hsbc.com/careers)
+
+### [Hyundai](https://www.hyundai.com/in/en/hyundai-story/career/overview.html)
+
 ### [Infosys](https://www.infosys.com/careers.html)
 
 ### [Intuit](https://www.intuit.com/careers/)
 
+### [InVision](https://www.invisionapp.com/careers)
+
 ### [JP Morgan](https://careers.jpmorgan.com/us/en/home)
+
+### [Juspay](https://www.juspay.in/careers)
+
+### [Mathworks](https://in.mathworks.com/company/jobs/opportunities.html)
 
 ### [McAfee](https://careers.mcafee.com/search-jobs)
 
 ### [Nagarro](https://www.nagarro.com/en/careers)
+
+### [Ola](https://ola.recruitee.com/)
 
 ### [Oracle](https://www.oracle.com/in/corporate/careers/)
 
@@ -61,13 +86,33 @@
 
 ### [Persistent](https://www.persistent.com/careers/)
 
+### [Quikr](https://www.quikr.com/html/jobs.php)
+
+### [Reliance](https://careers.ril.com/)
+
+### [Samsung](https://www.samsung.com/in/aboutsamsung/careers/careers-center/)
+
+### [Servicenow](https://www.servicenow.com/careers.html)
+
+### [Shell](https://www.shell.com/careers.html)
+
+### [Siemens](https://new.siemens.com/global/en/company/jobs/search-careers.html)
+
 ### [Sprinklr](https://www.sprinklr.com/careers)
 
+### [Swiggy](https://careers.swiggy.com/#/)
+
+### [S&P Global](https://careers.spglobal.com/jobs)
+
 ### [TCS](https://www.tcs.com/careers?country=IN&lang=EN)
+
+### [Uber](https://www.uber.com/us/en/careers/)
 
 ### [Urban Company](https://careers.urbancompany.com/)
 
 ### [Wipro](https://careers.wipro.com/careers-home/)
+
+### [Zoho](https://www.zoho.com/recruit/help/talent-sourcing/career-site.html)
 
 ### [Zomato](https://www.zomato.com/careers)
 
