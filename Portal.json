@@ -1,201 +1,201 @@
 [
 	{	"iscompany"	: true,
-	   "Title" : "Accenture" ,
+	        "Title" : "Accenture" ,
 		"Link" : "https://www.accenture.com/in-en/careers"},
 
 	{	"iscompany"	: true,
-	   "Title" : "Adobe" ,
+	         "Title" : "Adobe" ,
 		"Link" : "https://www.adobe.com/careers.html"},
    
 	{	"iscompany"	: true,
-	   "Title" : "Airtel" ,
+	        "Title" : "Airtel" ,
 		"Link" : "https://www.airtel.in/careers/"},
 
 	{	"iscompany"	: true,
-	   "Title" : "Amazon" ,
+	        "Title" : "Amazon" ,
 		"Link" : "https://www.amazon.jobs/en-gb/"},
    
 	{	"iscompany"	: true,
-	   "Title" : "American Express" ,
+	        "Title" : "American Express" ,
 		"Link" : "https://careers.americanexpress.com/"},
 
 	{	"iscompany"	: true,
-	   "Title" : "Apple" ,
+	        "Title" : "Apple" ,
 		"Link" : "https://www.apple.com/jobs/in/"},
    
 	{	"iscompany"	: true,
-	   "Title" : "Arcesium" ,
+	        "Title" : "Arcesium" ,
 		"Link" : "https://www.arcesium.com/careers.html"},
 
 	{	"iscompany"	: true,
-	   "Title" : "Atlassian" ,
+	        "Title" : "Atlassian" ,
 		"Link" : "https://www.atlassian.com/company/careers"},
 
 	{	"iscompany"	: true,
-	   "Title" : "Cisco" ,
+	        "Title" : "Cisco" ,
 		"Link" : "https://jobs.cisco.com/"},
 
 	{	"iscompany"	: true,
-	   "Title" : "Code Nation" ,
+	        "Title" : "Code Nation" ,
 		"Link" : "http://codenation.co.in/hiringphilosophy.html"},
 
 	{	"iscompany"	: true,
-	   "Title" : "Cognizant" ,
+	        "Title" : "Cognizant" ,
 		"Link" : "https://careers.cognizant.com/professionals/na/en"},
 
 	{	"iscompany"	: true,
-	   "Title" : "Datadog" ,
+	        "Title" : "Datadog" ,
 		"Link" : "https://www.datadoghq.com/careers/"},
 
 	{	"iscompany"	: true,
-	   "Title" : "Deolite" ,
+	        "Title" : "Deolite" ,
 		"Link" : "https://jobs2.deloitte.com/ui/en"},
 
 	{	"iscompany"	: true,
-	   "Title" : "DE Shaw" ,
+	        "Title" : "DE Shaw" ,
 		"Link" : "https://www.deshawindia.com/careers"},
 
 	{	"iscompany"	: true,
-	   "Title" : "Directi" ,
+	        "Title" : "Directi" ,
 		"Link" : "https://careers.directi.com/"},
 
 	{	"iscompany"	: true,
-	   "Title" : "Envestnet Yodlee" ,
+	        "Title" : "Envestnet Yodlee" ,
 		"Link" : "https://www.yodlee.com/company/careers"},
 
 	{	"iscompany"	: true,
-	   "Title" : "Facebook" ,
+	        "Title" : "Facebook" ,
 		"Link" : "https://www.facebook.com/careers/"},
 
 	{	"iscompany"	: true,
-	   "Title" : "Flipkart" ,
+	        "Title" : "Flipkart" ,
 		"Link" : "https://www.flipkartcareers.com/#!/"},
 
 	{	"iscompany"	: true,
-	   "Title" : "Gojek" ,
+	        "Title" : "Gojek" ,
 		"Link" : "https://www.gojek.io/careers/"},
 
-	 {	"iscompany"	: true,
-	   "Title" : "Goldman Sachs" ,
+	{	"iscompany"	: true,
+	        "Title" : "Goldman Sachs" ,
 		"Link" : "https://www.goldmansachs.com/careers/"},
 
 	{	"iscompany"	: true,
-	   "Title" : "Google" ,
+	        "Title" : "Google" ,
 		"Link" : "https://careers.google.com/"},
 
 	{	"iscompany"	: true,
-	   "Title" : "HSBC" ,
+	        "Title" : "HSBC" ,
 		"Link" : "https://www.hsbc.com/careers"},
 
 	{	"iscompany"	: true,
-	   "Title" : "Hyundai" ,
+	        "Title" : "Hyundai" ,
 		"Link" : "https://www.hyundai.com/in/en/hyundai-story/career/overview.html"},
 
 	{	"iscompany"	: true,
-	   "Title" : "Infosys" ,
+	        "Title" : "Infosys" ,
 		"Link" : "https://www.infosys.com/careers.html"},
 
 	{	"iscompany"	: true,
-	   "Title" : "Intuit" ,
+	        "Title" : "Intuit" ,
 		"Link" : "https://www.intuit.com/careers/"},
 
 	{	"iscompany"	: true,
-	   "Title" : "InVision" ,
+	        "Title" : "InVision" ,
 		"Link" : "https://www.invisionapp.com/careers"},
 
 	{	"iscompany"	: true,
-	   "Title" : "JP Morgan" ,
+	        "Title" : "JP Morgan" ,
 		"Link" : "https://careers.jpmorgan.com/us/en/home"},
 
 	{	"iscompany"	: true,
-	   "Title" : "JusPay" ,
+	        "Title" : "JusPay" ,
 		"Link" : "https://www.juspay.in/careers"},
    
 	{	"iscompany"	: true,
-	   "Title" : "Mathworks" ,
+	        "Title" : "Mathworks" ,
 		"Link" : "https://in.mathworks.com/company/jobs/opportunities.html"},
 
 	{	"iscompany"	: true,
-	   "Title" : "McAfee" ,
+	        "Title" : "McAfee" ,
 		"Link" : "https://careers.mcafee.com/search-jobs"},
 
 	{	"iscompany"	: true,
-	   "Title" : "Nagarro" ,
+	        "Title" : "Nagarro" ,
 		"Link" : "https://www.nagarro.com/en/careers"},
 
 	{	"iscompany"	: true,
-	   "Title" : "Ola" ,
+	        "Title" : "Ola" ,
 		"Link" : "https://ola.recruitee.com/"},
 
 	{	"iscompany"	: true,
-	   "Title" : "Oracle" ,
+	        "Title" : "Oracle" ,
 		"Link" : "https://www.oracle.com/in/corporate/careers/"},
 
 	{	"iscompany"	: true,
-	   "Title" : "OYO" ,
+	        "Title" : "OYO" ,
 		"Link" : "https://www.oyorooms.com/careers/"},
 
 	{	"iscompany"	: true,
-	   "Title" : "Persistent" ,
+	        "Title" : "Persistent" ,
 		"Link" : "https://www.persistent.com/careers/"},
 
 	{	"iscompany"	: true,
-	   "Title" : "Quikr" ,
+	        "Title" : "Quikr" ,
 		"Link" : "https://www.quikr.com/html/jobs.php"},
 
 	{	"iscompany"	: true,
-	   "Title" : "Reliance" ,
+	        "Title" : "Reliance" ,
 		"Link" : "https://careers.ril.com/"},
 
 	{	"iscompany"	: true,
-	   "Title" : "Samsung" ,
+	        "Title" : "Samsung" ,
 		"Link" : "https://www.samsung.com/in/aboutsamsung/careers/careers-center/"},
 
 	{	"iscompany"	: true,
-	   "Title" : "Servicenow" ,
+	        "Title" : "Servicenow" ,
 		"Link" : "https://www.servicenow.com/careers.html"},
 
 	{	"iscompany"	: true,
-	   "Title" : "Shell" ,
+	        "Title" : "Shell" ,
 		"Link" : "https://www.shell.com/careers.html"},
 
 	{	"iscompany"	: true,
-	   "Title" : "Siemens" ,
+	          "Title" : "Siemens" ,
 		"Link" : "https://new.siemens.com/global/en/company/jobs/search-careers.html"},
 
 	{	"iscompany"	: true,
-	   "Title" : "Sprinklr" ,
+	        "Title" : "Sprinklr" ,
 		"Link" : "https://www.sprinklr.com/careers"},
 			
 	{	"iscompany"	: true,
-	   "Title" : "Swiggy" ,
+	        "Title" : "Swiggy" ,
 		"Link" : "https://careers.swiggy.com/#/"},
 		
 	{	"iscompany"	: true,
-	   "Title" : "S&P Global" ,
+	        "Title" : "S&P Global" ,
 		"Link" : "https://careers.spglobal.com/job"},
 
 	{	"iscompany"	: true,
-	   "Title" : "TCS" ,
+	        "Title" : "TCS" ,
 		"Link" : "https://www.tcs.com/careers?country=IN&lang=EN"},
 
 	{	"iscompany"	: true,
-	   "Title" : "Uber" ,
-	   "Link" : "https://www.uber.com/us/en/careers/"},
+	        "Title" : "Uber" ,
+	        "Link" : "https://www.uber.com/us/en/careers/"},
 
 	{	"iscompany"	: true,
-	   "Title" : "Urban Company" ,
+	        "Title" : "Urban Company" ,
 		"Link" : "https://careers.urbancompany.com/"},
 
-	 {	"iscompany"	: true,
-	   "Title" : "Wipro" ,
+	{	"iscompany"	: true,
+	        "Title" : "Wipro" ,
 		"Link" : "https://careers.wipro.com/careers-home/"},
 		
-	{	"iscompany"	: true,
-	   "Title" : "Zoho" ,
-	   "Link" : "https://www.zoho.com/recruit/help/talent-sourcing/career-site.html"},
+	{       "iscompany"	: true,
+	        "Title" : "Zoho" ,
+	        "Link" : "https://www.zoho.com/recruit/help/talent-sourcing/career-site.html"},
 
 	{	"iscompany"	: true,
-	   "Title" : "Zomato" ,
+	        "Title" : "Zomato" ,
 		"Link" : "https://www.zomato.com/careers"}
 ]
