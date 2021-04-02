@@ -11,6 +11,9 @@
 		"Title" : "Apple" ,
 		 "Link" : "https://www.apple.com/jobs/in/"},
 
+  	{	"iscompany"	: true,
+	        "Title" : "Arcesium" ,
+		"Link" : "https://www.arcesium.com/careers.html"},
 	
 	 {	"iscompany"	: true,
 		"Title" : "Ather Energy" ,
@@ -95,6 +98,10 @@
     {	"iscompany"	: true,
 		"Title" : "O9Solutions" ,
 		 "Link" : "https://o9solutions.com/careers/"},
+  
+  {	"iscompany"	: true,
+	        "Title" : "Ola" ,
+		"Link" : "https://ola.recruitee.com/"},
 
 	 {	"iscompany"	: true,
 		"Title" : "Oracle" ,
