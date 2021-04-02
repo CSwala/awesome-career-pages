@@ -11,10 +11,27 @@
 		"Title" : "Apple" ,
 		 "Link" : "https://www.apple.com/jobs/in/"},
 
+	
+	 {	"iscompany"	: true,
+		"Title" : "Ather Energy" ,
+		 "Link" : "https://www.atherenergy.com/careers"},	 
+
 	 {	"iscompany"	: true,
 		"Title" : "Atlassian" ,
 		 "Link" : "https://www.atlassian.com/company/careers"},
+		      
+	 {	"iscompany"	: true,
+		"Title" : "Aujas" ,
+		 "Link" : "https://www.aujas.com/cybersecurity-careers"},
 
+	{	"iscompany"	: true,
+		"Title" : "Biocon" ,
+		"Link" : "https://www.biocon.com/careers/"},	 
+
+	{	"iscompany"	: true,
+		"Title" : "BPL India" ,
+		"Link" : "https://www.bplindia.in/careers.html"},	
+		 
 	 {	"iscompany"	: true,
 		"Title" : "Cisco" ,
 		 "Link" : "https://jobs.cisco.com/"},
@@ -74,6 +91,10 @@
 	 {	"iscompany"	: true,
 		"Title" : "Nagarro" ,
 		 "Link" : "https://www.nagarro.com/en/careers"},
+	
+    {	"iscompany"	: true,
+		"Title" : "O9Solutions" ,
+		 "Link" : "https://o9solutions.com/careers/"},
 
 	 {	"iscompany"	: true,
 		"Title" : "Oracle" ,
