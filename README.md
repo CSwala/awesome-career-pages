@@ -30,7 +30,15 @@
 
 ### [Arcesium](https://www.arcesium.com/careers.html)
 
+### [Ather Energy](https://www.atherenergy.com/careers)
+
 ### [Atlassian](https://www.atlassian.com/company/careers)
+
+### [Aujas](https://www.aujas.com/cybersecurity-careers)
+
+### [Biocon](https://www.biocon.com/careers/)
+
+### [BPL India](https://www.bplindia.in/careers.html)
 
 ### [Cisco](https://jobs.cisco.com/)
 
@@ -77,6 +85,8 @@
 ### [McAfee](https://careers.mcafee.com/search-jobs)
 
 ### [Nagarro](https://www.nagarro.com/en/careers)
+
+### [O9Solutions](https://o9solutions.com/careers/)
 
 ### [Ola](https://ola.recruitee.com/)
 
