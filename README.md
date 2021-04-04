@@ -24,7 +24,7 @@
 
 ### [Amazon](https://www.amazon.jobs/en-gb/)
 
-## [American Express](https://careers.americanexpress.com/)
+### [American Express](https://careers.americanexpress.com/)
 
 ### [Anaxee](https://www.anaxee.com/career/)
 
