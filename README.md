@@ -26,6 +26,8 @@
 
 ## [American Express](https://careers.americanexpress.com/)
 
+### [Anaxee](https://www.anaxee.com/career/)
+
 ### [Apple](https://www.apple.com/jobs/in/)
 
 ### [Arcesium](https://www.arcesium.com/careers.html)
@@ -40,11 +42,19 @@
 
 ### [BPL India](https://www.bplindia.in/careers.html)
 
+### [BNY Mellon](https://www.bnymellon.com/us/en/careers/students.html)
+
+### [CashFree](https://www.cashfree.com/careers)
+
 ### [Cisco](https://jobs.cisco.com/)
 
 ### [Code Nation](http://codenation.co.in/hiringphilosophy.html)
 
 ### [Cognizant](https://careers.cognizant.com/professionals/na/en)
+
+### [Cognologix](https://cognologix.com/)
+
+### [COSGrid](https://www.cosgrid.com/careers)
 
 ### [Datadog](https://www.datadoghq.com/careers/)
 
@@ -60,11 +70,25 @@
 
 ### [Flipkart](https://www.flipkartcareers.com/#!/)
 
+### [Frontrow](https://www.gofrontrow.com/about/careers/)
+
+### [Frugal Testing](https://frugaltesting.com/careers)
+
+### [Fynd](https://fynd.careers/)
+
+### [Glu](https://www.glu.com/working-at-glu/)
+
+### [Global Space](https://globalspace.in/career.php)
+
 ### [Gojek](https://www.gojek.io/careers/)
 
 ### [Goldman Sachs](https://www.goldmansachs.com/careers/)
 
 ### [Google](https://careers.google.com/)
+
+### [HIE HQ](https://hiehq.com/career)
+
+### [Hiring Plug](https://www.hiringplug.com/careers.php)
 
 ### [HSBC](https://www.hsbc.com/careers)
 
@@ -76,19 +100,36 @@
 
 ### [InVision](https://www.invisionapp.com/careers)
 
+### [ION Energy](https://apply.workable.com/ionenergy/?lng=en)
+
+### [Jeavio](https://www.jeavio.com/careers)
+
 ### [JP Morgan](https://careers.jpmorgan.com/us/en/home)
 
 ### [Juspay](https://www.juspay.in/careers)
 
 ### [Mathworks](https://in.mathworks.com/company/jobs/opportunities.html)
 
+### [Maven Workforce](https://www.mavenworkforce.com/jobs)
+
 ### [McAfee](https://careers.mcafee.com/search-jobs)
 
+
+### [Monkhub](https://www.monkhub.com/jobs/)
+
+### [Mquotient](http://www.mquotient.net/careers/)
+
+### [MultiGraphics Group](https://multigraphics.in/career)
+
 ### [Nagarro](https://www.nagarro.com/en/careers)
+
+### [NASSCOM](https://nasscom.in/about-us/career)
 
 ### [O9Solutions](https://o9solutions.com/careers/)
 
 ### [Ola](https://ola.recruitee.com/)
+
+### [Ongil](https://ongil.io/careers)
 
 ### [Oracle](https://www.oracle.com/in/corporate/careers/)
 
@@ -100,7 +141,11 @@
 
 ### [Reliance](https://careers.ril.com/)
 
+### [Revalsys](https://www.revalsys.com/careers.html)
+
 ### [Samsung](https://www.samsung.com/in/aboutsamsung/careers/careers-center/)
+
+### [Secure Logic](https://securelogicgroup.com/about-us/careers/)
 
 ### [Servicenow](https://www.servicenow.com/careers.html)
 
@@ -108,17 +153,23 @@
 
 ### [Siemens](https://new.siemens.com/global/en/company/jobs/search-careers.html)
 
+### [SIRI Innovations](https://www.siriinnovations.com/careers)
+
 ### [Sprinklr](https://www.sprinklr.com/careers)
 
 ### [Swiggy](https://careers.swiggy.com/#/)
 
 ### [S&P Global](https://careers.spglobal.com/jobs)
 
+### [TaskBob](https://taskbob2015.recruiterbox.com/)
+
 ### [TCS](https://www.tcs.com/careers?country=IN&lang=EN)
 
 ### [Uber](https://www.uber.com/us/en/careers/)
 
 ### [Urban Company](https://careers.urbancompany.com/)
+
+### [Vokal](https://www.vokal.io/careers)
 
 ### [Wipro](https://careers.wipro.com/careers-home/)
 
