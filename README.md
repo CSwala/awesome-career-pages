@@ -94,6 +94,8 @@
 
 ### [Hyundai](https://www.hyundai.com/in/en/hyundai-story/career/overview.html)
 
+### [Informatics](https://www.informaticsglobal.com/careers/)
+
 ### [Infosys](https://www.infosys.com/careers.html)
 
 ### [Intuit](https://www.intuit.com/careers/)
@@ -135,7 +137,11 @@
 
 ### [OYO](https://www.oyorooms.com/careers/)
 
+### [Paypal](https://www.paypal.com/us/webapps/mpp/jobs/students-and-grads/internships)
+
 ### [Persistent](https://www.persistent.com/careers/)
+
+### [Philips](https://www.careers.philips.com/global/en)
 
 ### [Quikr](https://www.quikr.com/html/jobs.php)
 
@@ -155,6 +161,8 @@
 
 ### [SIRI Innovations](https://www.siriinnovations.com/careers)
 
+### [Spectrum](https://jobs.spectrum.com/)
+
 ### [Sprinklr](https://www.sprinklr.com/careers)
 
 ### [Swiggy](https://careers.swiggy.com/#/)
@@ -166,6 +174,8 @@
 ### [TCS](https://www.tcs.com/careers?country=IN&lang=EN)
 
 ### [Uber](https://www.uber.com/us/en/careers/)
+
+### [Uplers](https://www.uplers.com/careers/)
 
 ### [Urban Company](https://careers.urbancompany.com/)
 
