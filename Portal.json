@@ -155,6 +155,11 @@
 	        "Title" : "Hyundai" ,
 		"Link" : "https://www.hyundai.com/in/en/hyundai-story/career/overview.html"},
 
+    
+	{	"iscompany"	: true,
+		 "Title" : "Informatics" ,
+	   "Link" : "https://www.informaticsglobal.com/careers/"},
+		
 	{	"iscompany"	: true,
 	        "Title" : "Infosys" ,
 		"Link" : "https://www.infosys.com/careers.html"},
@@ -237,8 +242,16 @@
 		"Link" : "https://www.oyorooms.com/careers/"},
 
 	{	"iscompany"	: true,
+	        "Title" : "Paypal" ,
+		"Link" : "https://www.paypal.com/us/webapps/mpp/jobs/students-and-grads/internships"},		
+	
+	{	"iscompany"	: true,
 	        "Title" : "Persistent" ,
 		"Link" : "https://www.persistent.com/careers/"},
+
+	{	"iscompany"	: true,
+	        "Title" : "Philips" ,
+		"Link" : "https://www.careers.philips.com/global/en"},	
 
 	{	"iscompany"	: true,
 	        "Title" : "Quikr" ,
@@ -275,6 +288,10 @@
 	{	"iscompany"	: true,
 			"Title" : "SIRI Innovations" ,
 		"Link" : "https://www.siriinnovations.com/careers"},
+
+	{	"iscompany"	: true,
+			"Title" : "Spectrum" ,
+	   "Link" : "https://jobs.spectrum.com/"},
 	
 	{	"iscompany"	: true,
 	        "Title" : "Sprinklr" ,
@@ -299,6 +316,10 @@
 	{	"iscompany"	: true,
 	        "Title" : "Uber" ,
 	        "Link" : "https://www.uber.com/us/en/careers/"},
+
+	{	"iscompany"	: true,
+			"Title" : "Uplers" ,
+		"Link" : "https://www.uplers.com/careers/"},	
 
 	{	"iscompany"	: true,
 	        "Title" : "Urban Company" ,
