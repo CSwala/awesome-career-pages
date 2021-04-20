@@ -18,7 +18,13 @@
 
 ### [Accenture](https://www.accenture.com/in-en/careers)
 
+### [Acaira](https://www.acaira.com/Career.aspx)
+
 ### [Adobe](https://www.adobe.com/careers.html)
+
+### [AGC Networks](https://www.agcnetworks.com/career/)
+
+### [Agile Infoway](https://www.agileinfoways.com/careers/)
 
 ### [Airtel](https://www.airtel.in/careers/)
 
@@ -32,6 +38,8 @@
 
 ### [Arcesium](https://www.arcesium.com/careers.html)
 
+### [Ark Info](https://www.arkinfo.in/career)
+
 ### [Ather Energy](https://www.atherenergy.com/careers)
 
 ### [Atlassian](https://www.atlassian.com/company/careers)
@@ -39,6 +47,8 @@
 ### [Aujas](https://www.aujas.com/cybersecurity-careers)
 
 ### [Biocon](https://www.biocon.com/careers/)
+
+### [Bitrix Infotech](https://bitrixinfotech.com/career)
 
 ### [BPL India](https://www.bplindia.in/careers.html)
 
@@ -48,6 +58,8 @@
 
 ### [Cisco](https://jobs.cisco.com/)
 
+### [Ciesto Solutions](https://ciestosolutions.com/career-opportunities/)
+
 ### [Code Nation](http://codenation.co.in/hiringphilosophy.html)
 
 ### [Cognizant](https://careers.cognizant.com/professionals/na/en)
@@ -55,6 +67,9 @@
 ### [Cognologix](https://cognologix.com/)
 
 ### [COSGrid](https://www.cosgrid.com/careers)
+
+
+### [Cygnet](https://www.cygnet-infotech.com/job-opportunities)
 
 ### [Datadog](https://www.datadoghq.com/careers/)
 
@@ -93,6 +108,12 @@
 ### [HSBC](https://www.hsbc.com/careers)
 
 ### [Hyundai](https://www.hyundai.com/in/en/hyundai-story/career/overview.html)
+
+### [Igneous Infotech](http://ingenious-infotech.com/#career)
+
+### [Infonaya](https://www.infonaya.com/Career.aspx)
+
+### [Infilon](https://www.infilon.com/career/)
 
 ### [Informatics](https://www.informaticsglobal.com/careers/)
 
@@ -133,6 +154,8 @@
 
 ### [Ongil](https://ongil.io/careers)
 
+### [Opus Consulting](https://www.opusconsulting.com/careers/)
+
 ### [Oracle](https://www.oracle.com/in/corporate/careers/)
 
 ### [OYO](https://www.oyorooms.com/careers/)
@@ -145,11 +168,16 @@
 
 ### [Quikr](https://www.quikr.com/html/jobs.php)
 
+
+### [RadixWeb](https://radixweb.com/current-openings)
+
 ### [Reliance](https://careers.ril.com/)
 
 ### [Revalsys](https://www.revalsys.com/careers.html)
 
 ### [Samsung](https://www.samsung.com/in/aboutsamsung/careers/careers-center/)
+
+### [Sapphire Solutions](https://www.sapphiresolutions.net/careers)
 
 ### [Secure Logic](https://securelogicgroup.com/about-us/careers/)
 
@@ -160,6 +188,8 @@
 ### [Siemens](https://new.siemens.com/global/en/company/jobs/search-careers.html)
 
 ### [SIRI Innovations](https://www.siriinnovations.com/careers)
+
+### [Solusoft](https://www.solu-soft.com/careers_workinghere.html)
 
 ### [Spectrum](https://jobs.spectrum.com/)
 
@@ -182,6 +212,8 @@
 ### [Vokal](https://www.vokal.io/careers)
 
 ### [Wipro](https://careers.wipro.com/careers-home/)
+
+### [Xoriant](https://www.xoriant.com/about-xoriant/careers)
 
 ### [Zoho](https://www.zoho.com/recruit/help/talent-sourcing/career-site.html)
 

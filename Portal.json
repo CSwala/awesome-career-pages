@@ -6,6 +6,18 @@
 	{	"iscompany"	: true,
 	         "Title" : "Adobe" ,
 		"Link" : "https://www.adobe.com/careers.html"},
+
+	{	"iscompany"	: true,
+			"Title" : "Acaira" ,
+	   "Link" : "https://www.acaira.com/Career.aspx"},	
+
+	{	"iscompany"	: true,
+			"Title" : "AGC Networks" ,
+	   "Link" : "https://www.agcnetworks.com/career/"},	
+
+	{	"iscompany"	: true,
+			"Title" : "Agile Infoway" ,
+		 "Link" : "https://www.agileinfoways.com/careers/"},	
    
 	{	"iscompany"	: true,
 	        "Title" : "Airtel" ,
@@ -30,6 +42,10 @@
 	{	"iscompany"	: true,
 	        "Title" : "Arcesium" ,
 		"Link" : "https://www.arcesium.com/careers.html"},
+
+	{	"iscompany"	: true,
+			"Title" : "Ark Info" ,
+	   "Link" : "https://www.arkinfo.in/career"},	
 	
 	{	"iscompany"	: true,
 	    	"Title" : "Ather Energy" ,
@@ -44,6 +60,10 @@
 	    "Link" : "https://www.aujas.com/cybersecurity-careers"},
 	
 	{	"iscompany"	: true,
+			"Title" : "Bitrix Infotech" ,
+			 "Link" : "https://bitrixinfotech.com/career"},
+	
+   {	"iscompany"	: true,
 		   "Title" : "Biocon" ,
 		"Link" : "https://www.biocon.com/careers/"},	 
 	
@@ -57,7 +77,12 @@
 
 	{	"iscompany"	: true,
 			"Title" : "CashFree" ,
-		 "Link" : "https://www.cashfree.com/careers"},		
+		 "Link" : "https://www.cashfree.com/careers"},
+		 
+   {	"iscompany"	: true,
+			"Title" : "Ciesto Solutions" ,
+		 "Link" : "https://ciestosolutions.com/career-opportunities/"},
+	 
 
 	{	"iscompany"	: true,
 	        "Title" : "Cisco" ,
@@ -77,7 +102,12 @@
 
 	{	"iscompany"	: true,
 			"Title" : "COSGrid" ,
-		"Link" : "https://www.cosgrid.com/careers"},		
+		"Link" : "https://www.cosgrid.com/careers"},	
+		
+	{	"iscompany"	: true,
+			"Title" : "Cygnet" ,
+		 "Link" : "https://www.cygnet-infotech.com/job-opportunities"},
+
 
 	{	"iscompany"	: true,
 	        "Title" : "Datadog" ,
@@ -155,7 +185,18 @@
 	        "Title" : "Hyundai" ,
 		"Link" : "https://www.hyundai.com/in/en/hyundai-story/career/overview.html"},
 
-    
+	{	"iscompany"	: true,
+			"Title" : "Igneous Infotech" ,
+	   "Link" : "http://ingenious-infotech.com/#career"},
+
+	{	"iscompany"	: true,
+	    	"Title" : "Infilon" ,
+	   "Link" : "https://www.infilon.com/career/"},   
+
+	{	"iscompany"	: true,
+	    	"Title" : "Infonaya" ,
+	    "Link" : "https://www.infonaya.com/Career.aspx"},
+	
 	{	"iscompany"	: true,
 		 "Title" : "Informatics" ,
 	   "Link" : "https://www.informaticsglobal.com/careers/"},
@@ -228,6 +269,10 @@
 	{	"iscompany"	: true,
 	        "Title" : "Ola" ,
 		"Link" : "https://ola.recruitee.com/"},
+
+	{	"iscompany"	: true,
+			"Title" : "Opus Consulting" ,
+	    "Link" : "https://www.opusconsulting.com/careers/"},	
 	
 	{	"iscompany"	: true,
 			"Title" : "Ongil" ,
@@ -257,6 +302,11 @@
 	        "Title" : "Quikr" ,
 		"Link" : "https://www.quikr.com/html/jobs.php"},
 
+	
+	{	"iscompany"	: true,
+			"Title" : "Radixweb" ,
+		 "Link" : "https://radixweb.com/current-openings"},
+		 		
 	{	"iscompany"	: true,
 	        "Title" : "Reliance" ,
 		"Link" : "https://careers.ril.com/"},
@@ -269,6 +319,10 @@
 	        "Title" : "Samsung" ,
 		"Link" : "https://www.samsung.com/in/aboutsamsung/careers/careers-center/"},
 
+	{	"iscompany"	: true,
+			"Title" : "Sapphire Solutions" ,
+	   "Link" : "https://www.sapphiresolutions.net/careers"},
+	
 	{	"iscompany"	: true,
 			"Title" : "Secure Logic" ,
 		"Link" : "https://securelogicgroup.com/about-us/careers/"},
@@ -288,6 +342,10 @@
 	{	"iscompany"	: true,
 			"Title" : "SIRI Innovations" ,
 		"Link" : "https://www.siriinnovations.com/careers"},
+
+	{	"iscompany"	: true,
+			"Title" : "Solusoft" ,
+	    "Link" : "https://www.solu-soft.com/careers_workinghere.html"},
 
 	{	"iscompany"	: true,
 			"Title" : "Spectrum" ,
@@ -333,7 +391,12 @@
 	        "Title" : "Wipro" ,
 		"Link" : "https://careers.wipro.com/careers-home/"},
 		
-	{       "iscompany"	: true,
+	
+	{	"iscompany"	: true,
+			"Title" : "Xoriant" ,
+	   "Link" : "https://www.xoriant.com/about-xoriant/careers"},
+
+    {       "iscompany"	: true,
 	        "Title" : "Zoho" ,
 	        "Link" : "https://www.zoho.com/recruit/help/talent-sourcing/career-site.html"},
 
