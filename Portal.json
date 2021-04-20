@@ -6,7 +6,11 @@
 	{	"iscompany"	: true,
 	         "Title" : "Adobe" ,
 		"Link" : "https://www.adobe.com/careers.html"},
-   
+
+	{	"iscompany"	: true,
+	        "Title" : "AirBNB" ,
+		"Link" : "https://careers.airbnb.com/"},	
+
 	{	"iscompany"	: true,
 	        "Title" : "Airtel" ,
 		"Link" : "https://www.airtel.in/careers/"},
@@ -76,6 +80,10 @@
 	    "Link" : "https://cognologix.com/"},	
 
 	{	"iscompany"	: true,
+			"Title" : "Comsoft" ,
+	    "Link" : "https://www.comsoft.com.sg/EN/html/careers.htm"},
+		
+	{	"iscompany"	: true,
 			"Title" : "COSGrid" ,
 		"Link" : "https://www.cosgrid.com/careers"},		
 
@@ -122,6 +130,10 @@
 	{	"iscompany"	: true,
 			"Title" : "Global Space" ,
         "Link" : "https://globalspace.in/career.php"},
+
+	{	"iscompany"	: true,
+			"Title" : "Globussoft" ,
+        "Link" : "https://globussoft.com/vacancies/"},
 		
 	{	"iscompany"	: true,
 			"Title" : "Glu" ,
@@ -212,6 +224,10 @@
 	{	"iscompany"	: true,
 			"Title" : "MultiGraphics Group" ,
 	    "Link" : "https://multigraphics.in/career"},	 
+
+	{	"iscompany"	: true,
+			"Title" : "Msys Technologies" ,
+	    "Link" : "https://www.msystechnologies.com/company/msys-careers/"},
 	
 	 {	"iscompany"	: true,
 	        "Title" : "Nagarro" ,
@@ -312,7 +328,11 @@
 	{	"iscompany"	: true,
 	        "Title" : "TCS" ,
 		"Link" : "https://www.tcs.com/careers?country=IN&lang=EN"},
-
+	
+	{	"iscompany"	: true,
+	        "Title" : "Techment" ,
+		"Link" : "https://www.techment.com/software-companies-in-chhattisgarh/"},
+		
 	{	"iscompany"	: true,
 	        "Title" : "Uber" ,
 	        "Link" : "https://www.uber.com/us/en/careers/"},
