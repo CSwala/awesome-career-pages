@@ -26,6 +26,8 @@
 
 ### [Agile Infoway](https://www.agileinfoways.com/careers/)
 
+### [AirBNB](https://careers.airbnb.com/)
+
 ### [Airtel](https://www.airtel.in/careers/)
 
 ### [Amazon](https://www.amazon.jobs/en-gb/)
@@ -68,6 +70,8 @@
 
 ### [Cognologix](https://cognologix.com/)
 
+### [Comsoft](https://www.comsoft.com.sg/EN/html/careers.htm)
+
 ### [COSGrid](https://www.cosgrid.com/careers)
 
 ### [Cybage](https://www.cybage.com/careers/current-openings)
@@ -104,6 +108,8 @@
 ### [Glu](https://www.glu.com/working-at-glu/)
 
 ### [Global Space](https://globalspace.in/career.php)
+
+### [Gobussoft](https://globussoft.com/vacancies/)
 
 ### [Gojek](https://www.gojek.io/careers/)
 
@@ -159,6 +165,8 @@
 ### [Mquotient](http://www.mquotient.net/careers/)
 
 ### [MultiGraphics Group](https://multigraphics.in/career)
+
+### [Msys Technologies](https://www.msystechnologies.com/company/msys-careers/)
 
 ### [Nagarro](https://www.nagarro.com/en/careers)
 
@@ -222,6 +230,9 @@
 ### [TaskBob](https://taskbob2015.recruiterbox.com/)
 
 ### [TCS](https://www.tcs.com/careers?country=IN&lang=EN)
+
+
+### [Techment](https://www.techment.com/software-companies-in-chhattisgarh/)
 
 ### [Trigyn](https://www.trigyn.com/job/etl-developer-data-engineer)
 
