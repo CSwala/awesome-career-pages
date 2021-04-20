@@ -38,6 +38,8 @@
 
 ### [Arcesium](https://www.arcesium.com/careers.html)
 
+### [Ardentisys](https://www.ardentisys.com/about-us/careers)
+
 ### [Ark Info](https://www.arkinfo.in/career)
 
 ### [Ather Energy](https://www.atherenergy.com/careers)
@@ -68,10 +70,13 @@
 
 ### [COSGrid](https://www.cosgrid.com/careers)
 
+### [Cybage](https://www.cybage.com/careers/current-openings)
 
 ### [Cygnet](https://www.cygnet-infotech.com/job-opportunities)
 
 ### [Datadog](https://www.datadoghq.com/careers/)
+
+### [Datamatics](http://careers.datamatics.com/dm_career/client/index.aspx)
 
 ### [Deolitte](https://jobs2.deloitte.com/ui/en)
 
@@ -80,6 +85,11 @@
 ### [Directi](https://careers.directi.com/)
 
 ### [Envestnet Yodlee](https://www.yodlee.com/company/careers)
+
+
+### [Ecotech](https://www.ecotech.com/careers/career-opportunities/)
+
+### [Exceptionaire](https://www.exceptionaire.com/careers/)
 
 ### [Facebook](https://www.facebook.com/careers/)
 
@@ -100,6 +110,8 @@
 ### [Goldman Sachs](https://www.goldmansachs.com/careers/)
 
 ### [Google](https://careers.google.com/)
+
+### [Greysoft](http://greysoft.co/careers)
 
 ### [HIE HQ](https://hiehq.com/career)
 
@@ -131,6 +143,8 @@
 
 ### [Juspay](https://www.juspay.in/careers)
 
+### [Maq](https://maqsoftware.com/careers)
+
 ### [Mathworks](https://in.mathworks.com/company/jobs/opportunities.html)
 
 ### [Maven Workforce](https://www.mavenworkforce.com/jobs)
@@ -140,6 +154,8 @@
 
 ### [Monkhub](https://www.monkhub.com/jobs/)
 
+### [Mphasis](https://careers.mphasis.com/)
+
 ### [Mquotient](http://www.mquotient.net/careers/)
 
 ### [MultiGraphics Group](https://multigraphics.in/career)
@@ -147,6 +163,8 @@
 ### [Nagarro](https://www.nagarro.com/en/careers)
 
 ### [NASSCOM](https://nasscom.in/about-us/career)
+
+### [Neosoft](https://www.neosofttech.com/careers)
 
 ### [O9Solutions](https://o9solutions.com/careers/)
 
@@ -159,6 +177,8 @@
 ### [Oracle](https://www.oracle.com/in/corporate/careers/)
 
 ### [OYO](https://www.oyorooms.com/careers/)
+
+### [Paramount](http://www.psinc3.com/jobs.html)
 
 ### [Paypal](https://www.paypal.com/us/webapps/mpp/jobs/students-and-grads/internships)
 
@@ -203,6 +223,8 @@
 
 ### [TCS](https://www.tcs.com/careers?country=IN&lang=EN)
 
+### [Trigyn](https://www.trigyn.com/job/etl-developer-data-engineer)
+
 ### [Uber](https://www.uber.com/us/en/careers/)
 
 ### [Uplers](https://www.uplers.com/careers/)
@@ -214,6 +236,8 @@
 ### [Wipro](https://careers.wipro.com/careers-home/)
 
 ### [Xoriant](https://www.xoriant.com/about-xoriant/careers)
+
+### [Yobisys](https://www.yobisys.com/career.htm)
 
 ### [Zoho](https://www.zoho.com/recruit/help/talent-sourcing/career-site.html)
 

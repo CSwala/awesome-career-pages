@@ -44,6 +44,10 @@
 		"Link" : "https://www.arcesium.com/careers.html"},
 
 	{	"iscompany"	: true,
+			"Title" : "Ardentisys" ,
+	   "Link" : "https://www.ardentisys.com/about-us/careers"},	
+
+	{	"iscompany"	: true,
 			"Title" : "Ark Info" ,
 	   "Link" : "https://www.arkinfo.in/career"},	
 	
@@ -108,10 +112,17 @@
 			"Title" : "Cygnet" ,
 		 "Link" : "https://www.cygnet-infotech.com/job-opportunities"},
 
-
+	{	"iscompany"	: true,
+			"Title" : "Cybage" ,
+	    "Link" : "https://www.cybage.com/careers/current-openings"},
+	
 	{	"iscompany"	: true,
 	        "Title" : "Datadog" ,
 		"Link" : "https://www.datadoghq.com/careers/"},
+
+	{	"iscompany"	: true,
+	    	"Title" : "Datamatics" ,
+		"Link" : "http://careers.datamatics.com/dm_career/client/index.aspx"},	
 
 	{	"iscompany"	: true,
 	        "Title" : "Deolite" ,
@@ -128,6 +139,15 @@
 	{	"iscompany"	: true,
 	        "Title" : "Envestnet Yodlee" ,
 		"Link" : "https://www.yodlee.com/company/careers"},
+	
+	{	"iscompany"	: true,
+			"Title" : "Ecotech" ,
+	   "Link" : "https://www.ecotech.com/careers/career-opportunities/"},
+	
+	{	"iscompany"	: true,
+			"Title" : "Exceptionaire" ,
+	   "Link" : "https://www.exceptionaire.com/careers/"},
+		
 
 	{	"iscompany"	: true,
 	        "Title" : "Facebook" ,
@@ -168,6 +188,10 @@
 	{	"iscompany"	: true,
 	        "Title" : "Google" ,
 		"Link" : "https://careers.google.com/"},
+
+	{	"iscompany"	: true,
+			"Title" : "Greysoft" ,
+	   "Link" : "http://greysoft.co/careers"},	
 
 	{	"iscompany"	: true,
 			"Title" : "HIE HQ" ,
@@ -229,6 +253,10 @@
 	{	"iscompany"	: true,
 	        "Title" : "JusPay" ,
 		"Link" : "https://www.juspay.in/careers"},
+
+	{	"iscompany"	: true,
+			"Title" : "Maq" ,
+       "Link" : "https://maqsoftware.com/careers"},	
    
 	{	"iscompany"	: true,
 	        "Title" : "Mathworks" ,
@@ -245,6 +273,10 @@
 	{	"iscompany"	: true,
 			"Title" : "Monkhub" ,
 	    "Link" : "https://www.monkhub.com/jobs/"},
+
+	{	"iscompany"	: true,
+			"Title" : "Mphasis" ,
+	   "Link" : "https://careers.mphasis.com/"},	
 	
 	{	"iscompany"	: true,
 			"Title" : "Mquotient" ,
@@ -261,6 +293,10 @@
 	{	"iscompany"	: true,
 			"Title" : "NASSCOM" ,
 		"Link" : "https://nasscom.in/about-us/career"},
+
+	{	"iscompany"	: true,
+			"Title" : "Neosoft" ,
+		"Link" : "https://www.neosofttech.com/careers"},	
 
 	{	"iscompany"	: true,
 			"Title" : "O9Solutions" ,
@@ -285,6 +321,10 @@
 	{	"iscompany"	: true,
 	        "Title" : "OYO" ,
 		"Link" : "https://www.oyorooms.com/careers/"},
+
+	{	"iscompany"	: true,
+			"Title" : "Paramount" ,
+       "Link" : "http://www.psinc3.com/jobs.html"},
 
 	{	"iscompany"	: true,
 	        "Title" : "Paypal" ,
@@ -372,6 +412,10 @@
 		"Link" : "https://www.tcs.com/careers?country=IN&lang=EN"},
 
 	{	"iscompany"	: true,
+			"Title" : "Trigyn" ,
+	   "Link" : "https://www.trigyn.com/job/etl-developer-data-engineer"},	
+
+	{	"iscompany"	: true,
 	        "Title" : "Uber" ,
 	        "Link" : "https://www.uber.com/us/en/careers/"},
 
@@ -396,7 +440,11 @@
 			"Title" : "Xoriant" ,
 	   "Link" : "https://www.xoriant.com/about-xoriant/careers"},
 
-    {       "iscompany"	: true,
+   {	"iscompany"	: true,
+     		"Title" : "Yobisys" ,
+	   "Link" : "https://www.yobisys.com/career.htm"},
+	
+	{       "iscompany"	: true,
 	        "Title" : "Zoho" ,
 	        "Link" : "https://www.zoho.com/recruit/help/talent-sourcing/career-site.html"},
 
