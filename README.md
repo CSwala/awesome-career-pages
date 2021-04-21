@@ -18,7 +18,13 @@
 
 ### [Accenture](https://www.accenture.com/in-en/careers)
 
+### [Acaira](https://www.acaira.com/Career.aspx)
+
 ### [Adobe](https://www.adobe.com/careers.html)
+
+### [AGC Networks](https://www.agcnetworks.com/career/)
+
+### [Agile Infoway](https://www.agileinfoways.com/careers/)
 
 ### [AirBNB](https://careers.airbnb.com/)
 
@@ -34,6 +40,10 @@
 
 ### [Arcesium](https://www.arcesium.com/careers.html)
 
+### [Ardentisys](https://www.ardentisys.com/about-us/careers)
+
+### [Ark Info](https://www.arkinfo.in/career)
+
 ### [Ather Energy](https://www.atherenergy.com/careers)
 
 ### [Atlassian](https://www.atlassian.com/company/careers)
@@ -42,6 +52,8 @@
 
 ### [Biocon](https://www.biocon.com/careers/)
 
+### [Bitrix Infotech](https://bitrixinfotech.com/career)
+
 ### [BPL India](https://www.bplindia.in/careers.html)
 
 ### [BNY Mellon](https://www.bnymellon.com/us/en/careers/students.html)
@@ -49,6 +61,8 @@
 ### [CashFree](https://www.cashfree.com/careers)
 
 ### [Cisco](https://jobs.cisco.com/)
+
+### [Ciesto Solutions](https://ciestosolutions.com/career-opportunities/)
 
 ### [Code Nation](http://codenation.co.in/hiringphilosophy.html)
 
@@ -60,7 +74,13 @@
 
 ### [COSGrid](https://www.cosgrid.com/careers)
 
+### [Cybage](https://www.cybage.com/careers/current-openings)
+
+### [Cygnet](https://www.cygnet-infotech.com/job-opportunities)
+
 ### [Datadog](https://www.datadoghq.com/careers/)
+
+### [Datamatics](http://careers.datamatics.com/dm_career/client/index.aspx)
 
 ### [Deolitte](https://jobs2.deloitte.com/ui/en)
 
@@ -69,6 +89,11 @@
 ### [Directi](https://careers.directi.com/)
 
 ### [Envestnet Yodlee](https://www.yodlee.com/company/careers)
+
+
+### [Ecotech](https://www.ecotech.com/careers/career-opportunities/)
+
+### [Exceptionaire](https://www.exceptionaire.com/careers/)
 
 ### [Facebook](https://www.facebook.com/careers/)
 
@@ -92,6 +117,8 @@
 
 ### [Google](https://careers.google.com/)
 
+### [Greysoft](http://greysoft.co/careers)
+
 ### [HIE HQ](https://hiehq.com/career)
 
 ### [Hiring Plug](https://www.hiringplug.com/careers.php)
@@ -99,6 +126,12 @@
 ### [HSBC](https://www.hsbc.com/careers)
 
 ### [Hyundai](https://www.hyundai.com/in/en/hyundai-story/career/overview.html)
+
+### [Igneous Infotech](http://ingenious-infotech.com/#career)
+
+### [Infonaya](https://www.infonaya.com/Career.aspx)
+
+### [Infilon](https://www.infilon.com/career/)
 
 ### [Informatics](https://www.informaticsglobal.com/careers/)
 
@@ -116,6 +149,8 @@
 
 ### [Juspay](https://www.juspay.in/careers)
 
+### [Maq](https://maqsoftware.com/careers)
+
 ### [Mathworks](https://in.mathworks.com/company/jobs/opportunities.html)
 
 ### [Maven Workforce](https://www.mavenworkforce.com/jobs)
@@ -124,6 +159,8 @@
 
 
 ### [Monkhub](https://www.monkhub.com/jobs/)
+
+### [Mphasis](https://careers.mphasis.com/)
 
 ### [Mquotient](http://www.mquotient.net/careers/)
 
@@ -135,15 +172,21 @@
 
 ### [NASSCOM](https://nasscom.in/about-us/career)
 
+### [Neosoft](https://www.neosofttech.com/careers)
+
 ### [O9Solutions](https://o9solutions.com/careers/)
 
 ### [Ola](https://ola.recruitee.com/)
 
 ### [Ongil](https://ongil.io/careers)
 
+### [Opus Consulting](https://www.opusconsulting.com/careers/)
+
 ### [Oracle](https://www.oracle.com/in/corporate/careers/)
 
 ### [OYO](https://www.oyorooms.com/careers/)
+
+### [Paramount](http://www.psinc3.com/jobs.html)
 
 ### [Paypal](https://www.paypal.com/us/webapps/mpp/jobs/students-and-grads/internships)
 
@@ -153,11 +196,16 @@
 
 ### [Quikr](https://www.quikr.com/html/jobs.php)
 
+
+### [RadixWeb](https://radixweb.com/current-openings)
+
 ### [Reliance](https://careers.ril.com/)
 
 ### [Revalsys](https://www.revalsys.com/careers.html)
 
 ### [Samsung](https://www.samsung.com/in/aboutsamsung/careers/careers-center/)
+
+### [Sapphire Solutions](https://www.sapphiresolutions.net/careers)
 
 ### [Secure Logic](https://securelogicgroup.com/about-us/careers/)
 
@@ -168,6 +216,8 @@
 ### [Siemens](https://new.siemens.com/global/en/company/jobs/search-careers.html)
 
 ### [SIRI Innovations](https://www.siriinnovations.com/careers)
+
+### [Solusoft](https://www.solu-soft.com/careers_workinghere.html)
 
 ### [Spectrum](https://jobs.spectrum.com/)
 
@@ -181,7 +231,10 @@
 
 ### [TCS](https://www.tcs.com/careers?country=IN&lang=EN)
 
+
 ### [Techment](https://www.techment.com/software-companies-in-chhattisgarh/)
+
+### [Trigyn](https://www.trigyn.com/job/etl-developer-data-engineer)
 
 ### [Uber](https://www.uber.com/us/en/careers/)
 
@@ -192,6 +245,10 @@
 ### [Vokal](https://www.vokal.io/careers)
 
 ### [Wipro](https://careers.wipro.com/careers-home/)
+
+### [Xoriant](https://www.xoriant.com/about-xoriant/careers)
+
+### [Yobisys](https://www.yobisys.com/career.htm)
 
 ### [Zoho](https://www.zoho.com/recruit/help/talent-sourcing/career-site.html)
 
