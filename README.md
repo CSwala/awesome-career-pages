@@ -22,6 +22,8 @@
 
 ### [Adobe](https://www.adobe.com/careers.html)
 
+### [Arista Networks](https://www.arista.com/en/careers/india)
+
 ### [AGC Networks](https://www.agcnetworks.com/career/)
 
 ### [Agile Infoway](https://www.agileinfoways.com/careers/)
@@ -58,6 +60,8 @@
 
 ### [BNY Mellon](https://www.bnymellon.com/us/en/careers/students.html)
 
+### [BYJU’S](https://byjus.com/careers-at-byjus/)
+
 ### [CashFree](https://www.cashfree.com/careers)
 
 ### [Cisco](https://jobs.cisco.com/)
@@ -72,6 +76,8 @@
 
 ### [Cognizant](https://careers.cognizant.com/professionals/na/en)
 
+### [Citicorp](https://careers.citigroup.com/)
+
 ### [Cognologix](https://cognologix.com/)
 
 ### [Comsoft](https://www.comsoft.com.sg/EN/html/careers.htm)
@@ -83,6 +89,12 @@
 ### [Cygnet](https://www.cygnet-infotech.com/job-opportunities)
 
 ### [Datadog](https://www.datadoghq.com/careers/)
+
+### [DropBox](https://www.datadoghq.com/careers/)
+
+### [Dunzo](https://www.dunzo.com/careers)
+
+### [Dream11](https://dreamsports.group/)
 
 ### [Datamatics](http://careers.datamatics.com/dm_career/client/index.aspx)
 
@@ -112,6 +124,8 @@
 
 ### [Fynd](https://fynd.careers/)
 
+### [Flock](https://careers.flock.com/)
+
 ### [Glu](https://www.glu.com/working-at-glu/)
 
 ### [Global Space](https://globalspace.in/career.php)
@@ -128,9 +142,17 @@
 
 ### [Google](https://careers.google.com/)
 
+### [GreyOrange](https://www.greyorange.com/about/careers/)
+
 ### [Greysoft](http://greysoft.co/careers)
 
 ### [HIE HQ](https://hiehq.com/career)
+
+### [HackerRank](https://www.hackerrank.com/careers)
+
+### [Hotstar](https://tech.hotstar.com/)
+
+### [Hike messenger](https://www.hike.in/workathike/)
 
 ### [Hiring Plug](https://www.hiringplug.com/careers.php)
 
@@ -164,9 +186,13 @@
 
 ### [Juspay](https://www.juspay.in/careers)
 
+### [Junglee Games](https://www.jungleegames.com/grow.php)
+
 ### [Maq](https://maqsoftware.com/careers)
 
 ### [Mathworks](https://in.mathworks.com/company/jobs/opportunities.html)
+
+### [MakeMyTrip](https://careers.makemytrip.com/)
 
 ### [Maven Workforce](https://www.mavenworkforce.com/jobs)
 
@@ -186,7 +212,13 @@
 
 ### [Microsoft](https://careers.microsoft.com/us/en)
 
+### [Myntra](https://careers.myntra.com/)
+
+### [Media.net](https://careers.media.net/)
+
 ### [Nagarro](https://www.nagarro.com/en/careers)
+
+### [NetApp](https://www.arista.com/en/careers/india)
 
 ### [NortonLifeLock](https://stage-www.nortonlifelock.com/us/en/careers/)
 
@@ -195,6 +227,8 @@
 ### [Nutanix](https://www.nutanix.com/company/careers)
 
 ### [Neosoft](https://www.neosofttech.com/careers)
+
+### [NVIDIA](https://www.nvidia.com/en-in/about-nvidia/careers/)
 
 ### [O9Solutions](https://o9solutions.com/careers/)
 
@@ -230,6 +264,8 @@
 
 ### [Revalsys](https://www.revalsys.com/careers.html)
 
+### [Rivigo](https://www.rivigo.com/careers/)
+
 ### [Samsung](https://www.samsung.com/in/aboutsamsung/careers/careers-center/)
 
 ### [SumoLogic](https://www.sumologic.com/company/careers/)
@@ -242,11 +278,17 @@
 
 ### [Shell](https://www.shell.com/careers.html)
 
+### [SAP](https://www.sap.com/india/about/careers.html)
+
+### [Synopsys](https://www.synopsys.com/careers.html)
+
 ### [Siemens](https://new.siemens.com/global/en/company/jobs/search-careers.html)
 
 ### [SIRI Innovations](https://www.siriinnovations.com/careers)
 
 ### [Solusoft](https://www.solu-soft.com/careers_workinghere.html)
+
+### [Seimens](https://new.siemens.com/global/en/company/jobs.html)
 
 ### [Spectrum](https://jobs.spectrum.com/)
 
@@ -264,7 +306,11 @@
 
 ### [TCS](https://www.tcs.com/careers?country=IN&lang=EN)
 
+### [Times Internet](https://timesinternet.in/careers)
+
 ### [Twitter](https://careers.twitter.com/)
+
+### [ThoughtWorks](https://www.thoughtworks.com/careers/us)
 
 ### [Techment](https://www.techment.com/software-companies-in-chhattisgarh/)
 
@@ -275,6 +321,8 @@
 ### [Trigyn](https://www.trigyn.com/job/etl-developer-data-engineer)
 
 ### [Uber](https://www.uber.com/us/en/careers/)
+
+### [Unacademy](https://apply.workable.com/unacademy/)
 
 ### [Uplers](https://www.uplers.com/careers/)
 
@@ -299,6 +347,8 @@
 ### [Yobisys](https://www.yobisys.com/career.htm)
 
 ### [Zoho](https://www.zoho.com/recruit/help/talent-sourcing/career-site.html)
+
+### [zeta](https://www.zeta.tech/in/careers)
 
 ### [Zomato](https://www.zomato.com/careers)
 
