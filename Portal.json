@@ -7,21 +7,25 @@
 	         "Title" : "Adobe" ,
 		"Link" : "https://www.adobe.com/careers.html"},
 
+		{	"iscompany"	: true,
+						 "Title" : "Arista Networks" ,
+			"Link" : "https://www.arista.com/en/careers/india"},
+
 	{	"iscompany"	: true,
 	        "Title" : "AirBNB" ,
    "Link" : "https://careers.airbnb.com/"},
 
   {	"iscompany"	: true,
 			"Title" : "Acaira" ,
-	   "Link" : "https://www.acaira.com/Career.aspx"},	
+	   "Link" : "https://www.acaira.com/Career.aspx"},
 
 	{	"iscompany"	: true,
 			"Title" : "AGC Networks" ,
-	   "Link" : "https://www.agcnetworks.com/career/"},	
+	   "Link" : "https://www.agcnetworks.com/career/"},
 
 	{	"iscompany"	: true,
 			"Title" : "Agile Infoway" ,
-		 "Link" : "https://www.agileinfoways.com/careers/"},	
+		 "Link" : "https://www.agileinfoways.com/careers/"},
 
 	{	"iscompany"	: true,
 	        "Title" : "Airtel" ,
@@ -49,12 +53,12 @@
 
 	{	"iscompany"	: true,
 			"Title" : "Ardentisys" ,
-	   "Link" : "https://www.ardentisys.com/about-us/careers"},	
+	   "Link" : "https://www.ardentisys.com/about-us/careers"},
 
 	{	"iscompany"	: true,
 			"Title" : "Ark Info" ,
-	   "Link" : "https://www.arkinfo.in/career"},	
-	
+	   "Link" : "https://www.arkinfo.in/career"},
+
 	{	"iscompany"	: true,
 	    	"Title" : "Ather Energy" ,
 		"Link" : "https://www.atherenergy.com/careers"},
@@ -70,7 +74,7 @@
 	{	"iscompany"	: true,
 			"Title" : "Bitrix Infotech" ,
 			 "Link" : "https://bitrixinfotech.com/career"},
-	
+
    {	"iscompany"	: true,
 		   "Title" : "Biocon" ,
 		"Link" : "https://www.biocon.com/careers/"},
@@ -78,6 +82,10 @@
 	{	"iscompany"	: true,
 			"Title" : "BNY Mellon" ,
 		 "Link" : "https://www.bnymellon.com/us/en/careers/students.html"},
+
+		 {	"iscompany"	: true,
+	 			"Title" : "BYJU’S" ,
+	 		 "Link" : "https://byjus.com/careers-at-byjus/)"},
 
 	{	"iscompany"	: true,
 		   "Title" : "BPL India" ,
@@ -90,7 +98,7 @@
    {	"iscompany"	: true,
 			"Title" : "Ciesto Solutions" ,
 		 "Link" : "https://ciestosolutions.com/career-opportunities/"},
-	
+
 
 	{	"iscompany"	: true,
 	        "Title" : "Cisco" ,
@@ -112,6 +120,10 @@
 	        "Title" : "Cognizant" ,
 		"Link" : "https://careers.cognizant.com/professionals/na/en"},
 
+		{	"iscompany"	: true,
+						"Title" : "Citicorp" ,
+			"Link" : "https://careers.citigroup.com/"},
+
 	{	"iscompany"	: true,
 			"Title" : "Cognologix" ,
 	    "Link" : "https://cognologix.com/"},
@@ -123,7 +135,7 @@
 	{	"iscompany"	: true,
 			"Title" : "COSGrid" ,
 		"Link" : "https://www.cosgrid.com/careers"},
-		
+
 	{	"iscompany"	: true,
 			"Title" : "Cygnet" ,
 		 "Link" : "https://www.cygnet-infotech.com/job-opportunities"},
@@ -131,14 +143,26 @@
 	{	"iscompany"	: true,
 			"Title" : "Cybage" ,
 	    "Link" : "https://www.cybage.com/careers/current-openings"},
-	
+
 	{	"iscompany"	: true,
 	        "Title" : "Datadog" ,
 		"Link" : "https://www.datadoghq.com/careers/"},
 
+{	"iscompany"	: true,
+				"Title" : "DropBox" ,
+	"Link" : "https://www.dropbox.com/jobs/all-jobs"},
+
+	{	"iscompany"	: true,
+					"Title" : "Dunzo" ,
+		"Link" : "https://www.dunzo.com/careers"},
+
+	{	"iscompany"	: true,
+					"Title" : "Dream11" ,
+		"Link" : "https://dreamsports.group/"},
+
 	{	"iscompany"	: true,
 	    	"Title" : "Datamatics" ,
-		"Link" : "http://careers.datamatics.com/dm_career/client/index.aspx"},	
+		"Link" : "http://careers.datamatics.com/dm_career/client/index.aspx"},
 
 	{	"iscompany"	: true,
 	        "Title" : "Deolite" ,
@@ -155,15 +179,15 @@
 	{	"iscompany"	: true,
 	        "Title" : "Envestnet Yodlee" ,
 		"Link" : "https://www.yodlee.com/company/careers"},
-	
+
 	{	"iscompany"	: true,
 			"Title" : "Ecotech" ,
 	   "Link" : "https://www.ecotech.com/careers/career-opportunities/"},
-	
+
 	{	"iscompany"	: true,
 			"Title" : "Exceptionaire" ,
 	   "Link" : "https://www.exceptionaire.com/careers/"},
-		
+
 
 	{	"iscompany"	: true,
 		       "Title" : "eBay" ,
@@ -192,6 +216,10 @@
 	{	"iscompany"	: true,
 			"Title" : "Fynd",
 		"Link" : "https://fynd.careers/"},
+
+		{	"iscompany"	: true,
+ "Title" : "Flock" ,
+	"Link" : "https://careers.flock.com/"},
 
 	{	"iscompany"	: true,
 			"Title" : "Global Space" ,
@@ -225,13 +253,29 @@
 	        "Title" : "Google" ,
 		"Link" : "https://careers.google.com/"},
 
+		{	"iscompany"	: true,
+						"Title" : "GreyOrange" ,
+			"Link" : "https://www.greyorange.com/about/careers/"},
+
 	{	"iscompany"	: true,
 			"Title" : "Greysoft" ,
-	   "Link" : "http://greysoft.co/careers"},	
+	   "Link" : "http://greysoft.co/careers"},
 
 	{	"iscompany"	: true,
 			"Title" : "HIE HQ" ,
 		"Link" : "https://hiehq.com/career"},
+
+		{	"iscompany"	: true,
+				"Title" : "HackerRank" ,
+			"Link" : "https://www.hackerrank.com/careers"},
+
+			{	"iscompany"	: true,
+					"Title" : "Hike messenger" ,
+				"Link" : "https://www.hike.in/workathike/"},
+
+			{	"iscompany"	: true,
+					"Title" : "Hotstar" ,
+				"Link" : "https://tech.hotstar.com/"},
 
 	{	"iscompany"	: true,
 			"Title" : "Hiring Plug" ,
@@ -255,12 +299,12 @@
 
 	{	"iscompany"	: true,
 	    	"Title" : "Infilon" ,
-	   "Link" : "https://www.infilon.com/career/"},   
+	   "Link" : "https://www.infilon.com/career/"},
 
 	{	"iscompany"	: true,
 	    	"Title" : "Infonaya" ,
 	    "Link" : "https://www.infonaya.com/Career.aspx"},
-  
+
 	{	"iscompany"	: true,
 		 "Title" : "Informatics" ,
 	   "Link" : "https://www.informaticsglobal.com/careers/"},
@@ -298,13 +342,21 @@
 	        "Title" : "JusPay" ,
 		"Link" : "https://www.juspay.in/careers"},
 
+		{	"iscompany"	: true,
+		        "Title" : "Junglee Games" ,
+			"Link" : "https://www.jungleegames.com/grow.php"},
+
 	{	"iscompany"	: true,
 			"Title" : "Maq" ,
-       "Link" : "https://maqsoftware.com/careers"},	
-  
+       "Link" : "https://maqsoftware.com/careers"},
+
 	{	"iscompany"	: true,
 	        "Title" : "Mathworks" ,
 		"Link" : "https://in.mathworks.com/company/jobs/opportunities.html"},
+
+		{	"iscompany"	: true,
+		        "Title" : "MakeMyTrip" ,
+			"Link" : "https://careers.makemytrip.com/"},
 
 	{	"iscompany"	: true,
 			"Title" : "Maven Workforce ",
@@ -320,8 +372,8 @@
 
 	{	"iscompany"	: true,
 			"Title" : "Mphasis" ,
-	   "Link" : "https://careers.mphasis.com/"},	
-	
+	   "Link" : "https://careers.mphasis.com/"},
+
 	{	"iscompany"	: true,
 			"Title" : "Mquotient" ,
 	    "Link" : "http://www.mquotient.net/careers/"},
@@ -346,9 +398,21 @@
 			"Title" : "Microsoft" ,
 			"Link" : "https://careers.microsoft.com/us/en"},
 
+			{	"iscompany"	: true,
+					"Title" : "Myntra" ,
+					"Link" : "https://careers.myntra.com/"},
+
+			{	"iscompany"	: true,
+			"Title" : "Media.net" ,
+			 "Link" : "https://careers.media.net/"},
+
 	 {	"iscompany"	: true,
 	        "Title" : "Nagarro" ,
 		"Link" : "https://www.nagarro.com/en/careers"},
+
+		{	"iscompany"	: true,
+ 	        "Title" : "NetApp" ,
+ 		"Link" : "https://www.nagarro.com/en/careers"},
 
 	 {	"iscompany"	: true,
  	        "Title" : "NortonLifeLock" ,
@@ -361,10 +425,14 @@
 	{	"iscompany"	: true,
 			"Title" : "Nutanix" ,
 		"Link" : "https://www.nutanix.com/company/careers"},
-  
+
   {	"iscompany"	: true,
 			"Title" : "Neosoft" ,
-		"Link" : "https://www.neosofttech.com/careers"},	
+		"Link" : "https://www.neosofttech.com/careers"},
+
+		{	"iscompany"	: true,
+				"Title" : "NVIDIA" ,
+			"Link" : "https://www.nvidia.com/en-in/about-nvidia/careers/"},
 
 	{	"iscompany"	: true,
 			"Title" : "O9Solutions" ,
@@ -376,8 +444,8 @@
 
 	{	"iscompany"	: true,
 			"Title" : "Opus Consulting" ,
-	    "Link" : "https://www.opusconsulting.com/careers/"},	
-	
+	    "Link" : "https://www.opusconsulting.com/careers/"},
+
 	{	"iscompany"	: true,
 			"Title" : "Ongil" ,
 		 "Link" : "https://ongil.io/careers"},
@@ -421,7 +489,7 @@
 	{	"iscompany"	: true,
 			"Title" : "Radixweb" ,
 		 "Link" : "https://radixweb.com/current-openings"},
-		 		
+
 	{	"iscompany"	: true,
 	        "Title" : "Reliance" ,
 		"Link" : "https://careers.ril.com/"},
@@ -438,6 +506,10 @@
 			"Title" : "Revalsys" ,
 	    "Link" : "https://www.revalsys.com/careers.html"},
 
+			{	"iscompany"	: true,
+					"Title" : "Rivigo" ,
+			    "Link" : "https://www.rivigo.com/careers/"},
+
 	{	"iscompany"	: true,
 	        "Title" : "Samsung" ,
 		"Link" : "https://www.samsung.com/in/aboutsamsung/careers/careers-center/"},
@@ -449,7 +521,7 @@
 	{	"iscompany"	: true,
 			"Title" : "Sapphire Solutions" ,
 	   "Link" : "https://www.sapphiresolutions.net/careers"},
-	
+
 	{	"iscompany"	: true,
 			"Title" : "Secure Logic" ,
 		"Link" : "https://securelogicgroup.com/about-us/careers/"},
@@ -462,6 +534,14 @@
 	        "Title" : "Shell" ,
 		"Link" : "https://www.shell.com/careers.html"},
 
+		{	"iscompany"	: true,
+						"Title" : "SAP" ,
+			"Link" : "https://www.sap.com/india/about/careers.html"},
+
+			{	"iscompany"	: true,
+							"Title" : "Synopsys" ,
+				"Link" : "https://www.synopsys.com/careers.html"},
+
 	{	"iscompany"	: true,
 	          "Title" : "Siemens" ,
 		"Link" : "https://new.siemens.com/global/en/company/jobs/search-careers.html"},
@@ -473,6 +553,10 @@
 	{	"iscompany"	: true,
 			"Title" : "Solusoft" ,
 	    "Link" : "https://www.solu-soft.com/careers_workinghere.html"},
+
+			{	"iscompany"	: true,
+					"Title" : "Seimens" ,
+					"Link" : "https://new.siemens.com/global/en/company/jobs.html"},
 
 	{	"iscompany"	: true,
 			"Title" : "Spectrum" ,
@@ -506,9 +590,17 @@
 	        "Title" : "TCS" ,
 		"Link" : "https://www.tcs.com/careers?country=IN&lang=EN"},
 
+		{	"iscompany"	: true,
+		        "Title" : "Times Internet" ,
+			"Link" : "https://timesinternet.in/careers"},
+
 	{	"iscompany"	: true,
 					"Title" : "Twitter" ,
 		"Link" : "https://careers.twitter.com/"},
+
+		{	"iscompany"	: true,
+						"Title" : "ThoughtWorks" ,
+			"Link" : "https://www.thoughtworks.com/careers/us"},
 
 	{	"iscompany"	: true,
 	        "Title" : "Techment" ,
@@ -520,11 +612,15 @@
 
 	{	"iscompany"	: true,
 			"Title" : "Trigyn" ,
-	   "Link" : "https://www.trigyn.com/job/etl-developer-data-engineer"},	
+	   "Link" : "https://www.trigyn.com/job/etl-developer-data-engineer"},
 
 	{	"iscompany"	: true,
 	        "Title" : "Uber" ,
 	        "Link" : "https://www.uber.com/us/en/careers/"},
+
+				{	"iscompany"	: true,
+					        "Title" : "Unacademy" ,
+					        "Link" : "https://apply.workable.com/unacademy/"},
 
 	{	"iscompany"	: true,
 			"Title" : "Uplers" ,
@@ -561,7 +657,7 @@
 	{	"iscompany"	: true,
 					"Title" : "Yahoo" ,
 		"Link" : "https://research.yahoo.com/careers"},
-	
+
 	{	"iscompany"	: true,
 			"Title" : "Xoriant" ,
 	   "Link" : "https://www.xoriant.com/about-xoriant/careers"},
@@ -569,7 +665,7 @@
    {	"iscompany"	: true,
      		"Title" : "Yobisys" ,
 	   "Link" : "https://www.yobisys.com/career.htm"},
-	
+
 	{       "iscompany"	: true,
 	        "Title" : "Zoho" ,
 	        "Link" : "https://www.zoho.com/recruit/help/talent-sourcing/career-site.html"},
@@ -577,4 +673,10 @@
 	{	"iscompany"	: true,
 	        "Title" : "Zomato" ,
 		"Link" : "https://www.zomato.com/careers"}
+
+		{	"iscompany"	: true,
+		  "Title" : "zeta" ,
+		 	"Link" : "https://www.zeta.tech/in/careers"}
+
+
 ]
