@@ -32,6 +32,8 @@
 
 ### [Airtel](https://www.airtel.in/careers/)
 
+### [Ajio](https://www.ajio.com/ajio-careers)
+
 ### [Amazon](https://www.amazon.jobs/en-gb/)
 
 ### [American Express](https://careers.americanexpress.com/)
@@ -52,6 +54,8 @@
 
 ### [Aujas](https://www.aujas.com/cybersecurity-careers)
 
+### [Avail Finance](https://availfinance.in/opportunities/)
+
 ### [Biocon](https://www.biocon.com/careers/)
 
 ### [Bitrix Infotech](https://bitrixinfotech.com/career)
@@ -70,7 +74,11 @@
 
 ### [Ciesto Solutions](https://ciestosolutions.com/career-opportunities/)
 
+### [Citrix](https://jobs.citrix.com/)
+
 ### [Code Nation](http://codenation.co.in/hiringphilosophy.html)
+
+### [Cohesity](https://www.cohesity.com/company/careers/)
 
 ### [Cure.Fit](https://www.cure.fit/careers)
 
@@ -98,6 +106,8 @@
 
 ### [Datamatics](http://careers.datamatics.com/dm_career/client/index.aspx)
 
+### [Delhivery](https://www.delhivery.com/careers/)
+
 ### [Deolitte](https://jobs2.deloitte.com/ui/en)
 
 ### [DE Shaw](https://www.deshawindia.com/careers)
@@ -115,6 +125,8 @@
 ### [Exceptionaire](https://www.exceptionaire.com/careers/)
 
 ### [Facebook](https://www.facebook.com/careers/)
+
+### [Fidelity Investments](https://india.fidelity.com/careers/)
 
 ### [Flipkart](https://www.flipkartcareers.com/#!/)
 
@@ -142,6 +154,8 @@
 
 ### [Google](https://careers.google.com/)
 
+### [Graviton](https://www.gravitontrading.com/careers.html)
+
 ### [GreyOrange](https://www.greyorange.com/about/careers/)
 
 ### [Greysoft](http://greysoft.co/careers)
@@ -149,6 +163,8 @@
 ### [HIE HQ](https://hiehq.com/career)
 
 ### [HackerRank](https://www.hackerrank.com/careers)
+
+### [Harness](https://harness.io/careers/)
 
 ### [Hotstar](https://tech.hotstar.com/)
 
@@ -171,6 +187,10 @@
 ### [Informatics](https://www.informaticsglobal.com/careers/)
 
 ### [Infosys](https://www.infosys.com/careers.html)
+
+### [InMobi](ttps://www.inmobi.com/company/careers/)
+
+### [Innovaccer](https://innovaccer.com/careers/)
 
 ### [Intel](https://www.intel.com/content/www/us/en/jobs/jobs-at-intel.html)
 
@@ -199,6 +219,8 @@
 ### [McAfee](https://careers.mcafee.com/search-jobs)
 
 ### [Monkhub](https://www.monkhub.com/jobs/)
+
+### [Morgan Stanley](https://www.morganstanley.com/articles/morgan-stanley-india-careers)
 
 ### [Mphasis](https://careers.mphasis.com/)
 
@@ -242,19 +264,29 @@
 
 ### [OYO](https://www.oyorooms.com/careers/)
 
+### [Palo Alto Networks](https://jobs.paloaltonetworks.com/)
+
 ### [Paramount](http://www.psinc3.com/jobs.html)
 
 ### [Paypal](https://www.paypal.com/us/webapps/mpp/jobs/students-and-grads/internships)
 
 ### [Persistent](https://www.persistent.com/careers/)
 
+### [PharmEasy](https://pharmeasy.in/careers/)
+
+### [PhonePe](https://www.phonepe.com/careers/)
+
 ### [Philips](https://www.careers.philips.com/global/en)
+
+### [Postman](https://www.postman.com/company/careers/)
 
 ### [Quikr](https://www.quikr.com/html/jobs.php)
 
 ### [Qualcomm](https://www.qualcomm.com/company/careers)
 
 ### [RadixWeb](https://radixweb.com/current-openings)
+
+### [Razorpay](https://razorpay.com/jobs/)
 
 ### [Reliance](https://careers.ril.com/)
 
@@ -265,6 +297,8 @@
 ### [Revalsys](https://www.revalsys.com/careers.html)
 
 ### [Rivigo](https://www.rivigo.com/careers/)
+
+### [Rupeek](https://www.rivigo.com/careers/)
 
 ### [Samsung](https://www.samsung.com/in/aboutsamsung/careers/careers-center/)
 
@@ -306,7 +340,13 @@
 
 ### [TCS](https://www.tcs.com/careers?country=IN&lang=EN)
 
+### [Tekion](https://tekion.com/careers)
+
 ### [Times Internet](https://timesinternet.in/careers)
+
+### [Turvo](https://turvo.com/careers/)
+
+### [Twilio](https://www.twilio.com/company/jobs)
 
 ### [Twitter](https://careers.twitter.com/)
 
@@ -321,6 +361,8 @@
 ### [Trigyn](https://www.trigyn.com/job/etl-developer-data-engineer)
 
 ### [Uber](https://www.uber.com/us/en/careers/)
+
+### [Udaan](https://careers.udaan.com/#!/)
 
 ### [Unacademy](https://apply.workable.com/unacademy/)
 
@@ -338,6 +380,12 @@
 
 ### [Walmart](https://careers.walmart.com/)
 
+### [Wells Fargo](https://www.wellsfargo.com/about/careers/)
+
+### [Western Digital](https://jobs.westerndigital.com/)
+
+### [World Quant](https://www.weareworldquant.com/en/careers/)
+
 ### [Xilinx](https://careers.xilinx.com/)
 
 ### [Yahoo](https://research.yahoo.com/careers)
@@ -351,6 +399,8 @@
 ### [zeta](https://www.zeta.tech/in/careers)
 
 ### [Zomato](https://www.zomato.com/careers)
+
+### [Zoom](https://zoom.wd5.myworkdayjobs.com/Zoom)
 
 <br>
 
