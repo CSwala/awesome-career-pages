@@ -58,7 +58,11 @@
 
 ### [Ark Info](https://www.arkinfo.in/career)
 
+
 ### [Armaco](https://www.aramco.com)
+
+### [Atos](https://atos.net/en/careers)
+
 
 ### [Ather Energy](https://www.atherenergy.com/careers)
 
@@ -212,11 +216,17 @@
 
 ### [Hyundai](https://www.hyundai.com/in/en/hyundai-story/career/overview.html)
 
+
 ### [IBM](https://www.ibm.com/in-en/employment/)
+
+### [Iasys](https://www.iasys.co.in/career.php)
+
 
 ### [InMobi](https://www.inmobi.com/company/careers/)
 
 ### [Igneous Infotech](http://ingenious-infotech.com/#career)
+
+### [Incedoic](https://www.incedoinc.com/careers/)
 
 ### [Infonaya](https://www.infonaya.com/Career.aspx)
 
@@ -318,6 +328,8 @@
 
 ### [Philips](https://www.careers.philips.com/global/en)
 
+### [Plintron](https://www.plintron.com/en/career)
+
 ### [Postman](https://www.postman.com/company/careers/)
 
 ### [Quikr](https://www.quikr.com/html/jobs.php)
@@ -380,7 +392,11 @@
 
 ### [Slack](https://slack.com/intl/en-in/careers)
 
+
 ### [Sunsure Energy](https://www.sunsure-energy.com/careers)
+
+### [Syntel](https://www.atos-syntel.net/careers)
+
 
 ### [TaskBob](https://taskbob2015.recruiterbox.com/)
 
