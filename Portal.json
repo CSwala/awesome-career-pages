@@ -64,6 +64,10 @@
 	   "Link" : "https://www.arkinfo.in/career"},
 
 	{	"iscompany"	: true,
+	     	"Title" : "Atos" ,
+        "Link" : "https://atos.net/en/careers"},  
+
+	{	"iscompany"	: true,
 	    	"Title" : "Ather Energy" ,
 		"Link" : "https://www.atherenergy.com/careers"},
 
@@ -321,8 +325,16 @@
 		"Link" : "https://www.hyundai.com/in/en/hyundai-story/career/overview.html"},
 
 	{	"iscompany"	: true,
+			"Title" : "Iasys" ,
+	   "Link" : "https://www.iasys.co.in/career.php"},	
+
+	{	"iscompany"	: true,
 			"Title" : "Igneous Infotech" ,
 	   "Link" : "http://ingenious-infotech.com/#career"},
+	   
+	{	"iscompany"	: true,
+		"Title" : "Incedo" ,
+   "Link" : "https://www.incedoinc.com/careers/"},
 
 	{	"iscompany"	: true,
 	    	"Title" : "Infilon" ,
@@ -524,6 +536,10 @@
 	{	"iscompany"	: true,
 		"Title" : "PhonePe" ,
 		"Link" : "https://www.phonepe.com/careers/"},	
+		
+	{	"iscompany"	: true,
+			"Title" : "Plintron",
+		"Link" : "https://www.plintron.com/en/career"},
 
 	{	"iscompany"	: true,
 		"Title" : "Postman" ,
@@ -636,7 +652,11 @@
 	{	"iscompany"	: true,
 		"Title" : "Synopsys" ,
 		"Link" : "https://www.synopsys.com/careers.html"},
-
+	
+	{	"iscompany"	: true,
+			"Title" : "Syntel" ,
+			"Link" : "https://www.atos-syntel.net/careers"},
+		
 	{	"iscompany"	: true,
 			"Title" : "TaskBob" ,
 	    "Link" : "https://taskbob2015.recruiterbox.com/"},
