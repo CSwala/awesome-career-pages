@@ -91,6 +91,10 @@
 			"Title" : "Bitrix Infotech" ,
 			 "Link" : "https://bitrixinfotech.com/career"},
 
+    {	"iscompany"	: true,
+		"Title" : "Blackhawk" ,
+     	 "Link" : "https://blackhawknetwork.com/company/careers"},		 
+
 	{	"iscompany"	: true,
 			"Title" : "BNY Mellon" ,
 		 "Link" : "https://www.bnymellon.com/us/en/careers/students.html"},
@@ -102,6 +106,15 @@
 		 {	"iscompany"	: true,
 	 			"Title" : "BYJU’S" ,
 	 		 "Link" : "https://byjus.com/careers-at-byjus/)"},
+	
+    {	"iscompany"	: true,
+		"Title" : "Capillary" ,
+    	 "Link" : "https://www.capillarytech.com/about-us/careers/"},
+
+		 
+	{	"iscompany"	: true,
+		"Title" : "CasaOne" ,
+	 "Link" : "https://casaone.skillate.com/"},
 
 	{	"iscompany"	: true,
 			"Title" : "CashFree" ,
@@ -145,12 +158,25 @@
 		"Link" : "https://www.cohesity.com/company/careers/"},
 
 	{	"iscompany"	: true,
+			"Title" : "Commvault" ,
+			"Link" : "https://careers.commvault.com/"},
+	
+
+	{	"iscompany"	: true,
 			"Title" : "Comsoft" ,
 	    "Link" : "https://www.comsoft.com.sg/EN/html/careers.htm"},
 
 	{	"iscompany"	: true,
 			"Title" : "COSGrid" ,
 		"Link" : "https://www.cosgrid.com/careers"},
+		
+	{	"iscompany"	: true,
+		"Title" : "CRED" ,
+		"Link" : "https://careers.cred.club/"},
+
+	{	"iscompany"	: true,
+		"Title" : "Crio.Do" ,
+		"Link" : "https://www.crio.do/recruit/"},
 		
 	{	"iscompany"	: true,
 		"Title" : "Cure.Fit" ,
@@ -263,10 +289,14 @@
 	{	"iscompany"	: true,
 			"Title" : "Glu" ,
 		"Link" : "https://www.glu.com/working-at-glu/"},
+	
+		{	"iscompany"	: true,
+	        "Title" : "Goibibo" ,
+		"Link" : "https://www.goibibo.com/careers/"},
 
 	{	"iscompany"	: true,
 	        "Title" : "Gojek" ,
-		"Link" : "https://www.gojek.io/careers/"},
+		"Link" : "https://www.gojek.io/careers/"},	
 
 	{	"iscompany"	: true,
 	        "Title" : "Goldman Sachs" ,
@@ -384,6 +414,11 @@
 	{	"iscompany"	: true,
 	        "Title" : "JP Morgan" ,
 		"Link" : "https://careers.jpmorgan.com/us/en/home"},
+    
+		{	"iscompany"	: true,
+	        "Title" : "Jumbotail" ,
+		"Link" : "https://jumbotail.com/careers/"},
+			
 
 	{	"iscompany"	: true,
 		"Title" : "Junglee Games" ,
@@ -392,6 +427,19 @@
 	{	"iscompany"	: true,
 	        "Title" : "JusPay" ,
 		"Link" : "https://www.juspay.in/careers"},
+
+		{	"iscompany"	: true,
+	        "Title" : "Kaleyra" ,
+		"Link" : "https://www.kaleyra.com/careers/"},	
+
+		{	"iscompany"	: true,
+	        "Title" : "Kickstarter" ,
+		"Link" : "https://jobs.kickstarter.com/"},	
+
+		
+		{	"iscompany"	: true,
+	        "Title" : "LTI" ,
+		"Link" : "https://careers.lntinfotech.com/search/careers.lntinfotech.com?q=&sortColumn=referencedate&sortDirection=asc"},	
 
 	{	"iscompany"	: true,
 			"Title" : "Maq" ,
@@ -416,6 +464,10 @@
 	{	"iscompany"	: true,
 		"Title" : "Media.net" ,
 		 "Link" : "https://careers.media.net/"},
+
+		 {	"iscompany"	: true,
+	        "Title" : "Meesho" ,
+		"Link" : "https://careers.meesho.com/"},
 
 	{	"iscompany"	: true,
 		"Title" : "Microsoft" ,
@@ -465,9 +517,18 @@
 		"Title" : "Neosoft" ,
 		"Link" : "https://www.neosofttech.com/careers"},
 
-		{	"iscompany"	: true,
- 	        "Title" : "NetApp" ,
+	{"iscompany"	: true,
+		"Title" : "Nestle" ,
+		"Link" : "https://www.nestle.in/jobs"},
+
+	{	"iscompany"	: true,
+ 	    "Title" : "NetApp" ,
  		"Link" : "https://www.nagarro.com/en/careers"},
+		
+   {	"iscompany"	: true,
+		"Title" : "Ninjacart" ,
+        "Link":"https://ninjacart.in/careers"},
+		 
 
 	 {	"iscompany"	: true,
  	        "Title" : "NortonLifeLock" ,
@@ -517,6 +578,10 @@
 	        "Title" : "Paypal" ,
 		"Link" : "https://www.paypal.com/us/webapps/mpp/jobs/students-and-grads/internships"},
 
+		{	"iscompany"	: true,
+	        "Title" : "PayScale" ,
+		"Link" : "https://www.payscale.com/research/IN/Job"},	
+
 	{	"iscompany"	: true,
 		"Title" : "Paytm" ,
 		"Link" : "https://paytm.com/careers/"},
@@ -536,6 +601,12 @@
 	{	"iscompany"	: true,
 		"Title" : "PhonePe" ,
 		"Link" : "https://www.phonepe.com/careers/"},	
+
+		
+	{	"iscompany"	: true,
+		"Title" : "Playment",
+		"Link" : "https://playment.io/careers"
+	},		
 		
 	{	"iscompany"	: true,
 			"Title" : "Plintron",
@@ -557,6 +628,10 @@
 			"Title" : "Radixweb" ,
 		 "Link" : "https://radixweb.com/current-openings"},
 
+		 {	"iscompany"	: true,
+			"Title" : "Rakuten" ,
+		 "Link" : "https://rakuten.careers/"},	 
+
 	{	"iscompany"	: true,
 		"Title" : "Razorpay" ,
 		"Link" : "https://razorpay.com/jobs/"},	 
@@ -564,6 +639,10 @@
 	{	"iscompany"	: true,
 	        "Title" : "Reliance" ,
 		"Link" : "https://careers.ril.com/"},
+
+		{	"iscompany"	: true,
+	        "Title" : "Refinery29" ,
+		"Link" : "https://corporate.r29.com/careers#careers-intro"},		
 
 	{	"iscompany"	: true,
 		"Title" : "Revalsys" ,
@@ -605,6 +684,12 @@
 			"Title" : "Sapphire Solutions" ,
 	   "Link" : "https://www.sapphiresolutions.net/careers"},
 
+	{ 
+		"iscompany" : true,
+		"Title" :"Scality",
+		"Link" :"https://www.scality.com/careers"
+	},   
+
 	{	"iscompany"	: true,
 			"Title" : "Secure Logic" ,
 		"Link" : "https://securelogicgroup.com/about-us/careers/"},
@@ -630,6 +715,10 @@
 		"Link" : "https://slack.com/intl/en-in/careers"},
 
 	{	"iscompany"	: true,
+			"Title" : "Slice" ,
+			"Link" : "https://www.slice.is/work-at-slice/"},	
+
+	{	"iscompany"	: true,
 			"Title" : "Solusoft" ,
 	    "Link" : "https://www.solu-soft.com/careers_workinghere.html"},
 
@@ -637,10 +726,25 @@
 			"Title" : "Spectrum" ,
 	   "Link" : "https://jobs.spectrum.com/"},
 
+	
+	{   "iscompany"	: true,
+		"Title" : "Spotify" ,
+        "Link" : "https://www.spotifyjobs.com/"},   
+
 	{	"iscompany"	: true,
 	        "Title" : "Sprinklr" ,
 		"Link" : "https://www.sprinklr.com/careers"},
+		
+		{
+			"iscompany"	: true,
+			"Title" : "SquadStack" ,
+			"Link" :"https://www.squadstack.com/careers/"},	
 
+	{
+		"iscompany"	: true,
+		"Title" : "Square" ,
+        "Link" :"https://careers.squareup.com/us/en"},
+		
 	{	"iscompany"	: true,
 		"Title" : "SumoLogic" ,
 		"Link" : "https://www.sumologic.com/company/careers/"},
@@ -705,6 +809,12 @@
 	        "Title" : "Uber" ,
 	        "Link" : "https://www.uber.com/us/en/careers/"},
 
+    { "iscompany"	: true,
+		"Title" : "Ubisoft" ,
+		"Link" : "https://www.ubisoft.com/en-us/company/careers/working-at-ubisoft"
+	},
+    			
+
 	{	"iscompany"	: true,
 		"Title" : "Udaan" ,
 		"Link" : "https://careers.udaan.com/#!/"},
@@ -720,6 +830,14 @@
 	{	"iscompany"	: true,
 	        "Title" : "Urban Company" ,
 		"Link" : "https://careers.urbancompany.com/"},
+
+		{	"iscompany"	: true,
+	        "Title" : "Urban Ladder" ,
+		"Link" : "https://www.urbanladder.com/careers#undefined"},	
+		
+	{	"iscompany"	: true,
+	        "Title" : "Vogo" ,
+		"Link" : "https://vogo.in/careers/"},		
 
 	{	"iscompany"	: true,
 			 "Title" : "Visa" ,
