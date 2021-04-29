@@ -230,6 +230,10 @@
 	    "Link" : "https://www.comsoft.com.sg/EN/html/careers.htm"},
 
 	{	"iscompany"	: true,
+			"Title" : "Copucom" ,
+	    "Link" : "https://www.compucom.com/careers/"},	
+
+	{	"iscompany"	: true,
 			"Title" : "COSGrid" ,
 		"Link" : "https://www.cosgrid.com/careers"},
 		
@@ -984,6 +988,14 @@
 		"Link" : "https://vogo.in/careers/"},		
 
 	{	"iscompany"	: true,
+	        "Title" : "V2soft" ,
+		"Link" : "https://www.v2soft.com/careers"},	
+		
+	{	"iscompany"	: true,
+	        "Title" : "Vfirst" ,
+		"Link" : "https://www.vfirst.com/join-the-joy"},
+
+	{	"iscompany"	: true,
 			 "Title" : "Visa" ,
 			 "Link" : "https://www.visa.co.in/careers.html"},
 
@@ -1000,6 +1012,10 @@
 		"Link" : "https://careers.walmart.com/"},
 
 	{	"iscompany"	: true,
+			"Title" : "Waymo" ,
+			"Link" : "https://waymo.com/careers/"},	
+
+	{	"iscompany"	: true,
 		"Title" : "Wells Fargo" ,
 		"Link" : "https://www.wellsfargo.com/about/careers/"},
 		
@@ -1014,6 +1030,10 @@
 	{	"iscompany"	: true,
 		"Title" : "WorldQuant" ,
 		"Link" : "https://www.weareworldquant.com/en/careers/"},
+
+	{	"iscompany"	: true,
+			"Title" : "Xero" ,
+			"Link" : "https://www.xero.com/about/careers/"},	
 
 	{	"iscompany"	: true,
 					"Title" : "Xilinx" ,
