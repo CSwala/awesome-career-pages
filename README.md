@@ -32,15 +32,25 @@
 
 ### [Airtel](https://www.airtel.in/careers/)
 
+### [AirGarage](https://airgara.ge/careers/)
+
 ### [Ajio](https://www.ajio.com/ajio-careers)
+
+### [Alphabet Inc](https://abc.xyz)
+
+### [Alibaba Group](https://careers.alibaba.com)
 
 ### [Amazon](https://www.amazon.jobs/en-gb/)
 
 ### [American Express](https://careers.americanexpress.com/)
 
+### [Amdocs](https://jobs.amdocs.com/search/)
+
 ### [Anaxee](https://www.anaxee.com/career/)
 
 ### [Apple](https://www.apple.com/jobs/in/)
+
+### [Apex Technology](https://www.apextechnologies.info/job-vacancies.html)
 
 ### [Arcesium](https://www.arcesium.com/careers.html)
 
@@ -48,7 +58,11 @@
 
 ### [Ark Info](https://www.arkinfo.in/career)
 
+
+### [Armaco](https://www.aramco.com)
+
 ### [Atos](https://atos.net/en/careers)
+
 
 ### [Ather Energy](https://www.atherenergy.com/careers)
 
@@ -57,6 +71,8 @@
 ### [Aujas](https://www.aujas.com/cybersecurity-careers)
 
 ### [Avail Finance](https://availfinance.in/opportunities/)
+
+### [Berkshire Hathaway Inc](https://www.bhhc.com/careers/career-opportunities.aspx)
 
 ### [Biocon](https://www.biocon.com/careers/)
 
@@ -68,13 +84,19 @@
 
 ### [BNY Mellon](https://www.bnymellon.com/us/en/careers/students.html)
 
+### [Brooklinen](https://www.brooklinen.com/pages/careers)
+
 ### [BYJU’S](https://byjus.com/careers-at-byjus/)
 
 ### [Capillary](https://www.capillarytech.com/about-us/careers/)
 
 ### [CasaOne](https://casaone.skillate.com/)
 
+### [Cameo](https://careers.cameo.com)
+
 ### [CashFree](https://www.cashfree.com/careers)
+
+### [Chime](https://www.chime.com/careers/)
 
 ### [Cisco](https://jobs.cisco.com/)
 
@@ -84,11 +106,17 @@
 
 ### [Citrix](https://jobs.citrix.com/)
 
+### [Confluent](https://www.confluent.io/careers/)
+
 ### [Code Nation](http://codenation.co.in/hiringphilosophy.html)
 
 ### [Cohesity](https://www.cohesity.com/company/careers/)
 
+### [CueMath](https://www.cuemath.com/work-from-home/)
+
 ### [Cure.Fit](https://www.cure.fit/careers)
+
+### [Curology](https://curology.com/careers/)
 
 ### [Cognizant](https://careers.cognizant.com/professionals/na/en)
 
@@ -110,7 +138,15 @@
 
 ### [Cygnet](https://www.cygnet-infotech.com/job-opportunities)
 
+### [Databricks](https://databricks.com/company/careers)
+
 ### [Datadog](https://www.datadoghq.com/careers/)
+
+### [Dave](https://dave.com/careers)
+
+### [Dell EMC](https://www.dell.com/learn/in/en/incorp1/viewall/careers)
+
+### [Divvy Homes](https://jobs.lever.co/divvyhomes)
 
 ### [DropBox](https://www.datadoghq.com/careers/)
 
@@ -182,6 +218,8 @@
 
 ### [Harness](https://harness.io/careers/)
 
+### [Hewlett-Packard](https://jobs.hp.com/en-us/)
+
 ### [Hotstar](https://tech.hotstar.com/)
 
 ### [Hike messenger](https://www.hike.in/workathike/)
@@ -192,7 +230,11 @@
 
 ### [Hyundai](https://www.hyundai.com/in/en/hyundai-story/career/overview.html)
 
+
+### [IBM](https://www.ibm.com/in-en/employment/)
+
 ### [Iasys](https://www.iasys.co.in/career.php)
+
 
 ### [InMobi](https://www.inmobi.com/company/careers/)
 
@@ -306,6 +348,8 @@
 
 ### [PayScale](https://www.payscale.com/research/IN/Job)
 
+### [Pegasystems](https://www.pega.com/about/careers)
+
 ### [Persistent](https://www.persistent.com/careers/)
 
 ### [PharmEasy](https://pharmeasy.in/careers/)
@@ -329,6 +373,8 @@
 ### [Rakuten](https://rakuten.careers/)
 
 ### [Razorpay](https://razorpay.com/jobs/)
+
+### [RedHat](https://www.redhat.com/en/jobs)
 
 ### [Reliance](https://careers.ril.com/)
 
@@ -360,6 +406,8 @@
 
 ### [SAP](https://www.sap.com/india/about/careers.html)
 
+### [Snowflake](https://careers.snowflake.com)
+
 ### [Synopsys](https://www.synopsys.com/careers.html)
 
 ### [Siemens](https://new.siemens.com/global/en/company/jobs/search-careers.html)
@@ -390,7 +438,11 @@
 
 ### [Slice](https://www.slice.is/work-at-slice/)
 
+
+### [Sunsure Energy](https://www.sunsure-energy.com/careers)
+
 ### [Syntel](https://www.atos-syntel.net/careers)
+
 
 ### [TaskBob](https://taskbob2015.recruiterbox.com/)
 
@@ -409,6 +461,10 @@
 ### [ThoughtWorks](https://www.thoughtworks.com/careers/us)
 
 ### [Techment](https://www.techment.com/software-companies-in-chhattisgarh/)
+
+### [Tencent Holdings Ltd](https://www.tencent.com/en-us/about.html)
+
+### [Tesla](https://www.tesla.com/about)
 
 ### [Tower Research](https://www.tower-research.com/positions)
 
