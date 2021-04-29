@@ -128,6 +128,8 @@
 
 ### [Comsoft](https://www.comsoft.com.sg/EN/html/careers.htm)
 
+### [Copucom](https://www.compucom.com/careers/)
+
 ### [COSGrid](https://www.cosgrid.com/careers)
 
 ### [CRED](https://careers.cred.club/)
@@ -486,6 +488,10 @@
 
 ### [Urban Ladder](https://www.urbanladder.com/careers#undefined)
 
+### [V2soft](https://www.v2soft.com/careers)
+
+### [Vsoft](https://www.vfirst.com/join-the-joy)
+
 ### [Vogo](https://vogo.in/careers/)
 
 ### [Vokal](https://www.vokal.io/careers)
@@ -493,6 +499,8 @@
 ### [Visa](https://www.visa.co.in/careers.html)
 
 ### [VMware](https://careers.vmware.com/main/)
+
+### [Waymo](https://waymo.com/careers/)
 
 ### [Wipro](https://careers.wipro.com/careers-home/)
 
@@ -503,6 +511,8 @@
 ### [Western Digital](https://jobs.westerndigital.com/)
 
 ### [World Quant](https://www.weareworldquant.com/en/careers/)
+
+### [Xero](https://www.xero.com/about/careers/)
 
 ### [Xilinx](https://careers.xilinx.com/)
 
