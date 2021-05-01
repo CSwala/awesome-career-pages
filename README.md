@@ -74,9 +74,15 @@
 
 ### [Berkshire Hathaway Inc](https://www.bhhc.com/careers/career-opportunities.aspx)
 
+### [BearingPoint](https://www.bearingpoint.com/en/our-people/careers/)
+
 ### [Biocon](https://www.biocon.com/careers/)
 
 ### [Bitrix Infotech](https://bitrixinfotech.com/career)
+
+### [Blackhawk](https://blackhawknetwork.com/company/careers)
+
+### [BMC Software](https://www.bmc.com/careers/careers.html)
 
 ### [BPL India](https://www.bplindia.in/careers.html)
 
@@ -86,9 +92,21 @@
 
 ### [BYJU’S](https://byjus.com/careers-at-byjus/)
 
+### [BT Global Services](https://www.bt.com/careers)
+
+### [Capillary](https://www.capillarytech.com/about-us/careers/)
+
+### [Capita](https://www.capita.com/careers)
+
+### [Capgemini](https://www.capgemini.com/in-en/careers/)
+
+### [CasaOne](https://casaone.skillate.com/)
+
 ### [Cameo](https://careers.cameo.com)
 
 ### [CashFree](https://www.cashfree.com/careers)
+
+### [CGI Group](https://www.cgi.com/en/careers)
 
 ### [Chime](https://www.chime.com/careers/)
 
@@ -118,9 +136,17 @@
 
 ### [Cognologix](https://cognologix.com/)
 
+### [Commvault](https://careers.commvault.com/)
+
 ### [Comsoft](https://www.comsoft.com.sg/EN/html/careers.htm)
 
+### [Copucom](https://www.compucom.com/careers/)
+
 ### [COSGrid](https://www.cosgrid.com/careers)
+
+### [CRED](https://careers.cred.club/)
+
+### [Crio.Do](https://www.crio.do/recruit/)
 
 ### [Cybage](https://www.cybage.com/careers/current-openings)
 
@@ -134,7 +160,11 @@
 
 ### [Dell EMC](https://www.dell.com/learn/in/en/incorp1/viewall/careers)
 
+### [Diebold](https://www.dieboldnixdorf.com/en-us/careers)
+
 ### [Divvy Homes](https://jobs.lever.co/divvyhomes)
+
+### [Dimension Data](https://www.dimensiondata.com/en-gb/careers)
 
 ### [DropBox](https://www.datadoghq.com/careers/)
 
@@ -156,15 +186,21 @@
 
 ### [eBay](https://careers.ebayinc.com/)
 
+### [Ericsson](https://www.ericsson.com/en/careers)
+
 ### [Expedia Group](https://lifeatexpediagroup.com/)
 
 ### [Ecotech](https://www.ecotech.com/careers/career-opportunities/)
 
 ### [Exceptionaire](https://www.exceptionaire.com/careers/)
 
+### [Experian](https://www.experian.in/careers)
+
 ### [Facebook](https://www.facebook.com/careers/)
 
 ### [Fidelity Investments](https://india.fidelity.com/careers/)
+
+### [Fiserv](https://www.careers.fiserv.com)
 
 ### [Flipkart](https://www.flipkartcareers.com/#!/)
 
@@ -181,6 +217,8 @@
 ### [Global Space](https://globalspace.in/career.php)
 
 ### [Gobussoft](https://globussoft.com/vacancies/)
+
+### [Goibibo](https://www.goibibo.com/careers/)
 
 ### [Gojek](https://www.gojek.io/careers/)
 
@@ -211,6 +249,8 @@
 ### [Hike messenger](https://www.hike.in/workathike/)
 
 ### [Hiring Plug](https://www.hiringplug.com/careers.php)
+
+### [Hitachi](https://careers.hitachi.com)
 
 ### [HSBC](https://www.hsbc.com/careers)
 
@@ -248,13 +288,33 @@
 
 ### [ION Energy](https://apply.workable.com/ionenergy/?lng=en)
 
+### [Iron Mountain](https://www.ironmountain.com/in/about-us/careers)
+
 ### [Jeavio](https://www.jeavio.com/careers)
 
 ### [JP Morgan](https://careers.jpmorgan.com/us/en/home)
 
+### [Jumbotail](https://jumbotail.com/careers/)
+
 ### [Juspay](https://www.juspay.in/careers)
 
 ### [Junglee Games](https://www.jungleegames.com/grow.php)
+
+### [Kaleyra](https://www.kaleyra.com/careers/)
+
+### [Kickstarter](https://jobs.kickstarter.com/)
+
+### [KPN](http://www.kpn-corp.com/?page_id=201)
+
+### [LTI](https://careers.lntinfotech.com/search/careers.lntinfotech.com?q=&sortColumn=referencedate&sortDirection=asc)
+
+### [Lockheed Martin](https://www.lockheedmartin.com/en-ca/careers.html)
+
+### [Logica](https://www.naukri.com/logica-pvt-ltd-jobs-careers-333271)
+
+### [Mahindra](https://careers.techmahindra.com)
+
+### [Mantech International](https://www.mantech.com/careers)
 
 ### [Maq](https://maqsoftware.com/careers)
 
@@ -265,6 +325,8 @@
 ### [Maven Workforce](https://www.mavenworkforce.com/jobs)
 
 ### [McAfee](https://careers.mcafee.com/search-jobs)
+
+### [Meesho](https://careers.meesho.com/)
 
 ### [Monkhub](https://www.monkhub.com/jobs/)
 
@@ -290,15 +352,23 @@
 
 ### [NetApp](https://www.arista.com/en/careers/india)
 
+### [Ninjacart](https://ninjacart.in/careers)
+
 ### [NortonLifeLock](https://stage-www.nortonlifelock.com/us/en/careers/)
 
 ### [NASSCOM](https://nasscom.in/about-us/career)
 
 ### [Nutanix](https://www.nutanix.com/company/careers)
 
+### [NEC](https://in.nec.com/en_IN/career/jobs-at-NEC.html)
+
 ### [Neosoft](https://www.neosofttech.com/careers)
 
+### [Nestle](https://www.nestle.in/jobs)
+
 ### [NVIDIA](https://www.nvidia.com/en-in/about-nvidia/careers/)
+
+### [NTT Data Corporation](https://careers-inc.nttdata.com)
 
 ### [O9Solutions](https://o9solutions.com/careers/)
 
@@ -318,6 +388,8 @@
 
 ### [Paypal](https://www.paypal.com/us/webapps/mpp/jobs/students-and-grads/internships)
 
+### [PayScale](https://www.payscale.com/research/IN/Job)
+
 ### [Pegasystems](https://www.pega.com/about/careers)
 
 ### [Persistent](https://www.persistent.com/careers/)
@@ -327,6 +399,8 @@
 ### [PhonePe](https://www.phonepe.com/careers/)
 
 ### [Philips](https://www.careers.philips.com/global/en)
+
+### [Playment](https://playment.io/careers)
 
 ### [Plintron](https://www.plintron.com/en/career)
 
@@ -338,11 +412,15 @@
 
 ### [RadixWeb](https://radixweb.com/current-openings)
 
+### [Rakuten](https://rakuten.careers/)
+
 ### [Razorpay](https://razorpay.com/jobs/)
 
 ### [RedHat](https://www.redhat.com/en/jobs)
 
 ### [Reliance](https://careers.ril.com/)
+
+### [Refinery29](https://corporate.r29.com/careers#careers-jobs)
 
 ### [Rubrik](https://www.rubrik.com/en/company/careers)
 
@@ -355,6 +433,8 @@
 ### [Rupeek](https://www.rivigo.com/careers/)
 
 ### [Samsung](https://www.samsung.com/in/aboutsamsung/careers/careers-center/)
+
+### [Scality](https://www.scality.com/careers)
 
 ### [SumoLogic](https://www.sumologic.com/company/careers/)
 
@@ -382,7 +462,13 @@
 
 ### [Spectrum](https://jobs.spectrum.com/)
 
+### [Spotify](https://www.spotifyjobs.com/)
+
 ### [Sprinklr](https://www.sprinklr.com/careers)
+
+### [SquadStack](https://www.squadstack.com/careers/)
+
+### [Square](https://careers.squareup.com/us/en)
 
 ### [Swiggy](https://careers.swiggy.com/#/)
 
@@ -392,12 +478,19 @@
 
 ### [Slack](https://slack.com/intl/en-in/careers)
 
+### [Slice](https://www.slice.is/work-at-slice/)
+
+### [Sopra Steria](https://www.soprasteria.com/careers)
 
 ### [Sunsure Energy](https://www.sunsure-energy.com/careers)
 
+### [SunGard](https://careers.sungardas.com)
+
 ### [Syntel](https://www.atos-syntel.net/careers)
 
+### [Symantec Software Company](https://www.careerbliss.com/symantec/)
 
+### [T Systems](https://www.t-systems.com/in/en/careers)
 ### [TaskBob](https://taskbob2015.recruiterbox.com/)
 
 ### [TCS](https://www.tcs.com/careers?country=IN&lang=EN)
@@ -428,6 +521,8 @@
 
 ### [Uber](https://www.uber.com/us/en/careers/)
 
+### [Ubisoft](https://www.ubisoft.com/en-us/company/careers/working-at-ubisoft)
+
 ### [Udaan](https://careers.udaan.com/#!/)
 
 ### [Unacademy](https://apply.workable.com/unacademy/)
@@ -436,11 +531,21 @@
 
 ### [Urban Company](https://careers.urbancompany.com/)
 
+### [Urban Ladder](https://www.urbanladder.com/careers#undefined)
+
+### [V2soft](https://www.v2soft.com/careers)
+
+### [Vsoft](https://www.vfirst.com/join-the-joy)
+
+### [Vogo](https://vogo.in/careers/)
+
 ### [Vokal](https://www.vokal.io/careers)
 
 ### [Visa](https://www.visa.co.in/careers.html)
 
 ### [VMware](https://careers.vmware.com/main/)
+
+### [Waymo](https://waymo.com/careers/)
 
 ### [Wipro](https://careers.wipro.com/careers-home/)
 
@@ -451,6 +556,10 @@
 ### [Western Digital](https://jobs.westerndigital.com/)
 
 ### [World Quant](https://www.weareworldquant.com/en/careers/)
+
+### [World Wide Technology](https://www.wwt.com/about/careers)
+
+### [Xero](https://www.xero.com/about/careers/)
 
 ### [Xilinx](https://careers.xilinx.com/)
 
