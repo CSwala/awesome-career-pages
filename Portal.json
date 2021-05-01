@@ -882,6 +882,18 @@
 		"Title" : "SAP" ,
 		"Link" : "https://www.sap.com/india/about/careers.html"},
 
+		{	"iscompany"	: true,
+			"Title" : "Sirion Labs" ,
+			"Link" : "https://www.sirionlabs.com/careers/"},
+
+			{	"iscompany"	: true,
+				"Title" : "Snapdeal" ,
+				"Link" : "https://qa.snapdeal.com/info/jobs"},
+
+				{	"iscompany"	: true,
+					"Title" : "Syska" ,
+					"Link" : "https://syska.co.in/career"},
+
 	{	"iscompany"	: true,
 			"Title" : "Sapphire Solutions" ,
 	   "Link" : "https://www.sapphiresolutions.net/careers"},
