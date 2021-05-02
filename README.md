@@ -15,8 +15,13 @@
 ![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square)
 ![Maintenance](https://img.shields.io/maintenance/yes/2021)
 
+### [(24)7.ai ](https://www.247.ai/career-search)
 
 ### [Accenture](https://www.accenture.com/in-en/careers)
+
+### [1mg](https://www.1mg.com/jobs)
+
+### [Akamai](https://www.akamai.com/uk/en/about/careers/)
 
 ### [Acaira](https://www.acaira.com/Career.aspx)
 
@@ -58,11 +63,9 @@
 
 ### [Ark Info](https://www.arkinfo.in/career)
 
-
 ### [Armaco](https://www.aramco.com)
 
 ### [Atos](https://atos.net/en/careers)
-
 
 ### [Ather Energy](https://www.atherenergy.com/careers)
 
@@ -90,6 +93,14 @@
 
 ### [Brooklinen](https://www.brooklinen.com/pages/careers)
 
+### [bajaj](https://www.bajajgroup.org/careers)
+
+### [BankBazar](https://www.bankbazaar.com/careers.html)
+
+### [BigBasket](https://careers.bigbasket.com/)
+
+### [BrowserStack](https://www.browserstack.com/careers)
+
 ### [BYJU’S](https://byjus.com/careers-at-byjus/)
 
 ### [BT Global Services](https://www.bt.com/careers)
@@ -101,6 +112,12 @@
 ### [Capgemini](https://www.capgemini.com/in-en/careers/)
 
 ### [CasaOne](https://casaone.skillate.com/)
+
+### [Cadence](https://www.cadence.com/en_US/home/company/careers.html)
+
+### [ClearTax](https://cleartax.in/s/careers)
+
+### [ClearTrip](https://careers.cleartrip.com/)
 
 ### [Cameo](https://careers.cameo.com)
 
@@ -220,6 +237,8 @@
 
 ### [Goibibo](https://www.goibibo.com/careers/)
 
+### [Grofers](https://grofers.com/careers/)
+
 ### [Gojek](https://www.gojek.io/careers/)
 
 ### [GitHub](https://github.com/about/careers)
@@ -256,11 +275,9 @@
 
 ### [Hyundai](https://www.hyundai.com/in/en/hyundai-story/career/overview.html)
 
-
 ### [IBM](https://www.ibm.com/in-en/employment/)
 
 ### [Iasys](https://www.iasys.co.in/career.php)
-
 
 ### [InMobi](https://www.inmobi.com/company/careers/)
 
@@ -269,6 +286,10 @@
 ### [Incedoic](https://www.incedoinc.com/careers/)
 
 ### [Infonaya](https://www.infonaya.com/Career.aspx)
+
+### [Info Edge](https://careers.infoedge.com/)
+
+### [Ixigo](https://www.ixigo.com/about/careers/)
 
 ### [Infilon](https://www.infilon.com/career/)
 
@@ -292,6 +313,8 @@
 
 ### [Jeavio](https://www.jeavio.com/careers)
 
+### [Juniper Networks](https://www.juniper.net/us/en/company/careers/)
+
 ### [JP Morgan](https://careers.jpmorgan.com/us/en/home)
 
 ### [Jumbotail](https://jumbotail.com/careers/)
@@ -308,6 +331,7 @@
 
 ### [LTI](https://careers.lntinfotech.com/search/careers.lntinfotech.com?q=&sortColumn=referencedate&sortDirection=asc)
 
+
 ### [Lockheed Martin](https://www.lockheedmartin.com/en-ca/careers.html)
 
 ### [Logica](https://www.naukri.com/logica-pvt-ltd-jobs-careers-333271)
@@ -316,7 +340,16 @@
 
 ### [Mantech International](https://www.mantech.com/careers)
 
+### [Lenovo](https://lenovocareers.com/)
+
+### [Livspace](https://www.livspace.com/in/careers)
+
+
 ### [Maq](https://maqsoftware.com/careers)
+
+### [Master Card](https://www.mastercard.us/en-us/vision/who-we-are/careers.html)
+
+### [Mobikwik](https://www.mobikwik.com/career)
 
 ### [Mathworks](https://in.mathworks.com/company/jobs/opportunities.html)
 
@@ -366,6 +399,8 @@
 
 ### [Nestle](https://www.nestle.in/jobs)
 
+### [netflix](https://jobs.netflix.com/location?slug=mumbai-india)
+
 ### [NVIDIA](https://www.nvidia.com/en-in/about-nvidia/careers/)
 
 ### [NTT Data Corporation](https://careers-inc.nttdata.com)
@@ -395,6 +430,12 @@
 ### [Persistent](https://www.persistent.com/careers/)
 
 ### [PharmEasy](https://pharmeasy.in/careers/)
+
+### [PayU](https://payu.in/careers)
+
+### [Practo](https://practo.app.param.ai/jobs/)
+
+### [Proptiger](https://www.proptiger.com/careers)
 
 ### [PhonePe](https://www.phonepe.com/careers/)
 
@@ -447,6 +488,12 @@
 ### [Shell](https://www.shell.com/careers.html)
 
 ### [SAP](https://www.sap.com/india/about/careers.html)
+
+### [Sirion Labs](https://www.sirionlabs.com/careers/)
+
+### [Snapdeal](https://qa.snapdeal.com/info/jobs)
+
+### [Syska](https://syska.co.in/career)
 
 ### [Snowflake](https://careers.snowflake.com)
 
