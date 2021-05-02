@@ -77,11 +77,15 @@
 
 ### [Berkshire Hathaway Inc](https://www.bhhc.com/careers/career-opportunities.aspx)
 
+### [BearingPoint](https://www.bearingpoint.com/en/our-people/careers/)
+
 ### [Biocon](https://www.biocon.com/careers/)
 
 ### [Bitrix Infotech](https://bitrixinfotech.com/career)
 
 ### [Blackhawk](https://blackhawknetwork.com/company/careers)
+
+### [BMC Software](https://www.bmc.com/careers/careers.html)
 
 ### [BPL India](https://www.bplindia.in/careers.html)
 
@@ -99,7 +103,13 @@
 
 ### [BYJU’S](https://byjus.com/careers-at-byjus/)
 
+### [BT Global Services](https://www.bt.com/careers)
+
 ### [Capillary](https://www.capillarytech.com/about-us/careers/)
+
+### [Capita](https://www.capita.com/careers)
+
+### [Capgemini](https://www.capgemini.com/in-en/careers/)
 
 ### [CasaOne](https://casaone.skillate.com/)
 
@@ -112,6 +122,8 @@
 ### [Cameo](https://careers.cameo.com)
 
 ### [CashFree](https://www.cashfree.com/careers)
+
+### [CGI Group](https://www.cgi.com/en/careers)
 
 ### [Chime](https://www.chime.com/careers/)
 
@@ -165,7 +177,11 @@
 
 ### [Dell EMC](https://www.dell.com/learn/in/en/incorp1/viewall/careers)
 
+### [Diebold](https://www.dieboldnixdorf.com/en-us/careers)
+
 ### [Divvy Homes](https://jobs.lever.co/divvyhomes)
+
+### [Dimension Data](https://www.dimensiondata.com/en-gb/careers)
 
 ### [DropBox](https://www.datadoghq.com/careers/)
 
@@ -187,15 +203,21 @@
 
 ### [eBay](https://careers.ebayinc.com/)
 
+### [Ericsson](https://www.ericsson.com/en/careers)
+
 ### [Expedia Group](https://lifeatexpediagroup.com/)
 
 ### [Ecotech](https://www.ecotech.com/careers/career-opportunities/)
 
 ### [Exceptionaire](https://www.exceptionaire.com/careers/)
 
+### [Experian](https://www.experian.in/careers)
+
 ### [Facebook](https://www.facebook.com/careers/)
 
 ### [Fidelity Investments](https://india.fidelity.com/careers/)
+
+### [Fiserv](https://www.careers.fiserv.com)
 
 ### [Flipkart](https://www.flipkartcareers.com/#!/)
 
@@ -247,6 +269,8 @@
 
 ### [Hiring Plug](https://www.hiringplug.com/careers.php)
 
+### [Hitachi](https://careers.hitachi.com)
+
 ### [HSBC](https://www.hsbc.com/careers)
 
 ### [Hyundai](https://www.hyundai.com/in/en/hyundai-story/career/overview.html)
@@ -285,6 +309,8 @@
 
 ### [ION Energy](https://apply.workable.com/ionenergy/?lng=en)
 
+### [Iron Mountain](https://www.ironmountain.com/in/about-us/careers)
+
 ### [Jeavio](https://www.jeavio.com/careers)
 
 ### [Juniper Networks](https://www.juniper.net/us/en/company/careers/)
@@ -301,11 +327,23 @@
 
 ### [Kickstarter](https://jobs.kickstarter.com/)
 
+### [KPN](http://www.kpn-corp.com/?page_id=201)
+
 ### [LTI](https://careers.lntinfotech.com/search/careers.lntinfotech.com?q=&sortColumn=referencedate&sortDirection=asc)
+
+
+### [Lockheed Martin](https://www.lockheedmartin.com/en-ca/careers.html)
+
+### [Logica](https://www.naukri.com/logica-pvt-ltd-jobs-careers-333271)
+
+### [Mahindra](https://careers.techmahindra.com)
+
+### [Mantech International](https://www.mantech.com/careers)
 
 ### [Lenovo](https://lenovocareers.com/)
 
 ### [Livspace](https://www.livspace.com/in/careers)
+
 
 ### [Maq](https://maqsoftware.com/careers)
 
@@ -355,6 +393,8 @@
 
 ### [Nutanix](https://www.nutanix.com/company/careers)
 
+### [NEC](https://in.nec.com/en_IN/career/jobs-at-NEC.html)
+
 ### [Neosoft](https://www.neosofttech.com/careers)
 
 ### [Nestle](https://www.nestle.in/jobs)
@@ -362,6 +402,8 @@
 ### [netflix](https://jobs.netflix.com/location?slug=mumbai-india)
 
 ### [NVIDIA](https://www.nvidia.com/en-in/about-nvidia/careers/)
+
+### [NTT Data Corporation](https://careers-inc.nttdata.com)
 
 ### [O9Solutions](https://o9solutions.com/careers/)
 
@@ -485,12 +527,17 @@
 
 ### [Slice](https://www.slice.is/work-at-slice/)
 
+### [Sopra Steria](https://www.soprasteria.com/careers)
 
 ### [Sunsure Energy](https://www.sunsure-energy.com/careers)
 
+### [SunGard](https://careers.sungardas.com)
+
 ### [Syntel](https://www.atos-syntel.net/careers)
 
+### [Symantec Software Company](https://www.careerbliss.com/symantec/)
 
+### [T Systems](https://www.t-systems.com/in/en/careers)
 ### [TaskBob](https://taskbob2015.recruiterbox.com/)
 
 ### [TCS](https://www.tcs.com/careers?country=IN&lang=EN)
@@ -556,6 +603,8 @@
 ### [Western Digital](https://jobs.westerndigital.com/)
 
 ### [World Quant](https://www.weareworldquant.com/en/careers/)
+
+### [World Wide Technology](https://www.wwt.com/about/careers)
 
 ### [Xero](https://www.xero.com/about/careers/)
 
