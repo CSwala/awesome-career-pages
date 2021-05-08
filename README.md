@@ -141,6 +141,8 @@
 
 ### [Cohesity](https://www.cohesity.com/company/careers/)
 
+### [Collabera](https://www.collabera.com/job-apply/)
+
 ### [CueMath](https://www.cuemath.com/work-from-home/)
 
 ### [Cure.Fit](https://www.cure.fit/careers)
@@ -181,9 +183,13 @@
 
 ### [Divvy Homes](https://jobs.lever.co/divvyhomes)
 
+### [Dispatch](https://www.naukri.com/dispatch-jobs)
+
 ### [Dimension Data](https://www.dimensiondata.com/en-gb/careers)
 
 ### [DropBox](https://www.datadoghq.com/careers/)
+
+### [Duck Creek Technologies](https://www.duckcreek.com/careers/)
 
 ### [Dunzo](https://www.dunzo.com/careers)
 
@@ -209,6 +215,8 @@
 
 ### [Ecotech](https://www.ecotech.com/careers/career-opportunities/)
 
+### [Ecolousys Technologies](https://www.naukri.com/ecclousys-technologies-jobs-careers-5221778)
+
 ### [Exceptionaire](https://www.exceptionaire.com/careers/)
 
 ### [Experian](https://www.experian.in/careers)
@@ -228,6 +236,8 @@
 ### [Fynd](https://fynd.careers/)
 
 ### [Flock](https://careers.flock.com/)
+
+### [Full Story](https://www.fullstory.com/careers)
 
 ### [Glu](https://www.glu.com/working-at-glu/)
 
@@ -255,6 +265,8 @@
 
 ### [Greysoft](http://greysoft.co/careers)
 
+### [Guild Education](https://careers.guildeducation.com)
+
 ### [HIE HQ](https://hiehq.com/career)
 
 ### [HackerRank](https://www.hackerrank.com/careers)
@@ -272,6 +284,8 @@
 ### [Hitachi](https://careers.hitachi.com)
 
 ### [HSBC](https://www.hsbc.com/careers)
+
+### [HRDevi Talent Acquistion](http://www.hrdevi.co.in)
 
 ### [Hyundai](https://www.hyundai.com/in/en/hyundai-story/career/overview.html)
 
@@ -344,8 +358,11 @@
 
 ### [Livspace](https://www.livspace.com/in/careers)
 
+### [Master Class](https://careers.masterclass.com)
 
 ### [Maq](https://maqsoftware.com/careers)
+
+### [Magazine3](https://www.naukri.com/magazine3-jobs-careers-2374534)
 
 ### [Master Card](https://www.mastercard.us/en-us/vision/who-we-are/careers.html)
 
@@ -377,6 +394,8 @@
 
 ### [Microsoft](https://careers.microsoft.com/us/en)
 
+### [MindStrong](https://mindstrong.com/careers/)
+
 ### [Myntra](https://careers.myntra.com/)
 
 ### [Media.net](https://careers.media.net/)
@@ -400,6 +419,8 @@
 ### [Nestle](https://www.nestle.in/jobs)
 
 ### [netflix](https://jobs.netflix.com/location?slug=mumbai-india)
+
+### [Nuro](https://www.nuro.ai/careers)
 
 ### [NVIDIA](https://www.nvidia.com/en-in/about-nvidia/careers/)
 
@@ -432,6 +453,8 @@
 ### [PharmEasy](https://pharmeasy.in/careers/)
 
 ### [PayU](https://payu.in/careers)
+
+### [PlanView India](https://www.planview.com/company/careers/)
 
 ### [Practo](https://practo.app.param.ai/jobs/)
 
@@ -485,6 +508,8 @@
 
 ### [Servicenow](https://www.servicenow.com/careers.html)
 
+### [Seamless.Ai](https://www.seamless.ai/careers)
+
 ### [Shell](https://www.shell.com/careers.html)
 
 ### [SAP](https://www.sap.com/india/about/careers.html)
@@ -493,6 +518,8 @@
 
 ### [Snapdeal](https://qa.snapdeal.com/info/jobs)
 
+### [Symphoni HR Private Limited](https://symphonihr.com)
+
 ### [Syska](https://syska.co.in/career)
 
 ### [Snowflake](https://careers.snowflake.com)
@@ -500,6 +527,8 @@
 ### [Synopsys](https://www.synopsys.com/careers.html)
 
 ### [Siemens](https://new.siemens.com/global/en/company/jobs/search-careers.html)
+
+### [Simreka](https://simreka.com/work-with-us/)
 
 ### [SIRI Innovations](https://www.siriinnovations.com/careers)
 
@@ -523,6 +552,8 @@
 
 ### [Salesforce](https://www.salesforce.com/in/company/careers/rdr/)
 
+### [Skyleaf Consultants](https://www.naukri.com/skyleaf-consultants-jobs-careers-913356)
+
 ### [Slack](https://slack.com/intl/en-in/careers)
 
 ### [Slice](https://www.slice.is/work-at-slice/)
@@ -533,6 +564,8 @@
 
 ### [SunGard](https://careers.sungardas.com)
 
+### [Sunrise JOb](http://www.sunrisejobconsultancy.com)
+
 ### [Syntel](https://www.atos-syntel.net/careers)
 
 ### [Symantec Software Company](https://www.careerbliss.com/symantec/)
@@ -540,9 +573,13 @@
 ### [T Systems](https://www.t-systems.com/in/en/careers)
 ### [TaskBob](https://taskbob2015.recruiterbox.com/)
 
+### [Talent HR Networks](https://www.naukri.com/talent-hr-networks-pvt-ltd-jobs-careers-543887)
+
 ### [TCS](https://www.tcs.com/careers?country=IN&lang=EN)
 
 ### [Tekion](https://tekion.com/careers)
+
+### [Trella Health](https://www.trellahealth.com/careers/)
 
 ### [Times Internet](https://timesinternet.in/careers)
 
@@ -570,9 +607,13 @@
 
 ### [Ubisoft](https://www.ubisoft.com/en-us/company/careers/working-at-ubisoft)
 
+### [Ubique Systems](https://www.ubique-systems.com/ubq-current-opening.php)
+
 ### [Udaan](https://careers.udaan.com/#!/)
 
 ### [Unacademy](https://apply.workable.com/unacademy/)
+
+### [Unite Us](https://uniteus.com/our-careers/)
 
 ### [Uplers](https://www.uplers.com/careers/)
 
@@ -583,6 +624,8 @@
 ### [V2soft](https://www.v2soft.com/careers)
 
 ### [Vsoft](https://www.vfirst.com/join-the-joy)
+
+### [Vehant Technologies](https://www.vehant.com/current-openings)
 
 ### [Vogo](https://vogo.in/careers/)
 
@@ -595,6 +638,8 @@
 ### [Waymo](https://waymo.com/careers/)
 
 ### [Wipro](https://careers.wipro.com/careers-home/)
+
+### [Wissda Consulting](http://www.wissda.com)
 
 ### [Walmart](https://careers.walmart.com/)
 
@@ -619,6 +664,8 @@
 ### [Zoho](https://www.zoho.com/recruit/help/talent-sourcing/career-site.html)
 
 ### [zeta](https://www.zeta.tech/in/careers)
+
+### [Zenmonics Software](https://www.naukri.com/zenmonics-software-pvt-ltd-jobs-careers-644929)
 
 ### [Zomato](https://www.zomato.com/careers)
 
