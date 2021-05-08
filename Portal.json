@@ -312,6 +312,10 @@
 			"Title" : "Copucom" ,
 	    "Link" : "https://www.compucom.com/careers/"},
 
+	{   "iscompany":true,
+	        "Title":"Collabera",
+		    "Link":"https://www.collabera.com/job-apply/"},
+
 	{	"iscompany"	: true,
 			"Title" : "COSGrid" ,
 		"Link" : "https://www.cosgrid.com/careers"},
@@ -331,6 +335,10 @@
 	{	"iscompany"	: true,
 			"Title" : "Cybage" ,
 	    "Link" : "https://www.cybage.com/careers/current-openings"},
+
+	{   "iscompany":true,
+	       "Title":"Dispatch",
+		    "Link":"https://www.naukri.com/dispatch-jobs"},
 
 	{   "iscompany":true,
 		"Title":"Databricks",
@@ -429,6 +437,10 @@
 		"Title" : "DropBox" ,
 		"Link" : "https://www.dropbox.com/jobs/all-jobs"},
 
+	{   "iscompany":true,
+	      "Title":"Duck Creek Technologies",
+		    "Link":"https://www.duckcreek.com/careers/"},
+
 	{	"iscompany"	: true,
 		"Title" : "Dunzo" ,
 		"Link" : "https://www.dunzo.com/careers"},
@@ -440,6 +452,10 @@
 	{	"iscompany"	: true,
 		"Title" : "Ecotech" ,
 	   "Link" : "https://www.ecotech.com/careers/career-opportunities/"},
+
+	{   "iscompany":true,
+	        "Title":"Ecolousys Technologies",
+		     "Link":"https://www.naukri.com/ecclousys-technologies-jobs-careers-5221778"},
 
 	{	"iscompany"	: true,
 	        "Title" : "Envestnet Yodlee" ,
@@ -493,6 +509,10 @@
 			"Title" : "Fynd",
 		"Link" : "https://fynd.careers/"},
 
+	{   "iscompany":true,
+	      "Title":"Full Story",
+		   "Link":"https://www.fullstory.com/careers"},
+
 	{	"iscompany"	: true,
 		"Title" : "GitHub" ,
 		"Link" : "https://github.com/about/careers"},
@@ -545,6 +565,10 @@
 			"Title" : "Greysoft" ,
 	   "Link" : "http://greysoft.co/careers"},
 
+	   {"iscompany":true,
+	      "Title":"Guild Education",
+		   "Link":"https://careers.guildeducation.com"},
+
 		{	"iscompany"	: true,
 				"Title" : "HackerRank" ,
 			"Link" : "https://www.hackerrank.com/careers"},
@@ -576,6 +600,10 @@
 	{    "iscompany":true,
 	       "Title":"Hitachi",
 		    "Link":"https://careers.hitachi.com"},
+
+	{    "iscompany":true,
+	       "Title":"HRDevi Talent Acquisition",
+		    "Link":"http://www.hrdevi.co.in"},
 
 	{	"iscompany"	: true,
 	        "Title" : "HSBC" ,
@@ -717,9 +745,17 @@
 	      "Title":"Logica",
 		     "Link":"https://www.naukri.com/logica-pvt-ltd-jobs-careers-333271"},
 
+		{ "iscompany":true,
+		     "Title":"MasterClass",
+			   "Link":"https://careers.masterclass.com"},
+
 	{    "iscompany":true,
 	       "Title":"Mahindra",
 		    "Link":"https://careers.techmahindra.com"},
+
+	{    "iscompany":true,
+	       "Title":"Magazine3",
+		    "Link":"https://www.naukri.com/magazine3-jobs-careers-2374534"},
 
 	{    "iscompany":true,
 	       "Title":"Mantech International",
@@ -789,6 +825,10 @@
 			"Title" : "Msys Technologies" ,
 	    "Link" : "https://www.msystechnologies.com/company/msys-careers/"},
 
+	{    "iscompany":true,
+	      "Title":"Mindstrong",
+		    "Link":"https://mindstrong.com/careers/"},
+
 	{	"iscompany"	: true,
 		"Title" : "MultiGraphics Group" ,
 	    "Link" : "https://multigraphics.in/career"},
@@ -837,6 +877,9 @@
 	{	"iscompany"	: true,
 			"Title" : "Nutanix" ,
 		"Link" : "https://www.nutanix.com/company/careers"},
+	{   "iscompany":true,
+	      "Title":"Nuro",
+		 "Link":"https://www.nuro.ai/careers"},
 
 		{	"iscompany"	: true,
 				"Title" : "NVIDIA" ,
@@ -930,6 +973,9 @@
 		"Title" : "Playment",
 		"Link" : "https://playment.io/careers"
 	},
+	{   "iscompany":true,
+	     "Title":"PlanView India",
+		   "Link":"https://www.planview.com/company/careers/"},
 
 	{	"iscompany"	: true,
 			"Title" : "Plintron",
@@ -1037,6 +1083,11 @@
 	        "Title" : "Servicenow" ,
 		"Link" : "https://www.servicenow.com/careers.html"},
 
+	{    "iscompany":true,
+	        "Title":"Seamless.Ai",
+			  "Link":"https://www.seamless.ai/careers"
+	   },
+
 	{	"iscompany"	: true,
         "Title" : "Shell" ,
 		"Link" : "https://www.shell.com/careers.html"},
@@ -1045,6 +1096,10 @@
 
 	          "Title" : "Siemens" ,
 		"Link" : "https://new.siemens.com/global/en/company/jobs/search-careers.html"},
+
+	{   "iscompany":true,
+	     "Title":"Simreka",
+		    "Link":"https://simreka.com/work-with-us/"},
 
 	{  "iscompany":true,
 	      "Title":"Snowflake",
@@ -1056,6 +1111,10 @@
    {	"iscompany"	: true,
 		"Title" : "SIRI Innovations" ,
 	    "Link" : "https://www.siriinnovations.com/careers"},
+
+	{   "iscompany":true,
+	    "Title":"Skyleaf Consultants",
+	    "Link":"https://www.naukri.com/skyleaf-consultants-jobs-careers-913356"},
 
 
 	{	"iscompany"	: true,
@@ -1101,6 +1160,10 @@
 		"Title" : "SumoLogic" ,
 		"Link" : "https://www.sumologic.com/company/careers/"},
 
+	{   "iscompany":true,
+	     "Title":"Sunrise Job",
+		   "Link":"http://www.sunrisejobconsultancy.com"},
+
 	{	"iscompany"	: true,
 	        "Title" : "Swiggy" ,
 		"Link" : "https://careers.swiggy.com/#/"},
@@ -1129,6 +1192,10 @@
 	{     "iscompany":true,
 	        "Title":"T Systems",
 		   "Link":"https://www.t-systems.com/in/en/careers"},
+
+		{   "iscompany":true,
+		     "Title":"Symphoni HR Private Limited",
+			 "Link":"https://symphonihr.com"},
 		
 
 
@@ -1141,6 +1208,10 @@
 	{	"iscompany"	: true,
 			"Title" : "TaskBob" ,
 	    "Link" : "https://taskbob2015.recruiterbox.com/"},
+
+	{   "iscompany":true,
+	      "Title":"Talent HR Networks",
+		  "Link":"https://www.naukri.com/talent-hr-networks-pvt-ltd-jobs-careers-543887"},
 
 	{	"iscompany"	: true,
 	        "Title" : "TCS" ,
@@ -1188,6 +1259,10 @@
 			"Title" : "Trigyn" ,
 	   "Link" : "https://www.trigyn.com/job/etl-developer-data-engineer"},
 
+	{    "iscompany":true,
+	      "Title":"Trella Health",
+		   "Link":"https://www.trellahealth.com/careers/"},
+
 	{	"iscompany"	: true,
 		"Title" : "Turvo" ,
 		"Link" : "https://turvo.com/careers/"},
@@ -1209,6 +1284,10 @@
 		"Link" : "https://www.ubisoft.com/en-us/company/careers/working-at-ubisoft"
 	},
 
+	{    "iscompany":true,
+	    "Title":"Ubique Systems",
+	    "Link":"https://www.ubique-systems.com/ubq-current-opening.php"},
+
 
 	{	"iscompany"	: true,
 		"Title" : "Udaan" ,
@@ -1217,6 +1296,10 @@
 				{	"iscompany"	: true,
 					        "Title" : "Unacademy" ,
 					        "Link" : "https://apply.workable.com/unacademy/"},
+
+	{    "iscompany":true,
+	      "Title":"Unite Us",
+		   "Link":"https://uniteus.com/our-careers/"},
 
 	{	"iscompany"	: true,
 			"Title" : "Uplers" ,
@@ -1229,6 +1312,10 @@
 		{	"iscompany"	: true,
 	        "Title" : "Urban Ladder" ,
 		"Link" : "https://www.urbanladder.com/careers#undefined"},
+
+		{   "iscompany":true,
+		    "Title":"Vehant Technologies",
+		     "Link":"https://www.vehant.com/current-openings"},
 
 	{	"iscompany"	: true,
 	        "Title" : "Vogo" ,
@@ -1274,6 +1361,10 @@
 	        "Title" : "Wipro" ,
 		"Link" : "https://careers.wipro.com/careers-home/"},
 
+	{    "iscompany":true,
+	       "Title":"Wissda Consulting",
+		   "Link":"http://www.wissda.com"},
+
 	{	"iscompany"	: true,
 		"Title" : "WorldQuant" ,
 		"Link" : "https://www.weareworldquant.com/en/careers/"},
@@ -1305,6 +1396,11 @@
 	{	"iscompany"	: true,
 		"Title" : "zeta" ,
 	   "Link" : "https://www.zeta.tech/in/careers"},
+
+	{  "iscompany":true,
+		 "Title":"Zenmonics Software",
+		 "Link":"https://www.naukri.com/zenmonics-software-pvt-ltd-jobs-careers-644929"
+	},
 
 	{       "iscompany"	: true,
 	        "Title" : "Zoho" ,
