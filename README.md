@@ -35,6 +35,8 @@
 
 ### [AirBNB](https://careers.airbnb.com/)
 
+### [Airbus](https://www.airbus.com/careers.html)
+
 ### [Airtel](https://www.airtel.in/careers/)
 
 ### [AirGarage](https://airgara.ge/careers/)
@@ -85,6 +87,10 @@
 
 ### [Blackhawk](https://blackhawknetwork.com/company/careers)
 
+### [Blizzard Entertainment](https://careers.blizzard.com/global/en)
+
+### [Bloomberg L.P.](https://careers.bloomberg.com/job/search)
+
 ### [BMC Software](https://www.bmc.com/careers/careers.html)
 
 ### [BPL India](https://www.bplindia.in/careers.html)
@@ -122,6 +128,8 @@
 ### [Cameo](https://careers.cameo.com)
 
 ### [CashFree](https://www.cashfree.com/careers)
+
+### [Cerner](https://careers.cerner.com/)
 
 ### [CGI Group](https://www.cgi.com/en/careers)
 
@@ -179,6 +187,8 @@
 
 ### [Dell EMC](https://www.dell.com/learn/in/en/incorp1/viewall/careers)
 
+### [Delta Air Lines](https://delta.avature.net/careers)
+
 ### [Diebold](https://www.dieboldnixdorf.com/en-us/careers)
 
 ### [Divvy Homes](https://jobs.lever.co/divvyhomes)
@@ -229,6 +239,10 @@
 
 ### [Flipkart](https://www.flipkartcareers.com/#!/)
 
+### [Flytxt](https://www.flytxt.com/job/)
+
+### [Freshworks](https://www.freshworks.com/company/careers/)
+
 ### [Frontrow](https://www.gofrontrow.com/about/careers/)
 
 ### [Frugal Testing](https://frugaltesting.com/careers)
@@ -240,6 +254,8 @@
 ### [Full Story](https://www.fullstory.com/careers)
 
 ### [Glu](https://www.glu.com/working-at-glu/)
+
+### [GlobalLogic](https://www.globallogic.com/careers/)
 
 ### [Global Space](https://globalspace.in/career.php)
 
@@ -287,6 +303,8 @@
 
 ### [HRDevi Talent Acquistion](http://www.hrdevi.co.in)
 
+### [HubSpot](https://www.hubspot.com/careers)
+
 ### [Hyundai](https://www.hyundai.com/in/en/hyundai-story/career/overview.html)
 
 ### [IBM](https://www.ibm.com/in-en/employment/)
@@ -302,6 +320,8 @@
 ### [Infonaya](https://www.infonaya.com/Career.aspx)
 
 ### [Info Edge](https://careers.infoedge.com/)
+
+### [Infor](https://www.infor.com/about/careers)
 
 ### [Ixigo](https://www.ixigo.com/about/careers/)
 
@@ -324,6 +344,8 @@
 ### [ION Energy](https://apply.workable.com/ionenergy/?lng=en)
 
 ### [Iron Mountain](https://www.ironmountain.com/in/about-us/careers)
+
+### [IQVIA](https://jobs.iqvia.com/)
 
 ### [Jeavio](https://www.jeavio.com/careers)
 
@@ -349,6 +371,8 @@
 ### [Lockheed Martin](https://www.lockheedmartin.com/en-ca/careers.html)
 
 ### [Logica](https://www.naukri.com/logica-pvt-ltd-jobs-careers-333271)
+
+### [Lululemon](https://careers.lululemon.com/en_US/careers)
 
 ### [Mahindra](https://careers.techmahindra.com)
 
@@ -377,6 +401,8 @@
 ### [McAfee](https://careers.mcafee.com/search-jobs)
 
 ### [Meesho](https://careers.meesho.com/)
+
+### [Mindtree](https://www.mindtree.com/careers)
 
 ### [Monkhub](https://www.monkhub.com/jobs/)
 
@@ -458,6 +484,8 @@
 
 ### [Practo](https://practo.app.param.ai/jobs/)
 
+### [Procore](https://www.procore.com/jobs)
+
 ### [Proptiger](https://www.proptiger.com/careers)
 
 ### [PhonePe](https://www.phonepe.com/careers/)
@@ -469,6 +497,8 @@
 ### [Plintron](https://www.plintron.com/en/career)
 
 ### [Postman](https://www.postman.com/company/careers/)
+
+### [QBurst](https://www.qburst.com/company/career/)
 
 ### [Quikr](https://www.quikr.com/html/jobs.php)
 
@@ -496,6 +526,8 @@
 
 ### [Rupeek](https://www.rivigo.com/careers/)
 
+### [Salesforce](https://www.salesforce.com/company/careers/)
+
 ### [Samsung](https://www.samsung.com/in/aboutsamsung/careers/careers-center/)
 
 ### [Scality](https://www.scality.com/careers)
@@ -509,6 +541,10 @@
 ### [Servicenow](https://www.servicenow.com/careers.html)
 
 ### [Seamless.Ai](https://www.seamless.ai/careers)
+
+### [Shaadi.com](https://careers.shaadi.com/)
+
+### [ShareChat](https://we.sharechat.com/careers)
 
 ### [Shell](https://www.shell.com/careers.html)
 
@@ -579,6 +615,10 @@
 
 ### [Tekion](https://tekion.com/careers)
 
+### [Texas Instruments](https://careers.ti.com/)
+
+### [Toppr](https://www.toppr.com/jobs/)
+
 ### [Trella Health](https://www.trellahealth.com/careers/)
 
 ### [Times Internet](https://timesinternet.in/careers)
@@ -611,6 +651,8 @@
 
 ### [Udaan](https://careers.udaan.com/#!/)
 
+### [Ultimate software](https://www.ukg.com/careers)
+
 ### [Unacademy](https://apply.workable.com/unacademy/)
 
 ### [Unite Us](https://uniteus.com/our-careers/)
@@ -622,6 +664,8 @@
 ### [Urban Ladder](https://www.urbanladder.com/careers#undefined)
 
 ### [V2soft](https://www.v2soft.com/careers)
+
+### [ValueLabs](https://www.valuelabs.com/careers/)
 
 ### [Vsoft](https://www.vfirst.com/join-the-joy)
 
@@ -657,11 +701,15 @@
 
 ### [Yahoo](https://research.yahoo.com/careers)
 
+### [Yelp](https://www.yelp.careers/us/en)
+
 ### [Xoriant](https://www.xoriant.com/about-xoriant/careers)
 
 ### [Yobisys](https://www.yobisys.com/career.htm)
 
 ### [Zoho](https://www.zoho.com/recruit/help/talent-sourcing/career-site.html)
+
+### [Zensar Technologies](https://zensar.com/careers)
 
 ### [zeta](https://www.zeta.tech/in/careers)
 
@@ -670,6 +718,8 @@
 ### [Zomato](https://www.zomato.com/careers)
 
 ### [Zoom](https://zoom.wd5.myworkdayjobs.com/Zoom)
+
+### [Zynga](https://www.zynga.com/jobs/careers/)
 
 <br>
 

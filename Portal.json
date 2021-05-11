@@ -35,6 +35,10 @@
 	        "Title" : "AirBNB" ,
    "Link" : "https://careers.airbnb.com/"},
 
+   {	"iscompany"	: true,
+		"Title" : "Airbus" ,
+		"Link" : "https://www.airbus.com/careers.html"},
+
 	{	"iscompany"	: true,
 	        "Title" : "Airtel" ,
 		"Link" : "https://www.airtel.in/careers/"},
@@ -139,7 +143,15 @@
     {	"iscompany"	: true,
 		"Title" : "Blackhawk" ,
 
-     	 "Link" : "https://blackhawknetwork.com/company/careers"},	
+     	 "Link" : "https://blackhawknetwork.com/company/careers"},
+		  
+	{	"iscompany"	: true,
+		"Title" : "Blizzard Entertainment" ,
+		 "Link" : "https://careers.blizzard.com/global/en"},
+		 
+	{	"iscompany"	: true,
+		"Title" : "Bloomberg L.P." ,
+		"Link" : "https://careers.bloomberg.com/job/search"},
 		  
 	{        "iscompany":true,
 			"Title":"BMC Software",
@@ -203,6 +215,10 @@
 	 {	"iscompany"	: true,
 		 "Title" : "Cadence" ,
 		"Link" : "https://www.cadence.com/en_US/home/company/careers.html"},
+
+		{	"iscompany"	: true,
+			"Title" : "Cerner" ,
+		 "Link" : "https://careers.cerner.com/"},
 
 		{	"iscompany"	: true,
 			"Title" : "ClearTax" ,
@@ -358,6 +374,10 @@
 	       "Title":"Dell EMC",
 		     "Link":"https://www.dell.com/learn/in/en/incorp1/viewall/careers"},
 
+	{      "iscompany":true,
+			"Title":"Delta Air Lines",
+		   "Link":"https://delta.avature.net/careers"},
+
 	{   "iscompany":true,
 		   "Title":"Divvy Homes",
 		"Link":"https://jobs.lever.co/divvyhomes"},
@@ -498,8 +518,16 @@
 	   "Link" : "https://careers.flock.com/"},
 
 	{	"iscompany"	: true,
-			"Title" : "FrontRow" ,
-		 "Link" : "https://www.gofrontrow.com/about/careers/"},
+		"Title" : "Flytxt" ,
+	   "Link" : "https://www.flytxt.com/job/"},
+
+	{	"iscompany"	: true,
+		"Title" : "FrontRow" ,
+	    "Link" : "https://www.gofrontrow.com/about/careers/"},
+
+	{	"iscompany"	: true,
+			"Title" : "Freshworks" ,
+		 "Link" : "https://www.freshworks.com/company/careers/"},
 
 	{	"iscompany"	: true,
 			"Title" : "Frugal Testing" ,
@@ -516,6 +544,10 @@
 	{	"iscompany"	: true,
 		"Title" : "GitHub" ,
 		"Link" : "https://github.com/about/careers"},
+
+	{	"iscompany"	: true,
+		"Title" : "GlobalLogic" ,
+        "Link" : "https://www.globallogic.com/careers/"},
 
 	{	"iscompany"	: true,
 			"Title" : "Global Space" ,
@@ -610,6 +642,10 @@
 		"Link" : "https://www.hsbc.com/careers"},
 
 	{	"iscompany"	: true,
+		"Title" : "HubSpot" ,
+		"Link" : "https://www.hubspot.com/careers"},
+
+	{	"iscompany"	: true,
 	        "Title" : "Hyundai" ,
 		"Link" : "https://www.hyundai.com/in/en/hyundai-story/career/overview.html"},
 
@@ -640,6 +676,10 @@
 			{	"iscompany"	: true,
 						"Title" : "Info Edge" ,
 					"Link" : "https://careers.infoedge.com/"},
+					
+	{	"iscompany"	: true,
+		"Title" : "Infor" ,
+		"Link" : "https://www.infor.com/about/careers"},
 
 					{	"iscompany"	: true,
 						 "Title" : "Ixigo" ,
@@ -681,6 +721,10 @@
 	{    "iscompany":true,
 	       "Title":"Iron Mountain",
 		   "Link":"https://www.ironmountain.com/in/about-us/careers"},
+
+	{    "iscompany":true,
+			"Title":"IQVIA",
+			"Link":"https://jobs.iqvia.com/"},
 
 
 		{	"iscompany"	: true,
@@ -745,6 +789,10 @@
 	      "Title":"Logica",
 		     "Link":"https://www.naukri.com/logica-pvt-ltd-jobs-careers-333271"},
 
+			 {    "iscompany":true,
+				"Title":"Lululemon",
+				"Link":"https://careers.lululemon.com/en_US/careers"},
+
 		{ "iscompany":true,
 		     "Title":"MasterClass",
 			   "Link":"https://careers.masterclass.com"},
@@ -804,6 +852,10 @@
 	{	"iscompany"	: true,
 		"Title" : "MindTickle" ,
 		"Link" : "https://www.mindtickle.com/careers/"},
+
+	{	"iscompany"	: true,
+		"Title" : "MindTree" ,
+		"Link" : "https://www.mindtree.com/careers"},		
 
 	{	"iscompany"	: true,
 			"Title" : "Monkhub" ,
@@ -986,6 +1038,14 @@
 		"Link" : "https://www.postman.com/company/careers/"},
 
 	{	"iscompany"	: true,
+		"Title" : "Procore" ,
+		"Link" : "https://www.procore.com/jobs"},
+
+	{	"iscompany"	: true,
+		"Title" : "QBurst" ,
+		"Link" : "https://www.qburst.com/company/career/"},
+
+	{	"iscompany"	: true,
 		"Title" : "Qualcomm" ,
 		"Link" : "https://www.qualcomm.com/company/careers"},
 
@@ -1087,6 +1147,10 @@
 	        "Title":"Seamless.Ai",
 			  "Link":"https://www.seamless.ai/careers"
 	   },
+
+	{	"iscompany"	: true,
+        "Title" : "Shaadi.com" ,
+		"Link" : "https://careers.shaadi.com/"},
 
 	{	"iscompany"	: true,
         "Title" : "Shell" ,
@@ -1225,6 +1289,10 @@
 		"Title" : "Tekion" ,
 		"Link" : "https://tekion.com/careers"},
 
+	{	"iscompany"	: true,
+		"Title" : "Texas Instruments" ,
+		"Link" : "https://careers.ti.com/"},
+
 		{	"iscompany"	: true,
 		        "Title" : "Times Internet" ,
 			"Link" : "https://timesinternet.in/careers"},
@@ -1249,6 +1317,10 @@
 	{	"iscompany"	: true,
 		"Title" : "Tekion" ,
 		"Link" : "https://tekion.com/careers"},
+
+	{	"iscompany"	: true,
+			"Title" : "Toppr" ,
+			"Link" : "https://www.toppr.com/jobs/"},
 
 	{	"iscompany"	: true,
 
@@ -1293,6 +1365,10 @@
 		"Title" : "Udaan" ,
 		"Link" : "https://careers.udaan.com/#!/"},
 
+	{	"iscompany"	: true,
+		"Title" : "Ultimate software" ,
+		"Link" : "https://www.ukg.com/careers"},
+
 				{	"iscompany"	: true,
 					        "Title" : "Unacademy" ,
 					        "Link" : "https://apply.workable.com/unacademy/"},
@@ -1312,6 +1388,10 @@
 		{	"iscompany"	: true,
 	        "Title" : "Urban Ladder" ,
 		"Link" : "https://www.urbanladder.com/careers#undefined"},
+
+	{	"iscompany"	: true,
+        "Title" : "ValueLabs" ,
+		"Link" : "https://www.valuelabs.com/careers/"},
 
 		{   "iscompany":true,
 		    "Title":"Vehant Technologies",
@@ -1389,6 +1469,10 @@
 		"Title" : "Yahoo" ,
 		"Link" : "https://research.yahoo.com/careers"},
 
+	{	"iscompany"	: true,
+		"Title" : "Yelp" ,
+		"Link" : "https://www.yelp.careers/us/en"},
+
    {	"iscompany"	: true,
      		"Title" : "Yobisys" ,
 	   "Link" : "https://www.yobisys.com/career.htm"},
@@ -1396,6 +1480,10 @@
 	{	"iscompany"	: true,
 		"Title" : "zeta" ,
 	   "Link" : "https://www.zeta.tech/in/careers"},
+
+	{	"iscompany"	: true,
+		"Title" : "Zensar Technologies" ,
+	   "Link" : "https://zensar.com/careers"},
 
 	{  "iscompany":true,
 		 "Title":"Zenmonics Software",
@@ -1412,6 +1500,10 @@
 
 	{	"iscompany"	: true,
 		"Title" : "Zoom" ,
-		"Link" : "https://zoom.wd5.myworkdayjobs.com/Zoom"}
+		"Link" : "https://zoom.wd5.myworkdayjobs.com/Zoom"},
+
+	{	"iscompany"	: true,
+		"Title" : "Zynga" ,
+		"Link" : "https://www.zynga.com/jobs/careers/"}
 
 ]
