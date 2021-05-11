@@ -123,6 +123,10 @@
 		"Title" : "Avail Finance" ,
 		"Link" : "https://availfinance.in/opportunities/"},
 
+		{	"iscompany"	: true,
+			"Title" : "Bacancy Technology" ,
+			"Link" : "https://www.bacancytechnology.com/careers"},
+
 	{  "iscompany":true,
 		"Title": "Berkshire Hathaway Inc",
 		"Link":"https://www.bhhc.com/careers/career-opportunities.aspx"},
@@ -192,6 +196,10 @@
 	 			"Title" : "BYJU’S" ,
 	 		 "Link" : "https://byjus.com/careers-at-byjus/)"},
 
+	{	"iscompany"	: true,
+		"Title" : "Byteridge" ,
+		"Link" : "https://byteridge.com/career.html"},
+
 
 	{    "iscompany":true,
 	       "Title":"BT Global Services",
@@ -202,6 +210,10 @@
     {	"iscompany"	: true,
 		"Title" : "Capillary" ,
     	 "Link" : "https://www.capillarytech.com/about-us/careers/"},
+
+	{	"iscompany"	: true,
+		"Title" : "Capital Numbers" ,
+		"Link" : "https://www.capitalnumbers.com/careers.php"},
 		
 	{    "iscompany":true,
 	      "Title":"Capgemini",
@@ -219,6 +231,18 @@
 		{	"iscompany"	: true,
 			"Title" : "Cerner" ,
 		 "Link" : "https://careers.cerner.com/"},
+
+		{	"iscompany"	: true,
+			"Title" : "Clarion Technologies" ,
+			"Link" : "https://www.clariontech.com/careers"},
+
+		{	"iscompany"	: true,
+			"Title" : "Classic Informatics" ,
+			"Link" : "https://www.classicinformatics.com/careers/"},
+
+		{	"iscompany"	: true,
+			"Title" : "Clavis Technologies" ,
+			"Link" : "https://www.clavistechnologies.com/careers/"},
 
 		{	"iscompany"	: true,
 			"Title" : "ClearTax" ,
@@ -356,6 +380,10 @@
 	       "Title":"Dispatch",
 		    "Link":"https://www.naukri.com/dispatch-jobs"},
 
+	{	"iscompany"	: true,
+		"Title" : "Daffodil Software" ,
+		"Link" : "https://www.daffodilsw.com/career"},
+
 	{   "iscompany":true,
 		"Title":"Databricks",
 		"Link":"https://databricks.com/company/careers"},
@@ -377,6 +405,10 @@
 	{      "iscompany":true,
 			"Title":"Delta Air Lines",
 		   "Link":"https://delta.avature.net/careers"},
+
+	{	"iscompany"	: true,
+		"Title" : "Design.codes" ,
+		"Link" : "https://designs.codes/career/"},
 
 	{   "iscompany":true,
 		   "Title":"Divvy Homes",
@@ -505,9 +537,17 @@
 		"Title" : "Fidelity Investments" ,
 		"Link" : "https://india.fidelity.com/careers/"},
 
+	{	"iscompany"	: true,
+		"Title" : "Fingent" ,
+		"Link" : "https://www.fingent.com/careers/"},
+
 	{    "iscompany":true,
 	       "Title":"Fiserv",
 		"Link":"https://www.careers.fiserv.com"},
+
+		{	"iscompany"	: true,
+			"Title" : "Flatworld Solutions" ,
+			"Link" : "https://www.flatworldsolutions.com/careers/forms/apply.php"},
 
 	{	"iscompany"	: true,
 	        "Title" : "Flipkart" ,
@@ -646,6 +686,10 @@
 		"Link" : "https://www.hubspot.com/careers"},
 
 	{	"iscompany"	: true,
+		"Title" : "Hyperlink InfoSystem" ,
+		"Link" : "https://www.hyperlinkinfosystem.com/career.html"},
+
+	{	"iscompany"	: true,
 	        "Title" : "Hyundai" ,
 		"Link" : "https://www.hyundai.com/in/en/hyundai-story/career/overview.html"},
 
@@ -660,6 +704,10 @@
 	{	"iscompany"	: true,
 			"Title" : "Igneous Infotech" ,
 	   "Link" : "http://ingenious-infotech.com/#career"},
+
+	{	"iscompany"	: true,
+		"Title" : "InApp" ,
+		"Link" : "https://inapp.com/careers/jobs-at-inapp/"},
 
 	{	"iscompany"	: true,
 		"Title" : "Incedo" ,
@@ -721,6 +769,14 @@
 	{    "iscompany":true,
 	       "Title":"Iron Mountain",
 		   "Link":"https://www.ironmountain.com/in/about-us/careers"},
+
+	{	"iscompany"	: true,
+		"Title" : "Ishir" ,
+		"Link" : "https://www.ishir.com/career.htm"},
+
+	{	"iscompany"	: true,
+		"Title" : "Itransition" ,
+		"Link" : "https://www.itransition.com/company/career"},
 
 	{    "iscompany":true,
 			"Title":"IQVIA",
@@ -850,6 +906,10 @@
 		"Link" : "https://careers.microsoft.com/us/en"},
 
 	{	"iscompany"	: true,
+		"Title" : "Mind It Systems" ,
+		"Link" : "https://www.minditsystems.com/careers/"},
+
+	{	"iscompany"	: true,
 		"Title" : "MindTickle" ,
 		"Link" : "https://www.mindtickle.com/careers/"},
 
@@ -916,6 +976,14 @@
 	{	"iscompany"	: true,
  	    "Title" : "NetApp" ,
  		"Link" : "https://www.nagarro.com/en/careers"},
+
+		 {	"iscompany"	: true,
+			"Title" : "Netguru" ,
+			"Link" : "https://www.netguru.com/career"},
+
+		{	"iscompany"	: true,
+			"Title" : "Net Solutions" ,
+			"Link" : "https://www.netsolutions.com/careers/"},
 
    {	"iscompany"	: true,
 		"Title" : "Ninjacart" ,
@@ -999,6 +1067,10 @@
 	{	"iscompany"	: true,
 		"Title" : "PharmEasy" ,
 		"Link" : "https://pharmeasy.in/careers/"},
+
+		{	"iscompany"	: true,
+			"Title" : "PixelCrayons" ,
+			"Link" : "https://www.pixelcrayons.com/"},
 
 		{	"iscompany"	: true,
 			"Title" : "PayU" ,
@@ -1114,6 +1186,14 @@
 		"Link" : "https://www.sap.com/india/about/careers.html"},
 
 		{	"iscompany"	: true,
+			"Title" : "Sidebench" ,
+			"Link" : "https://sidebench.com/careers/"},
+
+		{	"iscompany"	: true,
+			"Title" : "Simform" ,
+			"Link" : "https://www.simform.com/careers/"},
+
+		{	"iscompany"	: true,
 			"Title" : "Sirion Labs" ,
 			"Link" : "https://www.sirionlabs.com/careers/"},
 
@@ -1198,6 +1278,10 @@
 		   "Link":"https://www.soprasteria.com/careers"},
 
 	{	"iscompany"	: true,
+		"Title" : "Spec India" ,
+		"Link" : "https://www.spec-india.com/career"},
+
+	{	"iscompany"	: true,
 			"Title" : "Spectrum" ,
 	   "Link" : "https://jobs.spectrum.com/"},
 
@@ -1231,6 +1315,10 @@
 	{	"iscompany"	: true,
 	        "Title" : "Swiggy" ,
 		"Link" : "https://careers.swiggy.com/#/"},
+
+		{	"iscompany"	: true,
+			"Title" : "Syberry" ,
+			"Link" : "https://www.syberry.com/company/our-team"},
 
 	{	"iscompany"	: true,
 		"Title" : "Synopsys" ,
@@ -1276,6 +1364,10 @@
 	{   "iscompany":true,
 	      "Title":"Talent HR Networks",
 		  "Link":"https://www.naukri.com/talent-hr-networks-pvt-ltd-jobs-careers-543887"},
+
+		  {	"iscompany"	: true,
+			"Title" : "TatvaSoft" ,
+			"Link" : "https://www.tatvasoft.com/career"},
 
 	{	"iscompany"	: true,
 	        "Title" : "TCS" ,
@@ -1326,6 +1418,10 @@
 
 					"Title" : "Tower Research" ,
 		"Link" : "https://www.tower-research.com/positions"},
+
+		{	"iscompany"	: true,
+			"Title" : "Trigent Software" ,
+			"Link" : "https://www.trigent.com/company/careers/"},
 
 	{	"iscompany"	: true,
 			"Title" : "Trigyn" ,
@@ -1404,6 +1500,10 @@
 	{	"iscompany"	: true,
 	        "Title" : "V2soft" ,
 		"Link" : "https://www.v2soft.com/careers"},
+
+		{	"iscompany"	: true,
+			"Title" : "Velotio Technologies" ,
+			"Link" : "https://www.velotio.com/careers"},
 
 	{	"iscompany"	: true,
 	        "Title" : "Vfirst" ,
