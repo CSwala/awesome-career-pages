@@ -77,6 +77,8 @@
 
 ### [Avail Finance](https://availfinance.in/opportunities/)
 
+### [Bacancy Technology](https://www.bacancytechnology.com/careers)
+
 ### [Berkshire Hathaway Inc](https://www.bhhc.com/careers/career-opportunities.aspx)
 
 ### [BearingPoint](https://www.bearingpoint.com/en/our-people/careers/)
@@ -109,17 +111,27 @@
 
 ### [BYJU’S](https://byjus.com/careers-at-byjus/)
 
+### [Byteridge](https://byteridge.com/career.html)
+
 ### [BT Global Services](https://www.bt.com/careers)
 
 ### [Capillary](https://www.capillarytech.com/about-us/careers/)
 
 ### [Capita](https://www.capita.com/careers)
 
+### [Capital Numbers](https://www.capitalnumbers.com/careers.php)
+
 ### [Capgemini](https://www.capgemini.com/in-en/careers/)
 
 ### [CasaOne](https://casaone.skillate.com/)
 
 ### [Cadence](https://www.cadence.com/en_US/home/company/careers.html)
+
+### [Clarion Technologies](https://www.clariontech.com/careers)
+
+### [Classic Informatics](https://www.classicinformatics.com/careers/)
+
+### [Clavis Technologies](https://www.clavistechnologies.com/careers/)
 
 ### [ClearTax](https://cleartax.in/s/careers)
 
@@ -179,6 +191,8 @@
 
 ### [Cygnet](https://www.cygnet-infotech.com/job-opportunities)
 
+### [Daffodil Software](https://www.daffodilsw.com/career)
+
 ### [Databricks](https://databricks.com/company/careers)
 
 ### [Datadog](https://www.datadoghq.com/careers/)
@@ -188,6 +202,8 @@
 ### [Dell EMC](https://www.dell.com/learn/in/en/incorp1/viewall/careers)
 
 ### [Delta Air Lines](https://delta.avature.net/careers)
+
+### [Design.codes](https://designs.codes/career/)
 
 ### [Diebold](https://www.dieboldnixdorf.com/en-us/careers)
 
@@ -235,7 +251,11 @@
 
 ### [Fidelity Investments](https://india.fidelity.com/careers/)
 
+### [Fingent](https://www.fingent.com/careers/)
+
 ### [Fiserv](https://www.careers.fiserv.com)
+
+### [Flatworld Solutions](https://www.flatworldsolutions.com/careers/forms/apply.php)
 
 ### [Flipkart](https://www.flipkartcareers.com/#!/)
 
@@ -305,11 +325,15 @@
 
 ### [HubSpot](https://www.hubspot.com/careers)
 
+### [Hyperlink InfoSystem](https://www.hyperlinkinfosystem.com/career.html)
+
 ### [Hyundai](https://www.hyundai.com/in/en/hyundai-story/career/overview.html)
 
 ### [IBM](https://www.ibm.com/in-en/employment/)
 
 ### [Iasys](https://www.iasys.co.in/career.php)
+
+### [InApp](https://inapp.com/careers/jobs-at-inapp/)
 
 ### [InMobi](https://www.inmobi.com/company/careers/)
 
@@ -344,6 +368,10 @@
 ### [ION Energy](https://apply.workable.com/ionenergy/?lng=en)
 
 ### [Iron Mountain](https://www.ironmountain.com/in/about-us/careers)
+
+### [Ishir](https://www.ishir.com/career.htm)
+
+### [Itransition](https://www.itransition.com/company/career)
 
 ### [IQVIA](https://jobs.iqvia.com/)
 
@@ -402,6 +430,8 @@
 
 ### [Meesho](https://careers.meesho.com/)
 
+### [Mind It Systems](https://www.minditsystems.com/careers/)
+
 ### [Mindtree](https://www.mindtree.com/careers)
 
 ### [Monkhub](https://www.monkhub.com/jobs/)
@@ -429,6 +459,10 @@
 ### [Nagarro](https://www.nagarro.com/en/careers)
 
 ### [NetApp](https://www.arista.com/en/careers/india)
+
+### [Netguru](https://www.netguru.com/career)
+
+### [Net Solutions](https://www.netsolutions.com/careers/)
 
 ### [Ninjacart](https://ninjacart.in/careers)
 
@@ -477,6 +511,8 @@
 ### [Persistent](https://www.persistent.com/careers/)
 
 ### [PharmEasy](https://pharmeasy.in/careers/)
+
+### [PixelCrayons](https://www.pixelcrayons.com/)
 
 ### [PayU](https://payu.in/careers)
 
@@ -552,6 +588,10 @@
 
 ### [Sirion Labs](https://www.sirionlabs.com/careers/)
 
+### [Sidebench](https://sidebench.com/careers/)
+
+### [Simform](https://www.simform.com/careers/)
+
 ### [Snapdeal](https://qa.snapdeal.com/info/jobs)
 
 ### [Symphoni HR Private Limited](https://symphonihr.com)
@@ -571,6 +611,8 @@
 ### [Solusoft](https://www.solu-soft.com/careers_workinghere.html)
 
 ### [Seimens](https://new.siemens.com/global/en/company/jobs.html)
+
+### [Spec India](https://www.spec-india.com/career)
 
 ### [Spectrum](https://jobs.spectrum.com/)
 
@@ -602,6 +644,8 @@
 
 ### [Sunrise JOb](http://www.sunrisejobconsultancy.com)
 
+### [Syberry](https://www.syberry.com/company/our-team)
+
 ### [Syntel](https://www.atos-syntel.net/careers)
 
 ### [Symantec Software Company](https://www.careerbliss.com/symantec/)
@@ -610,6 +654,8 @@
 ### [TaskBob](https://taskbob2015.recruiterbox.com/)
 
 ### [Talent HR Networks](https://www.naukri.com/talent-hr-networks-pvt-ltd-jobs-careers-543887)
+
+### [TatvaSoft](https://www.tatvasoft.com/career)
 
 ### [TCS](https://www.tcs.com/careers?country=IN&lang=EN)
 
@@ -620,6 +666,8 @@
 ### [Toppr](https://www.toppr.com/jobs/)
 
 ### [Trella Health](https://www.trellahealth.com/careers/)
+
+### [Trigent Software](https://www.trigent.com/company/careers/)
 
 ### [Times Internet](https://timesinternet.in/careers)
 
@@ -670,6 +718,8 @@
 ### [Vsoft](https://www.vfirst.com/join-the-joy)
 
 ### [Vehant Technologies](https://www.vehant.com/current-openings)
+
+### [Velotio Technologies](https://www.velotio.com/careers)
 
 ### [Vogo](https://vogo.in/careers/)
 
