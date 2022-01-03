@@ -108,7 +108,7 @@
 ###  [Bloomberg L.P.](https://careers.bloomberg.com/job/search)
 ###  [BMC Software](https://www.bmc.com/careers/careers.html)
 ###  [BPL India](https://www.bplindia.in/careers.html)
-###  [BNY Mellon](https://www.bnymellon.com/us/en/careers/students.html)
+
 ###  [Brooklinen](https://www.brooklinen.com/pages/careers)
 ###  [bajaj](https://www.bajajgroup.org/careers)
 ###  [BankBazar](https://www.bankbazaar.com/careers.html)
