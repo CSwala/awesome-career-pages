@@ -129,7 +129,7 @@
 ###  [Chronus](https://chronus.com/about-us/careers)  
 ###  [Cisco](https://jobs.cisco.com/)  
 ###  [Citrix](https://jobs.citrix.com/)  
-###  [Cleartrip](https://careers.cleartrip.com/#!/)
+
 ###  [Cloudera](https://www.cloudera.com/careers.html)  
 ###  [Codenation innovation labs](http://codenation.co.in/hiringprocess.html)  
 ###  [CodingNinjas](https://www.linkedin.com/jobs/coding-ninjas-jobs/?originalSubdomain=in) 
@@ -151,7 +151,7 @@
 ###  [Capital Numbers](https://www.capitalnumbers.com/careers.php)
 ###  [Capgemini](https://www.capgemini.com/in-en/careers/)
 ###  [CasaOne](https://casaone.skillate.com/)
-###  [Cadence](https://www.cadence.com/en_US/home/company/careers.html)
+
 ###  [Clarion Technologies](https://www.clariontech.com/careers)
 ###  [Classic Informatics](https://www.classicinformatics.com/careers/)
 ###  [Clavis Technologies](https://www.clavistechnologies.com/careers/)
