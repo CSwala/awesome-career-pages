@@ -188,7 +188,7 @@
 ###  [DailyHunt](https://careers.dailyhunt.com/#!/)
 ###  [D. E. Shaw & Co.](https://www.deshawindia.com/careers/career-development)
 ###  [DealShare](https://www.dealshare.in/careers#home)  
-###  [Delhivery](https://www.delhivery.com/careers/)  
+
 ###  [Dell](https://jobs.dell.com/)  
 ###  [Deutsche Bank](https://careers.db.com/)  
 ###  [Dhruva Space](https://angel.co/company/dhruvaspace)
@@ -202,7 +202,7 @@
 ###  [Dream11](https://www.dreamsports.group/careers)  
 ###  [Druva](https://www.druva.com/about/careers/)  
 ###  [Dukaan](https://angel.co/company/dukaan-app/jobs)
-###  [Dunzo](https://www.dunzo.com/careers#jobs) 
+
 ###  [Daffodil Software](https://www.daffodilsw.com/career)
 ###  [Databricks](https://databricks.com/company/careers)
 ###  [Datadog](https://www.datadoghq.com/careers/)
