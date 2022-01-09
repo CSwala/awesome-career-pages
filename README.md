@@ -222,7 +222,7 @@
 ###  [Delhivery](https://www.delhivery.com/careers/)
 ###  [Deolitte](https://jobs2.deloitte.com/ui/en)
 ###  [DE Shaw](https://www.deshawindia.com/careers)
-###  [Directi](https://careers.directi.com/)
+
 
 ###  [EA Games](https://www.ea.com/careers)
 ###  [Enfussion](https://enfusion.com/careers/)
@@ -450,7 +450,7 @@
 ###  [Microsoft](https://careers.microsoft.com/us/en)
 ###  [MindStrong](https://mindstrong.com/careers/)
 ###  [Myntra](https://careers.myntra.com/)
-###  [Media.net](https://careers.media.net/)
+
 
 ###  [Nagarro](https://www.nagarro.com/en/careers)  
 ###  [NASDAQ](https://www.nasdaq.com/about/careers)  
