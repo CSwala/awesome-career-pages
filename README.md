@@ -475,7 +475,6 @@
 ###  [Ninjacart](https://ninjacart.in/careers)
 ###  [NortonLifeLock](https://stage-www.nortonlifelock.com/us/en/careers/)
 ###  [NASSCOM](https://nasscom.in/about-us/career)
-###  [Nutanix](https://www.nutanix.com/company/careers)
 ###  [NEC](https://in.nec.com/en_IN/career/jobs-at-NEC.html)
 ###  [Neosoft](https://www.neosofttech.com/careers)
 ###  [Nestle](https://www.nestle.in/jobs)
