@@ -619,7 +619,6 @@
 ###  [Sprinklr](https://www.sprinklr.com/careers)
 ###  [SquadStack](https://www.squadstack.com/careers/)
 ###  [Square](https://careers.squareup.com/us/en)
-###  [Swiggy](https://careers.swiggy.com/#/)
 ###  [S&P Global](https://careers.spglobal.com/jobs)
 ###  [Salesforce](https://www.salesforce.com/in/company/careers/rdr/)
 ###  [Skyleaf Consultants](https://www.naukri.com/skyleaf-consultants-jobs-careers-913356)
