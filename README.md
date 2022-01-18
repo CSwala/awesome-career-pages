@@ -81,7 +81,6 @@
 ###  [Benchmark](https://benchmarkit.zohorecruit.com/jobs/Careers) 
 ###  [Better](https://better.com/about-us/careers)
 ###  [BharatPe](https://bharatpe.com/career)  
-###  [BigBasket](https://careers.bigbasket.com/)  
 ###  [BlackBuck](https://www.blackbuck.com/careers.php)
 ###  [Blackrock](https://careers.blackrock.com/)
 ###  [BlueJeans](https://www.bluejeans.com/careers)
