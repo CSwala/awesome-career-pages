@@ -138,7 +138,6 @@
 ###  [Commvault](https://careers.commvault.com/)
 ###  [Continental](https://www.continental.com/en/career/)
 ###  [Cradlepoint](https://cradlepoint.com/about-us/careers/job-listings/) 
-###  [Cred](https://careers.cred.club/)  
 ###  [Credit Suisse](https://www.credit-suisse.com/careers/en/apply.html)
 ###  [Crestron](https://www.crestron.com/About/careers-jobs-employment-opportunities)
 ###  [Crowdstrike](https://www.crowdstrike.com/careers/)
