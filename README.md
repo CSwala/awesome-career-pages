@@ -240,7 +240,7 @@
 ###  [Exceptionaire](https://www.exceptionaire.com/careers/)
 ###  [Experian](https://www.experian.in/careers)
 
-###  [facebook](https://www.facebook.com/careers/jobs/)  
+
 ###  [FamPay](https://fampay.in/careers)
 ###  [Fidelity investments](https://jobs.fidelity.com/)  
 ###  [FireEye inc](https://www.fireeye.com/company/jobs.html)  
