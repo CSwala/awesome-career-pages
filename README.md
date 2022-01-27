@@ -276,7 +276,6 @@
 ###  [GreyOrange](https://www.greyorange.com/about/careers/)
 ###  [Greysoft](http://greysoft.co/careers)
 ###  [Grofers](https://grofers.com/careers/)
-###  [Grofers](https://grofers.com/careers/)  
 ###  [Groupon](https://www.grouponcareers.com/) 
 ###  [Groww](https://groww.skillate.com/)  
 ###  [Guild Education](https://careers.guildeducation.com)
