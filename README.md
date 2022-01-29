@@ -267,7 +267,6 @@
 ###  [Gojek](https://career.gojek.com/)  
 ###  [Gojek](https://www.gojek.io/careers/)
 ###  [Goldman Sachs](https://www.goldmansachs.com/careers/)
-###  [Goldman Sachs](https://www.goldmansachs.com/careers/)   
 ###  [Google](https://careers.google.com/)
 ###  [Grab](https://grab.careers/)
 ###  [Graviton](https://www.gravitontrading.com/careers.html)
