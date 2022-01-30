@@ -253,7 +253,6 @@
 ###  [GeeksForGeeks](https://www.geeksforgeeks.org/careers/?)
 ###  [Ghost](https://careers.ghost.org/)
 ###  [Github](https://github.com/about/careers)
-###  [GitHub](https://github.com/about/careers)
 ###  [Gitlab](https://about.gitlab.com/jobs/)
 ###  [Global Logic](https://www.globallogic.com/in/careers/)
 ###  [Global Space](https://globalspace.in/career.php)
