@@ -264,7 +264,6 @@
 ###  [Godrej Aerospace](https://www.godrej.com/godrejandboyce/gnb-careers)
 ###  [Goibibo](https://www.goibibo.com/careers/)
 ###  [Gojek](https://career.gojek.com/)  
-###  [Gojek](https://www.gojek.io/careers/)
 ###  [Goldman Sachs](https://www.goldmansachs.com/careers/)
 ###  [Google](https://careers.google.com/)
 ###  [Grab](https://grab.careers/)
