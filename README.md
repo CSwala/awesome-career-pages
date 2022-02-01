@@ -278,7 +278,6 @@
 
 ###  [Hackerearth](https://www.hackerearth.com/careers/)
 ###  [HackerRank](https://www.hackerrank.com/careers)
-###  [HackerRank](https://www.hackerrank.com/careers/)
 ###  [Harness](https://harness.io/careers/)
 ###  [Hashedin](https://hashedin.com/careers/)
 ###  [HBO](https://warnermediacareers.com/hbo-jobs)
