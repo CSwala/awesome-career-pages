@@ -268,7 +268,6 @@
 ###  [Google](https://careers.google.com/)
 ###  [Grab](https://grab.careers/)
 ###  [Graviton](https://www.gravitontrading.com/careers.html)
-###  [Gravitont Rading](https://www.gravitontrading.com/careers.html)   
 ###  [GreyOrange](https://www.greyorange.com/about/careers/)
 ###  [Greysoft](http://greysoft.co/careers)
 ###  [Grofers](https://grofers.com/careers/)
