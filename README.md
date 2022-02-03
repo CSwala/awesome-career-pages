@@ -290,7 +290,6 @@
 ###  [Hitachi](https://careers.hitachi.com)
 ###  [Honeywell](https://tech.hotstar.com/)
 ###  [Hotstar](https://tech.hotstar.com/)
-###  [Hotstar](https://tech.hotstar.com/)
 ###  [HP](https://jobs.hp.com/)  
 ###  [HRDevi Talent Acquistion](http://www.hrdevi.co.in)
 ###  [HSBC](https://www.hsbc.com/careers)
