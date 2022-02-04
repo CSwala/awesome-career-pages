@@ -299,7 +299,6 @@
 
 ###  [Iasys](https://www.iasys.co.in/career.php)
 ###  [IBM](https://www.ibm.com/in-en/employment/)
-###  [IBM](https://www.ibm.com/in-en/employment/)
 ###  [IdeaForge](https://www.ideaforge.co.in/career/)
 ###  [Igneous Infotech](http://ingenious-infotech.com/#career)
 ###  [IHS Markit](https://careers.ihsmarkit.com/)  
