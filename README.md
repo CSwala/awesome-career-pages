@@ -311,7 +311,6 @@
 ###  [Info Edge](https://careers.infoedge.com/)
 ###  [Infonaya](https://www.infonaya.com/Career.aspx)
 ###  [Infor](https://www.infor.com/about/careers)
-###  [Informatica](https://informatica.gr8people.com/jobs)    
 ###  [Informatics](https://www.informaticsglobal.com/careers/)
 ###  [Infosys](https://www.infosys.com/careers.html)
 ###  [InMobi](https://www.inmobi.com/company/careers/)
