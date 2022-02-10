@@ -316,7 +316,6 @@
 ###  [InMobi](https://www.inmobi.com/company/careers/)
 ###  [Innovaccer](https://innovaccer.com/careers/)
 ###  [Intel](https://www.intel.com/content/www/us/en/jobs/jobs-at-intel.html)
-###  [Intel](https://www.intel.com/content/www/us/en/jobs/jobs-at-intel.html)
 ###  [Intellika](https://www.intellika.in/careers/)  
 ###  [Intuit](https://www.intuit.com/careers/)
 ###  [InVision](https://www.invisionapp.com/careers)
