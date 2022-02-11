@@ -369,7 +369,6 @@
 ###  [Magazine3](https://www.naukri.com/magazine3-jobs-careers-2374534)
 ###  [Magicpin](https://magicpin.darwinbox.in/ms/candidate/careers)  
 ###  [Mahindra](https://careers.techmahindra.com)
-###  [MakeMyTrip](https://careers.makemytrip.com/)
 ###  [MakeMyTrip](https://careers.makemytrip.com/)  
 ###  [Mantech International](https://www.mantech.com/careers)
 ###  [Maq](https://maqsoftware.com/careers)
