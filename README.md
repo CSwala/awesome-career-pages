@@ -376,7 +376,6 @@
 ###  [Master Class](https://careers.masterclass.com)
 ###  [Mastercard](https://www.mastercard.us/en-us/vision/who-we-are/careers.html)  
 ###  [Mathworks](https://in.mathworks.com/company/jobs/opportunities.html)
-###  [Mathworks](https://in.mathworks.com/company/jobs/opportunities.html)
 ###  [Maven Workforce](https://www.mavenworkforce.com/jobs)
 ###  [McAfee](https://careers.mcafee.com/search-jobs)
 ###  [Media.net](https://careers.media.net/)  
