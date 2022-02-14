@@ -380,7 +380,6 @@
 ###  [McAfee](https://careers.mcafee.com/search-jobs)
 ###  [Media.net](https://careers.media.net/)  
 ###  [Meesho](https://careers.meesho.com/)
-###  [Meesho](https://careers.meesho.com/)  
 ###  [Memory](https://memory.ai/jobs)
 ###  [Micron](https://micron.eightfold.ai/careers)
 ###  [Microsoft](https://careers.microsoft.com/us/en)
