@@ -383,7 +383,6 @@
 ###  [Memory](https://memory.ai/jobs)
 ###  [Micron](https://micron.eightfold.ai/careers)
 ###  [Microsoft](https://careers.microsoft.com/us/en)
-###  [Microsoft](https://careers.microsoft.com/us/en)        
 ###  [Mind It Systems](https://www.minditsystems.com/careers/)
 ###  [MindStrong](https://mindstrong.com/careers/)
 ###  [MindTickle](https://www.mindtickle.com/careers/)
