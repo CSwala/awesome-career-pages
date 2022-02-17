@@ -398,7 +398,6 @@
 ###  [MultiGraphics Group](https://multigraphics.in/career)
 ###  [Myntra](https://careers.myntra.com/)
 
-###  [Nagarro](https://www.nagarro.com/en/careers)
 ###  [Nagarro](https://www.nagarro.com/en/careers)  
 ###  [NASDAQ](https://www.nasdaq.com/about/careers)  
 ###  [NASSCOM](https://nasscom.in/about-us/career)
