@@ -410,7 +410,6 @@
 ###  [Nestle](https://www.nestle.in/jobs)
 ###  [Net Solutions](https://www.netsolutions.com/careers/)
 ###  [NetApp](https://www.arista.com/en/careers/india)
-###  [NetApp](https://www.netapp.com/company/careers/)      
 ###  [Netcracker](https://www.netcracker.com/careers/)
 ###  [Netflix](https://jobs.netflix.com/location?slug=mumbai-india)
 ###  [Netguru](https://www.netguru.com/career)
