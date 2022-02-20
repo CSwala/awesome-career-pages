@@ -415,7 +415,6 @@
 ###  [Netguru](https://www.netguru.com/career)
 ###  [Netmeds](https://netmeds.darwinbox.in/ms/candidate/careers)
 ###  [Nike](https://jobs.nike.com/)
-###  [Ninjacart](https://ninjacart.in/careers)
 ###  [Ninjacart](https://ninjacart.in/careers/)
 ###  [Nokia](https://www.nokia.com/about-us/careers/)  
 ###  [NortonLifeLock](https://stage-www.nortonlifelock.com/us/en/careers/)
