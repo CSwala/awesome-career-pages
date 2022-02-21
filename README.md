@@ -423,7 +423,6 @@
 ###  [Nurture.farm](https://nurture.farm/join-us/)  
 ###  [Nutanix](https://www.nutanix.com/company/careers)   
 ###  [NVIDIA](https://www.nvidia.com/en-in/about-nvidia/careers/)
-###  [Nvidia](https://www.nvidia.com/en-in/about-nvidia/careers/)  
 ###  [Nykaa](https://www.nykaa.com/careers)
 
 ###  [O9Solutions](https://o9solutions.com/careers/)
