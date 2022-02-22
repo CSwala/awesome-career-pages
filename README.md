@@ -429,7 +429,6 @@
 ###  [Observe.ai](https://www.observe.ai/careers#section-current-openings)
 ###  [Obvious](https://obvious.in/careers)
 ###  [Ocrolus](https://www.ocrolus.com/careers/)
-###  [Ola](https://ola.recruitee.com/)
 ###  [Ola](https://www.olacabs.com/careers) 
 ###  [Olx](https://careers.olxgroup.com/) 
 ###  [Ongil](https://ongil.io/careers)
