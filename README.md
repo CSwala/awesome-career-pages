@@ -436,7 +436,6 @@
 ###  [Opus Consulting](https://www.opusconsulting.com/careers/)
 ###  [Oracle](https://www.oracle.com/apac/corporate/careers/)  
 ###  [Oracle](https://www.oracle.com/in/corporate/careers/)
-###  [OYO](https://www.naukri.com/oyo-jobs-careers-2884032)
 ###  [OYO](https://www.oyorooms.com/careers/)
 
 ###  [Palo Alto Networks](https://jobs.paloaltonetworks.com/)
