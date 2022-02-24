@@ -434,7 +434,6 @@
 ###  [Ongil](https://ongil.io/careers)
 ###  [Optum](https://www.optum.in/about/careers.html)
 ###  [Opus Consulting](https://www.opusconsulting.com/careers/)
-###  [Oracle](https://www.oracle.com/apac/corporate/careers/)  
 ###  [Oracle](https://www.oracle.com/in/corporate/careers/)
 ###  [OYO](https://www.oyorooms.com/careers/)
 
