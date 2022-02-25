@@ -448,7 +448,6 @@
 ###  [PeopleStrong](https://www.peoplestrong.com/careers/)
 ###  [Persistent](https://www.persistent.com/careers/)
 ###  [PharmEasy](https://pharmeasy.in/careers/)
-###  [PharmEasy](https://pharmeasy.in/careers/)  
 ###  [Philips](https://www.careers.philips.com/global/en)
 ###  [Phillips](https://www.careers.philips.com/professional/in/en)
 ###  [PhonePe](https://www.phonepe.com/careers/)
