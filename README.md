@@ -449,7 +449,6 @@
 ###  [Persistent](https://www.persistent.com/careers/)
 ###  [PharmEasy](https://pharmeasy.in/careers/)
 ###  [Philips](https://www.careers.philips.com/global/en)
-###  [Phillips](https://www.careers.philips.com/professional/in/en)
 ###  [PhonePe](https://www.phonepe.com/careers/)
 ###  [Phonepe](https://www.phonepe.com/careers/)  
 ###  [PixelCrayons](https://www.pixelcrayons.com/)
