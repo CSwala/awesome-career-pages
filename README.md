@@ -453,7 +453,6 @@
 ###  [Phonepe](https://www.phonepe.com/careers/)  
 ###  [PixelCrayons](https://www.pixelcrayons.com/)
 ###  [PlanView India](https://www.planview.com/company/careers/)
-###  [Playment](https://playment.io/careers)
 ###  [Playment](https://www.playment.io/careers)
 ###  [Plintron](https://www.plintron.com/en/career)
 ###  [Postman](https://www.postman.com/company/careers/)
