@@ -450,7 +450,6 @@
 ###  [PharmEasy](https://pharmeasy.in/careers/)
 ###  [Philips](https://www.careers.philips.com/global/en)
 ###  [PhonePe](https://www.phonepe.com/careers/)
-###  [Phonepe](https://www.phonepe.com/careers/)  
 ###  [PixelCrayons](https://www.pixelcrayons.com/)
 ###  [PlanView India](https://www.planview.com/company/careers/)
 ###  [Playment](https://www.playment.io/careers)
