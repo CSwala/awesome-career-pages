@@ -455,7 +455,6 @@
 ###  [Playment](https://www.playment.io/careers)
 ###  [Plintron](https://www.plintron.com/en/career)
 ###  [Postman](https://www.postman.com/company/careers/)
-###  [postman](https://www.postman.com/company/careers/)  
 ###  [Practo](https://practo.app.param.ai/jobs)
 ###  [Priceline](https://careers.priceline.com/search)  
 ###  [Principal](https://www.principal.com/about-us/careers/global-jobs)
