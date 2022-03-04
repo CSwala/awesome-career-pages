@@ -469,7 +469,6 @@
 ###  [PubMatic](https://pubmatic.com/careers/home/)
 
 ###  [QBurst](https://www.qburst.com/company/career/)
-###  [Qualcomm](https://www.qualcomm.com/company/careers)
 ###  [Qualcomm](https://www.qualcomm.com/company/careers) 
 ###  [Quikr](https://www.quikr.com/html/jobs.php)
 ###  [Quora](https://www.quora.com/careers)  
