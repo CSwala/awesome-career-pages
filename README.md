@@ -475,7 +475,6 @@
 
 ###  [RadixWeb](https://radixweb.com/current-openings)
 ###  [Rakuten](https://rakuten.careers/)
-###  [Razorpay](https://razorpay.com/jobs/)
 ###  [Razorpay](https://razorpay.com/jobs/)  
 ###  [Red hat](https://www.redhat.com/en/jobs)  
 ###  [RedHat](https://www.redhat.com/en/jobs)
