@@ -476,7 +476,6 @@
 ###  [RadixWeb](https://radixweb.com/current-openings)
 ###  [Rakuten](https://rakuten.careers/)
 ###  [Razorpay](https://razorpay.com/jobs/)  
-###  [Red hat](https://www.redhat.com/en/jobs)  
 ###  [RedHat](https://www.redhat.com/en/jobs)
 ###  [Reelo](https://angel.co/company/reelohq)  
 ###  [Refinery29](https://corporate.r29.com/careers#careers-jobs)
