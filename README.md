@@ -483,7 +483,6 @@
 ###  [Revalsys](https://www.revalsys.com/careers.html)
 ###  [Rippling](https://www.rippling.com/careers)
 ###  [Rivigo](https://www.rivigo.com/careers/)
-###  [Rivigo](https://www.rivigo.com/careers/)
 ###  [Rocket Companies](https://www.myrocketcareer.com/)
 ###  [Rockstar Games](https://www.rockstargames.com/careers/)
 ###  [Rubrik](https://www.rubrik.com/company/careers)
