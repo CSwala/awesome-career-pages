@@ -485,7 +485,6 @@
 ###  [Rivigo](https://www.rivigo.com/careers/)
 ###  [Rocket Companies](https://www.myrocketcareer.com/)
 ###  [Rockstar Games](https://www.rockstargames.com/careers/)
-###  [Rubrik](https://www.rubrik.com/company/careers)
 ###  [Rubrik](https://www.rubrik.com/en/company/careers)
 ###  [Rupeek](https://www.rivigo.com/careers/)
 
