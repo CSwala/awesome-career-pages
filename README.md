@@ -552,7 +552,6 @@
 ###  [Symantec Software Company](https://www.careerbliss.com/symantec/)
 ###  [Symphoni HR Private Limited](https://symphonihr.com)
 ###  [Synopsys](https://www.synopsys.com/careers.html)
-###  [Synopsys](https://www.synopsys.com/careers.html)  
 ###  [Syntel](https://www.atos-syntel.net/careers)
 ###  [Syska](https://syska.co.in/career)
 
