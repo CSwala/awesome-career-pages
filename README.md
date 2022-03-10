@@ -564,7 +564,6 @@
 ###  [TCS](https://www.tcs.com/careers?country=IN&lang=EN)
 ###  [TE Connectivity](https://careers.te.com/)
 ###  [Techment](https://www.techment.com/software-companies-in-chhattisgarh/)
-###  [Techment](https://www.techment.com/software-companies-in-chhattisgarh/)
 ###  [TEK Systems](https://www.teksystems.com/en-in/careers)
 ###  [Tekion](https://tekion.com/careers)
 ###  [Tencent Holdings Ltd](https://www.tencent.com/en-us/about.html)
