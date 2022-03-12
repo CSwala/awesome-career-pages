@@ -538,7 +538,6 @@
 ###  [Spinny](https://spinny.freshteam.com/jobs)  
 ###  [Spotify](https://www.spotifyjobs.com/)
 ###  [Sprinklr](https://www.sprinklr.com/careers)
-###  [Squadstack](https://www.squadstack.com/careers/)
 ###  [SquadStack](https://www.squadstack.com/careers/)
 ###  [Square](https://careers.squareup.com/us/en)
 ###  [Stripe](https://stripe.com/in/jobs)  
