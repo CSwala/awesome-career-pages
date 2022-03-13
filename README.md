@@ -583,7 +583,6 @@
 ###  [Twilio](https://www.twilio.com/company/jobs)
 ###  [Twitter](https://careers.twitter.com/)
 
-###  [Uber](https://www.uber.com/us/en/careers/)
 ###  [Uber](https://www.uber.com/us/en/careers/)  
 ###  [Ubique Systems](https://www.ubique-systems.com/ubq-current-opening.php)
 ###  [Ubisoft](https://www.ubisoft.com/en-us/company/careers)
