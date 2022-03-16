@@ -491,7 +491,6 @@
 ###  [S&P Global](https://careers.spglobal.com/jobs)
 ###  [Saavn](https://www.jiosaavn.com/corporate/jobs)  
 ###  [Sabre corporation](https://www.sabre.com/careers/)  
-###  [Salesforce](https://www.salesforce.com/)  
 ###  [Salesforce](https://www.salesforce.com/company/careers/)
 ###  [Salesforce](https://www.salesforce.com/in/company/careers/rdr/)
 ###  [Samsung](https://www.samsung.com/in/about-us/careers/)  
