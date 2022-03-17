@@ -494,7 +494,6 @@
 ###  [Salesforce](https://www.salesforce.com/company/careers/)
 ###  [Salesforce](https://www.salesforce.com/in/company/careers/rdr/)
 ###  [Samsung](https://www.samsung.com/in/about-us/careers/)  
-###  [Samsung](https://www.samsung.com/in/aboutsamsung/careers/careers-center/)
 ###  [SAP](https://jobs.sap.com/)  
 ###  [SAP](https://www.sap.com/india/about/careers.html)
 ###  [Sapphire Solutions](https://www.sapphiresolutions.net/careers)
