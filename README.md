@@ -500,7 +500,6 @@
 ###  [Secure Logic](https://securelogicgroup.com/about-us/careers/)
 ###  [SendinBlue](https://jobs.sendinblue.com/en)
 ###  [SerpApi](https://serpapi.com/team)  
-###  [Servicenow](https://www.servicenow.com/careers.html)
 ###  [ServiceNow](https://www.servicenow.com/careers.html)  
 ###  [Shaadi.com](https://careers.shaadi.com/)
 ###  [Shaadi.com](https://www.naukri.com/)  
