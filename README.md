@@ -502,7 +502,6 @@
 ###  [SerpApi](https://serpapi.com/team)  
 ###  [ServiceNow](https://www.servicenow.com/careers.html)  
 ###  [Shaadi.com](https://careers.shaadi.com/)
-###  [Shaadi.com](https://www.naukri.com/)  
 ###  [ShareChat](https://sharechat.com/careers)
 ###  [ShareChat](https://we.sharechat.com/careers)
 ###  [Shell](https://www.shell.com/careers.html)
