@@ -503,7 +503,6 @@
 ###  [ServiceNow](https://www.servicenow.com/careers.html)  
 ###  [Shaadi.com](https://careers.shaadi.com/)
 ###  [ShareChat](https://sharechat.com/careers)
-###  [ShareChat](https://we.sharechat.com/careers)
 ###  [Shell](https://www.shell.com/careers.html)
 ###  [Shell](https://www.shell.com/careers.html)  
 ###  [Shipsy](https://shipsy.io/career/)
