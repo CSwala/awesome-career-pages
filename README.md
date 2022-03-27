@@ -578,7 +578,6 @@
 ###  [Uber](https://www.uber.com/us/en/careers/)  
 ###  [Ubique Systems](https://www.ubique-systems.com/ubq-current-opening.php)
 ###  [Ubisoft](https://www.ubisoft.com/en-us/company/careers)
-###  [Ubisoft](https://www.ubisoft.com/en-us/company/careers/working-at-ubisoft)
 ###  [Udaan](https://careers.udaan.com/)    
 ###  [Ultimate software](https://www.ukg.com/careers)
 ###  [Unacadamy](https://unacademy.com/careers)    
