@@ -597,7 +597,6 @@
 ###  [Viasat](https://careers.viasat.com/)  
 ###  [Vicara](https://vicara.ch/careers/)
 ###  [Visa](https://www.visa.co.in/careers.html)
-###  [VMware](https://careers.vmware.com/main/)
 ###  [Vmware](https://careers.vmware.com/main/)  
 ###  [Vogo](https://vogo.in/careers/)
 ###  [Vogo](https://vogo.in/careers/)
