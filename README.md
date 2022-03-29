@@ -599,7 +599,6 @@
 ###  [Visa](https://www.visa.co.in/careers.html)
 ###  [Vmware](https://careers.vmware.com/main/)  
 ###  [Vogo](https://vogo.in/careers/)
-###  [Vogo](https://vogo.in/careers/)
 ###  [Vokal](https://www.vokal.io/careers)
 ###  [Vsoft](https://www.vfirst.com/join-the-joy)
 
