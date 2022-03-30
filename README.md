@@ -603,7 +603,6 @@
 ###  [Vsoft](https://www.vfirst.com/join-the-joy)
 
 ###  [Walmart](https://careers.walmart.com/)
-###  [Walmart](https://careers.walmart.com/technology)  
 ###  [Warner Bros.](https://warnermediacareers.com/warner-bros-jobs)
 ###  [Waymo](https://waymo.com/careers/)
 ###  [Wells Fargo](https://www.wellsfargo.com/about/careers/)
