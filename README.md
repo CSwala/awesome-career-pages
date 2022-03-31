@@ -607,7 +607,6 @@
 ###  [Waymo](https://waymo.com/careers/)
 ###  [Wells Fargo](https://www.wellsfargo.com/about/careers/)
 ###  [Wells Fargo](https://www.wellsfargo.com/about/careers/)  
-###  [Western Digital](https://jobs.westerndigital.com/)
 ###  [Western Digital](https://jobs.westerndigital.com/)  
 ###  [Whatfix](https://whatfix.com/careers/)
 ###  [Wipro](https://careers.wipro.com/careers-home/)
