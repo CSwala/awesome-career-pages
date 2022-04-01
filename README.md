@@ -605,7 +605,6 @@
 ###  [Walmart](https://careers.walmart.com/)
 ###  [Warner Bros.](https://warnermediacareers.com/warner-bros-jobs)
 ###  [Waymo](https://waymo.com/careers/)
-###  [Wells Fargo](https://www.wellsfargo.com/about/careers/)
 ###  [Wells Fargo](https://www.wellsfargo.com/about/careers/)  
 ###  [Western Digital](https://jobs.westerndigital.com/)  
 ###  [Whatfix](https://whatfix.com/careers/)
