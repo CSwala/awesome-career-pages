@@ -633,7 +633,7 @@
 ###  [Zerodha](https://careers.zerodha.com/)  
 ###  [Zeta](https://careers.zeta.tech/work-with-us/)
 ###  [ZivaMe](https://careers.zivame.com/)  
-###  [zoho](https://careers.zohocorp.com/jobs/Careers)   
+###  [Zoho](https://careers.zohocorp.com/jobs/Careers)   
 ###  [Zomato](https://www.zomato.com/careers) 
 ###  [Zoom](https://zoom.wd5.myworkdayjobs.com/Zoom)
 ###  [ZoomCar](https://www.zoomcar.com/careers) 
