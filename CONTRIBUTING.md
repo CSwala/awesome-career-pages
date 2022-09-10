@@ -1,9 +1,11 @@
 # Contributing Guildelines
 
-1. 👍🎉 First off, welcome to the project and thanks for taking the time to contribute! 🎉👍
+### 👍🎉 First off, welcome to the project and thanks for taking the time to contribute! 🎉👍
+
    <br>
 
-1.# When contributing to Awesome Career Pages, please first discuss the change you wish to make before making a change.
+#### When contributing to Awesome Career Pages, please first discuss the change you wish to make before making a change.
+
 <br>
 
 ## Before Getting Started!
@@ -41,4 +43,4 @@ For more information, refer to <a href = "https://docs.github.com/en" target = "
 
 ---
 
-1.# **Note**: Always comment and provide apt descriptions wherever necessary for efficient running of the project.
+#### **Note**: Always comment and provide apt descriptions wherever necessary for efficient running of the project.
